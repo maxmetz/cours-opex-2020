@@ -1,0 +1,3702 @@
+"";"typ";"label";"conc"
+"1";"FRG";"wheat (ung)";12,7399998
+"2";"MPW";"milk powder & whey";35,721199
+"3";"FRG";"wheat (ung)";12
+"4";"SFG";"sun flower seed(gr)";13,8449764
+"5";"EHH";"grass silage";19,2999992
+"6";"MPW";"milk powder & whey";7,6191959
+"7";"MPW";"milk powder & whey";24,332531
+"8";"MPW";"milk powder & whey";36,5717583
+"9";"TTS";"soya meal";55,9027786
+"10";"PEE";"maïs wp";11,2599993
+"11";"FRG";"wheat (ung)";12,3999996
+"12";"EHH";"grass silage";25,3799992
+"13";"CNG";"corn gluten";70,8316879
+"14";"MPW";"milk powder & whey";38,2621002
+"15";"FRG";"wheat (ung)";12,2600002
+"16";"CNG";"corn gluten";68,9258728
+"17";"MPW";"milk powder & whey";36,9898567
+"18";"CLZ";"rapeseed(ung)";24,0100002
+"19";"SFG";"sun flower seed(gr)";18,2758617
+"20";"FRG";"wheat (ung)";11,3000002
+"21";"FRG";"wheat (ung)";11,9399996
+"22";"FFS";"full fat soya";39,6351395
+"23";"TTS";"soya meal";54,0478935
+"24";"PEE";"maïs wp";6,98
+"25";"TTS";"soya meal";51,2849159
+"26";"PEE";"maïs wp";7,2800002
+"27";"SFG";"sun flower seed(gr)";19,9113846
+"28";"CNG";"corn gluten";72,0280075
+"29";"CLZ";"rapeseed(ung)";19,9799995
+"30";"MPW";"milk powder & whey";20,4354706
+"31";"SFG";"sun flower seed(gr)";15,2621441
+"32";"FFS";"full fat soya";40,5859451
+"33";"FRG";"wheat (ung)";10,46
+"34";"FRG";"wheat (ung)";11,3999996
+"35";"CLZ";"rapeseed(ung)";15,1700001
+"36";"PEE";"maïs wp";7,0499997
+"37";"TTS";"soya meal";55,6581993
+"38";"TTS";"soya meal";54,8712196
+"39";"SFG";"sun flower seed(gr)";11,6384878
+"40";"CNG";"corn gluten";67,6844177
+"41";"MPW";"milk powder & whey";23,7887001
+"42";"CNG";"corn gluten";69,1214218
+"43";"SFG";"sun flower seed(gr)";11,3773212
+"44";"EHH";"grass silage";13,8599997
+"45";"SFG";"sun flower seed(gr)";18,4952736
+"46";"FFS";"full fat soya";43,6707077
+"47";"ANF";"animal feed";59,8311157
+"48";"EHH";"grass silage";18,8600006
+"49";"MPW";"milk powder & whey";26,6358585
+"50";"SFG";"sun flower seed(gr)";16,0953465
+"51";"FFS";"full fat soya";37,8767624
+"52";"FFS";"full fat soya";39,1930161
+"53";"EHH";"grass silage";14,8451633
+"54";"PEE";"maïs wp";8,1599998
+"55";"EHH";"grass silage";14,3000002
+"56";"ANF";"animal feed";47,6010818
+"57";"ANF";"animal feed";50,4781494
+"58";"CLZ";"rapeseed(ung)";20,7000008
+"59";"FRG";"wheat (ung)";12,5900002
+"60";"FRG";"wheat (ung)";12,3199997
+"61";"FFS";"full fat soya";41,0585175
+"62";"PEE";"maïs wp";6,0707498
+"63";"SFG";"sun flower seed(gr)";17,2810478
+"64";"EHH";"grass silage";8,9899998
+"65";"EHH";"grass silage";26,5
+"66";"FFS";"full fat soya";40,6651039
+"67";"EHH";"grass silage";16,9299984
+"68";"PEE";"maïs wp";6,4699998
+"69";"CNG";"corn gluten";62,4107399
+"70";"MPW";"milk powder & whey";26,1164894
+"71";"FFS";"full fat soya";40,479023
+"72";"PEE";"maïs wp";6,8000002
+"73";"EHH";"grass silage";16,9099998
+"74";"MPW";"milk powder & whey";37,7736816
+"75";"EHH";"grass silage";20,2199993
+"76";"CNG";"corn gluten";65,8328323
+"77";"CLZ";"rapeseed(ung)";23,1700001
+"78";"MPW";"milk powder & whey";39,1379013
+"79";"CNG";"corn gluten";72,0691223
+"80";"TTS";"soya meal";51,0273972
+"81";"SFG";"sun flower seed(gr)";15,7505827
+"82";"EHH";"grass silage";17,5
+"83";"PEE";"maïs wp";7,1100001
+"84";"FRG";"wheat (ung)";12,6283998
+"85";"SFG";"sun flower seed(gr)";15,310256
+"86";"CLZ";"rapeseed(ung)";23,4668941
+"87";"PEE";"maïs wp";8,8699999
+"88";"ANF";"animal feed";53,7503815
+"89";"TTS";"soya meal";51,4124298
+"90";"MPW";"milk powder & whey";23,4980087
+"91";"EHH";"grass silage";26,8199997
+"92";"SFG";"sun flower seed(gr)";16,7885113
+"93";"CNG";"corn gluten";69,8648605
+"94";"EHH";"grass silage";8,2799997
+"95";"SFG";"sun flower seed(gr)";13,3279333
+"96";"CLZ";"rapeseed(ung)";20,9599991
+"97";"SFG";"sun flower seed(gr)";13,684701
+"98";"TTS";"soya meal";51,968502
+"99";"TTS";"soya meal";54,8098412
+"100";"FFS";"full fat soya";40,0101585
+"101";"FRG";"wheat (ung)";12,2299995
+"102";"EHH";"grass silage";10,2299995
+"103";"SFG";"sun flower seed(gr)";12,8274841
+"104";"PEE";"maïs wp";5,8399997
+"105";"PEE";"maïs wp";9,9199991
+"106";"ANF";"animal feed";54,2215805
+"107";"CLZ";"rapeseed(ung)";19,2000008
+"108";"CNG";"corn gluten";69,2089081
+"109";"SFG";"sun flower seed(gr)";13,1281052
+"110";"EHH";"grass silage";27,2999992
+"111";"SFG";"sun flower seed(gr)";19,5599728
+"112";"CNG";"corn gluten";62,4312859
+"113";"PEE";"maïs wp";5,5799999
+"114";"TTS";"soya meal";53,5550461
+"115";"EHH";"grass silage";18,7270145
+"116";"MPW";"milk powder & whey";14,1667233
+"117";"MPW";"milk powder & whey";38,2739792
+"118";"FFS";"full fat soya";38,6585236
+"119";"CNG";"corn gluten";72,6082458
+"120";"SFG";"sun flower seed(gr)";18,2340374
+"121";"EHH";"grass silage";24,5499992
+"122";"CNG";"corn gluten";67,1863098
+"123";"FFS";"full fat soya";40,3714104
+"124";"FFS";"full fat soya";38,475708
+"125";"MPW";"milk powder & whey";38,170105
+"126";"EHH";"grass silage";16
+"127";"EHH";"grass silage";16,1000004
+"128";"FFS";"full fat soya";41,6589012
+"129";"MPW";"milk powder & whey";37,8566971
+"130";"ANF";"animal feed";53,627636
+"131";"PEE";"maïs wp";9,7099991
+"132";"CLZ";"rapeseed(ung)";16,1700001
+"133";"TTS";"soya meal";53,8121529
+"134";"EHH";"grass silage";14,5500002
+"135";"PEE";"maïs wp";5,6100001
+"136";"FFS";"full fat soya";38,8586464
+"137";"PEE";"maïs wp";7,1899996
+"138";"MPW";"milk powder & whey";36,7429848
+"139";"TTS";"soya meal";53,899086
+"140";"FRG";"wheat (ung)";13,3999996
+"141";"CLZ";"rapeseed(ung)";16,7099991
+"142";"TTS";"soya meal";53,3183327
+"143";"PEE";"maïs wp";6,5402226
+"144";"FFS";"full fat soya";40,4230385
+"145";"CLZ";"rapeseed(ung)";23,0599995
+"146";"TTS";"soya meal";52,3321953
+"147";"SFG";"sun flower seed(gr)";18,0687504
+"148";"PEE";"maïs wp";8,9899998
+"149";"ANF";"animal feed";50,1577415
+"150";"TTS";"soya meal";54,503994
+"151";"CNG";"corn gluten";73,3731461
+"152";"MPW";"milk powder & whey";11,7774782
+"153";"ANF";"animal feed";58,2128067
+"154";"MPW";"milk powder & whey";22,9628448
+"155";"FRG";"wheat (ung)";17,0200005
+"156";"PEE";"maïs wp";7,3400002
+"157";"MPW";"milk powder & whey";40,0379868
+"158";"CLZ";"rapeseed(ung)";18,7000008
+"159";"SFG";"sun flower seed(gr)";15,4861231
+"160";"ANF";"animal feed";55,2551498
+"161";"SFG";"sun flower seed(gr)";11,1557026
+"162";"CNG";"corn gluten";71,8936234
+"163";"CNG";"corn gluten";71,123085
+"164";"CLZ";"rapeseed(ung)";22,3400002
+"165";"SFG";"sun flower seed(gr)";16,6233234
+"166";"EHH";"grass silage";20,2700005
+"167";"EHH";"grass silage";15,2795563
+"168";"FRG";"wheat (ung)";9,29
+"169";"PEE";"maïs wp";9,6799994
+"170";"FRG";"wheat (ung)";11,717
+"171";"FFS";"full fat soya";40,5628967
+"172";"SFG";"sun flower seed(gr)";17,533577
+"173";"CLZ";"rapeseed(ung)";19,6800003
+"174";"FFS";"full fat soya";42,3100929
+"175";"PEE";"maïs wp";8,4799995
+"176";"ANF";"animal feed";51,1583862
+"177";"FRG";"wheat (ung)";12,5
+"178";"CLZ";"rapeseed(ung)";14,1000004
+"179";"PEE";"maïs wp";7,5599999
+"180";"FRG";"wheat (ung)";11,8999996
+"181";"FFS";"full fat soya";40,0244942
+"182";"EHH";"grass silage";10,5900002
+"183";"TTS";"soya meal";52,6497688
+"184";"ANF";"animal feed";56,668602
+"185";"ANF";"animal feed";48,2523499
+"186";"TTS";"soya meal";53,9700813
+"187";"TTS";"soya meal";54,6979866
+"188";"SFG";"sun flower seed(gr)";15,1116514
+"189";"ANF";"animal feed";52,0294914
+"190";"CNG";"corn gluten";64,7752304
+"191";"FRG";"wheat (ung)";12,5
+"192";"ANF";"animal feed";48,6242332
+"193";"SFG";"sun flower seed(gr)";16,1191902
+"194";"TTS";"soya meal";54,9132957
+"195";"FRG";"wheat (ung)";12,5299997
+"196";"CLZ";"rapeseed(ung)";14,4399996
+"197";"PEE";"maïs wp";8,0500002
+"198";"CLZ";"rapeseed(ung)";19,7099991
+"199";"FRG";"wheat (ung)";10,8800001
+"200";"CLZ";"rapeseed(ung)";23,8899994
+"201";"EHH";"grass silage";25,7000008
+"202";"EHH";"grass silage";19,0300007
+"203";"EHH";"grass silage";12,8199997
+"204";"FRG";"wheat (ung)";12,3999996
+"205";"ANF";"animal feed";52,1385193
+"206";"TTS";"soya meal";55,3652992
+"207";"MPW";"milk powder & whey";38,4511871
+"208";"EHH";"grass silage";11,2799997
+"209";"PEE";"maïs wp";6,7199998
+"210";"ANF";"animal feed";57,4571457
+"211";"FRG";"wheat (ung)";15,5
+"212";"CLZ";"rapeseed(ung)";20,9599991
+"213";"CLZ";"rapeseed(ung)";14,81248
+"214";"MPW";"milk powder & whey";26,441431
+"215";"FFS";"full fat soya";40,1445618
+"216";"CNG";"corn gluten";66,4440918
+"217";"CLZ";"rapeseed(ung)";20,8299999
+"218";"EHH";"grass silage";14,4799995
+"219";"MPW";"milk powder & whey";38,4628716
+"220";"PEE";"maïs wp";4,9299998
+"221";"FRG";"wheat (ung)";11,8599997
+"222";"EHH";"grass silage";20,1679993
+"223";"CNG";"corn gluten";68,1438904
+"224";"TTS";"soya meal";52,5842705
+"225";"EHH";"grass silage";17,8299999
+"226";"ANF";"animal feed";52,899437
+"227";"CLZ";"rapeseed(ung)";23,75
+"228";"FFS";"full fat soya";39,5535202
+"229";"PEE";"maïs wp";7,1799998
+"230";"TTS";"soya meal";53,8895187
+"231";"CLZ";"rapeseed(ung)";17,5
+"232";"TTS";"soya meal";54,6605301
+"233";"SFG";"sun flower seed(gr)";16,4276505
+"234";"EHH";"grass silage";15,7200003
+"235";"CLZ";"rapeseed(ung)";17,7399998
+"236";"TTS";"soya meal";54,4647484
+"237";"SFG";"sun flower seed(gr)";22,02812
+"238";"SFG";"sun flower seed(gr)";23,427084
+"239";"SFG";"sun flower seed(gr)";14,6648712
+"240";"MPW";"milk powder & whey";36,8680573
+"241";"MPW";"milk powder & whey";12,2687483
+"242";"MPW";"milk powder & whey";12,6549473
+"243";"PEE";"maïs wp";6,7600002
+"244";"CNG";"corn gluten";70,6842117
+"246";"FFS";"full fat soya";40,3594627
+"247";"EHH";"grass silage";21,9199982
+"248";"SFG";"sun flower seed(gr)";20,103878
+"249";"TTS";"soya meal";53,1214523
+"250";"CLZ";"rapeseed(ung)";20,6599998
+"251";"FRG";"wheat (ung)";12,7700005
+"252";"FRG";"wheat (ung)";11,5900002
+"253";"ANF";"animal feed";52,4209557
+"254";"FRG";"wheat (ung)";11,1499996
+"255";"MPW";"milk powder & whey";22,456255
+"256";"FFS";"full fat soya";39,1315842
+"257";"CNG";"corn gluten";67,7804489
+"258";"PEE";"maïs wp";7,7199998
+"259";"SFG";"sun flower seed(gr)";16,9214191
+"260";"FRG";"wheat (ung)";11,5
+"261";"MPW";"milk powder & whey";11,4531546
+"262";"MPW";"milk powder & whey";13,146204
+"263";"TTS";"soya meal";50,960453
+"264";"SFG";"sun flower seed(gr)";16,5107613
+"265";"FRG";"wheat (ung)";13,6000004
+"266";"EHH";"grass silage";18,2000008
+"267";"FRG";"wheat (ung)";11,2799997
+"268";"PEE";"maïs wp";8,8000002
+"269";"CLZ";"rapeseed(ung)";20,5799999
+"270";"TTS";"soya meal";52,8064117
+"271";"PEE";"maïs wp";7,9199996
+"272";"ANF";"animal feed";56,3374138
+"273";"FFS";"full fat soya";42,2221832
+"274";"ANF";"animal feed";54,0910263
+"275";"PEE";"maïs wp";5,1599998
+"276";"EHH";"grass silage";20,8099995
+"277";"MPW";"milk powder & whey";6,0490475
+"278";"MPW";"milk powder & whey";5,4126296
+"279";"FFS";"full fat soya";41,9462967
+"280";"TTS";"soya meal";53,3333321
+"281";"CLZ";"rapeseed(ung)";22,3799992
+"282";"MPW";"milk powder & whey";22,1040707
+"283";"CNG";"corn gluten";69,8458786
+"284";"SFG";"sun flower seed(gr)";13,5264606
+"285";"CLZ";"rapeseed(ung)";22,2099991
+"286";"SFG";"sun flower seed(gr)";14,4286785
+"287";"SFG";"sun flower seed(gr)";12,6776142
+"288";"EHH";"grass silage";15,1000004
+"289";"MPW";"milk powder & whey";27,7998943
+"290";"CLZ";"rapeseed(ung)";20,9099998
+"291";"MPW";"milk powder & whey";39,2821236
+"292";"SFG";"sun flower seed(gr)";16,0929108
+"293";"PEE";"maïs wp";7,27
+"294";"FRG";"wheat (ung)";11,7600002
+"295";"TTS";"soya meal";56,0414276
+"296";"TTS";"soya meal";55,8926506
+"297";"TTS";"soya meal";49,6045189
+"298";"CNG";"corn gluten";76,603981
+"299";"FRG";"wheat (ung)";15,96
+"300";"TTS";"soya meal";50,1474495
+"301";"FRG";"wheat (ung)";10,3999996
+"302";"EHH";"grass silage";11,9799995
+"303";"ANF";"animal feed";53,9289436
+"304";"FFS";"full fat soya";41,8060684
+"305";"SFG";"sun flower seed(gr)";20,289381
+"306";"MPW";"milk powder & whey";11,7771349
+"307";"TTS";"soya meal";50,3370781
+"308";"EHH";"grass silage";27,4599991
+"309";"SFG";"sun flower seed(gr)";20,9371834
+"310";"TTS";"soya meal";52,1934738
+"311";"ANF";"animal feed";51,0756073
+"312";"FRG";"wheat (ung)";12,6300001
+"313";"EHH";"grass silage";14,7399998
+"314";"TTS";"soya meal";54,5050049
+"315";"FFS";"full fat soya";40,3092613
+"316";"PEE";"maïs wp";6,9000001
+"317";"CNG";"corn gluten";72,1489258
+"318";"FFS";"full fat soya";40,6557655
+"319";"TTS";"soya meal";51,0204086
+"320";"SFG";"sun flower seed(gr)";15,1913176
+"321";"ANF";"animal feed";50,0882912
+"322";"SFG";"sun flower seed(gr)";13,0227327
+"323";"ANF";"animal feed";52,043045
+"324";"ANF";"animal feed";52,7342949
+"325";"CNG";"corn gluten";71,0346985
+"326";"MPW";"milk powder & whey";30,6820049
+"327";"SFG";"sun flower seed(gr)";22,5649738
+"328";"CLZ";"rapeseed(ung)";15,75
+"329";"TTS";"soya meal";53,0821915
+"330";"MPW";"milk powder & whey";36,5179329
+"331";"EHH";"grass silage";21,7000008
+"332";"FRG";"wheat (ung)";12,9300003
+"333";"SFG";"sun flower seed(gr)";12,99722
+"334";"TTS";"soya meal";53,0963326
+"335";"MPW";"milk powder & whey";11,6658192
+"336";"MPW";"milk powder & whey";7,0147648
+"337";"EHH";"grass silage";28,3999996
+"338";"FRG";"wheat (ung)";12,2299995
+"339";"PEE";"maïs wp";8,4199991
+"340";"PEE";"maïs wp";7,3000002
+"341";"CLZ";"rapeseed(ung)";15,6199999
+"342";"ANF";"animal feed";50,7958641
+"343";"CNG";"corn gluten";66,1050186
+"344";"MPW";"milk powder & whey";11,496376
+"345";"EHH";"grass silage";19,5599995
+"346";"FRG";"wheat (ung)";13,3999996
+"347";"ANF";"animal feed";48,9421349
+"348";"SFG";"sun flower seed(gr)";13,0927057
+"349";"CNG";"corn gluten";69,5816727
+"350";"CNG";"corn gluten";67,2694702
+"351";"CNG";"corn gluten";71,762558
+"352";"TTS";"soya meal";50,4009132
+"353";"ANF";"animal feed";55,5578156
+"354";"CLZ";"rapeseed(ung)";22,2399998
+"355";"SFG";"sun flower seed(gr)";16,160181
+"356";"CNG";"corn gluten";70,7805939
+"357";"CLZ";"rapeseed(ung)";22,2553997
+"358";"SFG";"sun flower seed(gr)";14,6144476
+"359";"EHH";"grass silage";17,5
+"360";"SFG";"sun flower seed(gr)";19,931303
+"361";"CLZ";"rapeseed(ung)";27,2999992
+"362";"FRG";"wheat (ung)";11,0900002
+"363";"SFG";"sun flower seed(gr)";20,683569
+"364";"CNG";"corn gluten";64,5336533
+"365";"FFS";"full fat soya";39,740509
+"366";"CNG";"corn gluten";59,9337082
+"367";"EHH";"grass silage";8,8900003
+"368";"TTS";"soya meal";53,1843567
+"369";"SFG";"sun flower seed(gr)";15,1713572
+"370";"FRG";"wheat (ung)";12,6000004
+"371";"EHH";"grass silage";11,46
+"372";"EHH";"grass silage";14,8100004
+"373";"EHH";"grass silage";10,8199997
+"374";"EHH";"grass silage";7,73
+"375";"EHH";"grass silage";17,5900002
+"376";"MPW";"milk powder & whey";37,1470604
+"377";"TTS";"soya meal";55,0499458
+"378";"CLZ";"rapeseed(ung)";20,1499996
+"379";"FFS";"full fat soya";40,7443581
+"380";"MPW";"milk powder & whey";27,9054089
+"381";"CLZ";"rapeseed(ung)";19,2199993
+"382";"CNG";"corn gluten";68,4667969
+"383";"MPW";"milk powder & whey";10,9728432
+"384";"CLZ";"rapeseed(ung)";17,0599995
+"385";"SFG";"sun flower seed(gr)";18,3719425
+"386";"ANF";"animal feed";46,627636
+"387";"SFG";"sun flower seed(gr)";19,2767353
+"388";"MPW";"milk powder & whey";12,5528431
+"389";"CLZ";"rapeseed(ung)";25,2460003
+"390";"CNG";"corn gluten";66,6188278
+"391";"CLZ";"rapeseed(ung)";16,9772053
+"392";"CNG";"corn gluten";68,8681335
+"393";"FRG";"wheat (ung)";11,6000004
+"394";"FRG";"wheat (ung)";11,9049997
+"395";"MPW";"milk powder & whey";13,1788101
+"396";"ANF";"animal feed";46,3538857
+"397";"FFS";"full fat soya";38,9453697
+"398";"SFG";"sun flower seed(gr)";17,982151
+"399";"MPW";"milk powder & whey";21,9185352
+"400";"SFG";"sun flower seed(gr)";11,9454193
+"401";"CLZ";"rapeseed(ung)";21,2000008
+"402";"CNG";"corn gluten";72,3178711
+"403";"FFS";"full fat soya";40,2407455
+"404";"ANF";"animal feed";51,3698387
+"405";"TTS";"soya meal";50,5580368
+"406";"TTS";"soya meal";51,4908257
+"407";"TTS";"soya meal";51,9640846
+"408";"ANF";"animal feed";53,0169945
+"409";"TTS";"soya meal";55,056179
+"410";"FRG";"wheat (ung)";12,8100004
+"411";"MPW";"milk powder & whey";24,6180191
+"412";"EHH";"grass silage";13,04
+"413";"FFS";"full fat soya";39,749176
+"414";"SFG";"sun flower seed(gr)";14,2733688
+"415";"MPW";"milk powder & whey";5,4642477
+"416";"EHH";"grass silage";10,3199997
+"417";"FRG";"wheat (ung)";12,0699997
+"418";"EHH";"grass silage";11,4099998
+"419";"ANF";"animal feed";48,550106
+"420";"FFS";"full fat soya";40,6221657
+"421";"PEE";"maïs wp";6,5900002
+"422";"PEE";"maïs wp";7,7399998
+"423";"CNG";"corn gluten";69,6612854
+"424";"TTS";"soya meal";52,4027443
+"425";"CNG";"corn gluten";74,7222672
+"426";"TTS";"soya meal";52,9209595
+"427";"FRG";"wheat (ung)";12,0066671
+"428";"CNG";"corn gluten";68,4970169
+"429";"TTS";"soya meal";53,9071312
+"430";"ANF";"animal feed";52,7840424
+"431";"TTS";"soya meal";53,8121529
+"432";"PEE";"maïs wp";7,6100001
+"433";"TTS";"soya meal";56,3428574
+"434";"ANF";"animal feed";57,2430725
+"435";"PEE";"maïs wp";8,0100002
+"436";"MPW";"milk powder & whey";38,5752106
+"437";"FRG";"wheat (ung)";12,6000004
+"438";"PEE";"maïs wp";5,2399998
+"439";"FRG";"wheat (ung)";12,1750002
+"440";"PEE";"maïs wp";6,3400002
+"441";"SFG";"sun flower seed(gr)";11,0858812
+"442";"EHH";"grass silage";25,0599995
+"443";"CLZ";"rapeseed(ung)";20,1800003
+"444";"CNG";"corn gluten";64,790657
+"445";"FFS";"full fat soya";41,6196632
+"446";"SFG";"sun flower seed(gr)";17,6062698
+"447";"FFS";"full fat soya";42,0426712
+"448";"ANF";"animal feed";53,3548546
+"449";"FFS";"full fat soya";44,0557365
+"450";"MPW";"milk powder & whey";11,8753757
+"451";"SFG";"sun flower seed(gr)";15,273551
+"452";"FFS";"full fat soya";40,343956
+"453";"PEE";"maïs wp";6,4199996
+"454";"SFG";"sun flower seed(gr)";17,9894943
+"455";"EHH";"grass silage";14,9399996
+"456";"CLZ";"rapeseed(ung)";28,1499996
+"457";"EHH";"grass silage";18,9200001
+"458";"ANF";"animal feed";53,3266907
+"459";"EHH";"grass silage";19,5199986
+"460";"MPW";"milk powder & whey";13,4520359
+"461";"CLZ";"rapeseed(ung)";20,1399994
+"462";"EHH";"grass silage";14,4699993
+"463";"MPW";"milk powder & whey";26,0281792
+"464";"FRG";"wheat (ung)";11,3800001
+"465";"FRG";"wheat (ung)";11,1099997
+"466";"EHH";"grass silage";11,3599997
+"467";"CNG";"corn gluten";65,932457
+"468";"ANF";"animal feed";51,3801003
+"469";"MPW";"milk powder & whey";25,4054413
+"470";"SFG";"sun flower seed(gr)";14,8962641
+"471";"TTS";"soya meal";51,4840202
+"472";"FFS";"full fat soya";43,1171036
+"473";"MPW";"milk powder & whey";27,4020748
+"474";"MPW";"milk powder & whey";38,6894226
+"475";"PEE";"maïs wp";9,3999996
+"476";"CNG";"corn gluten";64,6411362
+"477";"ANF";"animal feed";56,8746758
+"478";"MPW";"milk powder & whey";5,3464599
+"479";"MPW";"milk powder & whey";10,8003235
+"480";"SFG";"sun flower seed(gr)";14,025423
+"481";"ANF";"animal feed";49,7316322
+"482";"TTS";"soya meal";54,9199066
+"483";"MPW";"milk powder & whey";38,7130318
+"484";"SFG";"sun flower seed(gr)";21,6715984
+"485";"SFG";"sun flower seed(gr)";19,4695206
+"486";"MPW";"milk powder & whey";12,4551764
+"487";"FFS";"full fat soya";40,0605965
+"488";"TTS";"soya meal";48,0136223
+"489";"MPW";"milk powder & whey";22,5860367
+"490";"EHH";"grass silage";15,7799997
+"491";"ANF";"animal feed";54,4800034
+"492";"MPW";"milk powder & whey";7,1649027
+"493";"SFG";"sun flower seed(gr)";16,5466671
+"494";"FRG";"wheat (ung)";11,3999996
+"495";"EHH";"grass silage";14,1300001
+"496";"SFG";"sun flower seed(gr)";16,9521523
+"497";"FFS";"full fat soya";45,6005974
+"498";"MPW";"milk powder & whey";27,01408
+"499";"SFG";"sun flower seed(gr)";21,4304962
+"500";"PEE";"maïs wp";6,0300002
+"501";"SFG";"sun flower seed(gr)";17,7986603
+"502";"FRG";"wheat (ung)";9,6529999
+"503";"CLZ";"rapeseed(ung)";21,9899998
+"504";"MPW";"milk powder & whey";5,3411469
+"505";"CNG";"corn gluten";69,9498215
+"506";"PEE";"maïs wp";7,8599997
+"508";"SFG";"sun flower seed(gr)";14,1178093
+"509";"FFS";"full fat soya";41,8192139
+"510";"SFG";"sun flower seed(gr)";16,4218502
+"511";"FFS";"full fat soya";38,3453331
+"512";"SFG";"sun flower seed(gr)";14,9142609
+"513";"SFG";"sun flower seed(gr)";18,4717712
+"514";"FFS";"full fat soya";46,9571648
+"515";"PEE";"maïs wp";7,1300001
+"516";"SFG";"sun flower seed(gr)";14,3105545
+"517";"TTS";"soya meal";52,3917961
+"518";"PEE";"maïs wp";5,8200002
+"519";"PEE";"maïs wp";7,3599997
+"520";"CLZ";"rapeseed(ung)";20,9149284
+"521";"MPW";"milk powder & whey";12,7920294
+"522";"CLZ";"rapeseed(ung)";25,6399994
+"523";"MPW";"milk powder & whey";38,125
+"524";"CNG";"corn gluten";66,5961151
+"525";"EHH";"grass silage";17,9799995
+"526";"CNG";"corn gluten";74,9751434
+"527";"FFS";"full fat soya";39,876091
+"528";"CLZ";"rapeseed(ung)";18,9500008
+"529";"SFG";"sun flower seed(gr)";16,7595024
+"530";"FRG";"wheat (ung)";10,7999992
+"531";"FFS";"full fat soya";45,9093666
+"532";"MPW";"milk powder & whey";13,8916931
+"533";"EHH";"grass silage";14,3000002
+"534";"FRG";"wheat (ung)";13,0699997
+"535";"TTS";"soya meal";52,3917961
+"536";"FFS";"full fat soya";43,7054367
+"537";"CLZ";"rapeseed(ung)";21,3299999
+"538";"PEE";"maïs wp";9,4200001
+"539";"TTS";"soya meal";54,910717
+"540";"EHH";"grass silage";16,4799995
+"541";"EHH";"grass silage";12,7799997
+"542";"FRG";"wheat (ung)";11,1899996
+"543";"EHH";"grass silage";12,3500004
+"544";"FRG";"wheat (ung)";12,6300001
+"545";"FRG";"wheat (ung)";11,71
+"546";"FRG";"wheat (ung)";12,8599997
+"547";"FFS";"full fat soya";41,0887489
+"548";"EHH";"grass silage";10,5
+"549";"FFS";"full fat soya";41,5745087
+"550";"CNG";"corn gluten";66,6169128
+"551";"MPW";"milk powder & whey";39,5028877
+"552";"EHH";"grass silage";12,3400002
+"553";"PEE";"maïs wp";7,2600002
+"554";"ANF";"animal feed";53,1381073
+"555";"PEE";"maïs wp";7,2600002
+"556";"FRG";"wheat (ung)";12,5699997
+"557";"FFS";"full fat soya";40,073719
+"558";"FRG";"wheat (ung)";11,4099998
+"559";"FRG";"wheat (ung)";11,6499996
+"560";"EHH";"grass silage";11,8699999
+"562";"EHH";"grass silage";17,5799999
+"563";"TTS";"soya meal";54,8974915
+"564";"SFG";"sun flower seed(gr)";20,5461311
+"565";"MPW";"milk powder & whey";33,2951775
+"566";"FRG";"wheat (ung)";9,9399996
+"567";"EHH";"grass silage";13,29
+"568";"TTS";"soya meal";53,9700813
+"569";"FFS";"full fat soya";40,7726059
+"570";"ANF";"animal feed";49,7360458
+"571";"SFG";"sun flower seed(gr)";16,9747105
+"572";"CLZ";"rapeseed(ung)";19,9200001
+"573";"CLZ";"rapeseed(ung)";22,3999996
+"574";"ANF";"animal feed";53,8257942
+"575";"ANF";"animal feed";56,2523232
+"576";"FFS";"full fat soya";39,4136963
+"577";"FRG";"wheat (ung)";11,5999994
+"578";"FFS";"full fat soya";41,5658646
+"579";"CNG";"corn gluten";65,6515961
+"580";"FRG";"wheat (ung)";12,79
+"581";"ANF";"animal feed";59,4088898
+"582";"CLZ";"rapeseed(ung)";24,5021
+"584";"CLZ";"rapeseed(ung)";21,7800007
+"585";"CLZ";"rapeseed(ung)";16,4899998
+"586";"CNG";"corn gluten";66,053894
+"587";"TTS";"soya meal";53,8895187
+"588";"SFG";"sun flower seed(gr)";17,9737644
+"589";"CNG";"corn gluten";64,0164642
+"590";"CNG";"corn gluten";67,116478
+"591";"PEE";"maïs wp";10,3900003
+"592";"CLZ";"rapeseed(ung)";22,4400005
+"593";"MPW";"milk powder & whey";12,3762169
+"594";"ANF";"animal feed";49,9328346
+"595";"PEE";"maïs wp";8,2200003
+"596";"PEE";"maïs wp";8,5600004
+"597";"EHH";"grass silage";14,8800001
+"598";"TTS";"soya meal";52,3321953
+"599";"MPW";"milk powder & whey";10,1712389
+"600";"CNG";"corn gluten";62,7882233
+"601";"CLZ";"rapeseed(ung)";19,6000004
+"602";"SFG";"sun flower seed(gr)";15,3534155
+"603";"ANF";"animal feed";59,1429253
+"604";"CLZ";"rapeseed(ung)";20,9500008
+"605";"CNG";"corn gluten";67,0460968
+"606";"CNG";"corn gluten";66,3294601
+"608";"SFG";"sun flower seed(gr)";12,9549923
+"610";"MPW";"milk powder & whey";11,5366812
+"611";"FRG";"wheat (ung)";11,5
+"612";"SFG";"sun flower seed(gr)";14,3400059
+"613";"FRG";"wheat (ung)";11,8999996
+"614";"CNG";"corn gluten";64,2354584
+"615";"CNG";"corn gluten";74,1804352
+"616";"ANF";"animal feed";55,2365646
+"617";"CNG";"corn gluten";69,8161163
+"618";"CLZ";"rapeseed(ung)";18,9200001
+"619";"FRG";"wheat (ung)";11,9949999
+"620";"CLZ";"rapeseed(ung)";19,6499996
+"621";"FFS";"full fat soya";39,7515755
+"622";"FRG";"wheat (ung)";10,2399998
+"623";"CNG";"corn gluten";68,383316
+"624";"FFS";"full fat soya";40,8975449
+"625";"FFS";"full fat soya";39,268856
+"626";"PEE";"maïs wp";7,3699999
+"627";"MPW";"milk powder & whey";40,0251617
+"628";"TTS";"soya meal";51,5050201
+"629";"PEE";"maïs wp";6,8200002
+"630";"FRG";"wheat (ung)";12,5
+"631";"ANF";"animal feed";54,097271
+"632";"SFG";"sun flower seed(gr)";12,3150187
+"633";"FRG";"wheat (ung)";11,1999998
+"634";"ANF";"animal feed";50,7119675
+"635";"CNG";"corn gluten";65,6708145
+"636";"ANF";"animal feed";52,6118355
+"637";"MPW";"milk powder & whey";24,0163937
+"638";"FFS";"full fat soya";43,1500168
+"639";"FFS";"full fat soya";42,9504662
+"640";"SFG";"sun flower seed(gr)";14,791317
+"641";"FRG";"wheat (ung)";12,1599998
+"642";"TTS";"soya meal";53,485714
+"643";"FFS";"full fat soya";45,2348671
+"644";"CNG";"corn gluten";75,4008255
+"645";"CNG";"corn gluten";68,0404816
+"646";"FFS";"full fat soya";39,868351
+"647";"FFS";"full fat soya";39,5072632
+"648";"FRG";"wheat (ung)";11,0699997
+"649";"EHH";"grass silage";14,3299999
+"650";"CLZ";"rapeseed(ung)";22,4099998
+"651";"FRG";"wheat (ung)";11,1899996
+"652";"EHH";"grass silage";12,0299997
+"653";"TTS";"soya meal";52,2779007
+"654";"PEE";"maïs wp";7,1060309
+"655";"SFG";"sun flower seed(gr)";13,0969229
+"656";"TTS";"soya meal";52,7459946
+"657";"CLZ";"rapeseed(ung)";22,7000008
+"658";"PEE";"maïs wp";10,04
+"659";"CNG";"corn gluten";70,4549179
+"660";"MPW";"milk powder & whey";13,6896906
+"661";"PEE";"maïs wp";6,8499999
+"662";"EHH";"grass silage";14,1999998
+"663";"MPW";"milk powder & whey";10,6128006
+"664";"SFG";"sun flower seed(gr)";16,3194599
+"665";"ANF";"animal feed";55,7631912
+"666";"CLZ";"rapeseed(ung)";19,3500004
+"667";"MPW";"milk powder & whey";37,0686836
+"668";"PEE";"maïs wp";9,0499992
+"669";"ANF";"animal feed";52,2460632
+"670";"SFG";"sun flower seed(gr)";21,5057716
+"671";"CNG";"corn gluten";69,3350906
+"672";"MPW";"milk powder & whey";12,8983011
+"673";"FFS";"full fat soya";41,5507469
+"674";"MPW";"milk powder & whey";38,0312729
+"675";"CNG";"corn gluten";65,196228
+"676";"CLZ";"rapeseed(ung)";18,9299984
+"677";"TTS";"soya meal";53,8724365
+"678";"SFG";"sun flower seed(gr)";14,7221107
+"679";"EHH";"grass silage";13,8000002
+"680";"EHH";"grass silage";10,5699997
+"681";"MPW";"milk powder & whey";38,8932762
+"682";"MPW";"milk powder & whey";25,8213367
+"683";"CLZ";"rapeseed(ung)";26,6299992
+"684";"FRG";"wheat (ung)";12,3100004
+"685";"EHH";"grass silage";18,75
+"686";"MPW";"milk powder & whey";37,2423286
+"687";"ANF";"animal feed";47,5631714
+"688";"FRG";"wheat (ung)";12,25
+"689";"FRG";"wheat (ung)";11,2999992
+"690";"PEE";"maïs wp";8,8100004
+"691";"ANF";"animal feed";59,7293892
+"692";"PEE";"maïs wp";8,79
+"693";"SFG";"sun flower seed(gr)";19,6995697
+"694";"EHH";"grass silage";15,3999996
+"695";"SFG";"sun flower seed(gr)";14,6795921
+"696";"TTS";"soya meal";51,7977524
+"697";"TTS";"soya meal";52,5951576
+"698";"SFG";"sun flower seed(gr)";10,4886084
+"699";"EHH";"grass silage";11,6499996
+"700";"EHH";"grass silage";9,9700003
+"701";"FRG";"wheat (ung)";12,1999998
+"702";"CNG";"corn gluten";75,4907074
+"703";"SFG";"sun flower seed(gr)";19,3177719
+"704";"FRG";"wheat (ung)";13,4269991
+"705";"FFS";"full fat soya";40,4377785
+"706";"ANF";"animal feed";57,3992043
+"707";"SFG";"sun flower seed(gr)";13,0806398
+"708";"FFS";"full fat soya";39,8940582
+"709";"CNG";"corn gluten";62,24263
+"710";"MPW";"milk powder & whey";22,8027878
+"712";"CLZ";"rapeseed(ung)";17,6000004
+"713";"TTS";"soya meal";47,5917435
+"714";"TTS";"soya meal";48,8452682
+"715";"MPW";"milk powder & whey";37,5609818
+"716";"FRG";"wheat (ung)";12,5500002
+"717";"TTS";"soya meal";53,7795105
+"718";"FRG";"wheat (ung)";12,2999992
+"719";"CLZ";"rapeseed(ung)";18,8799992
+"720";"CNG";"corn gluten";62,1658936
+"721";"EHH";"grass silage";5,5900002
+"722";"EHH";"grass silage";7,6300001
+"723";"MPW";"milk powder & whey";37,3248749
+"724";"FRG";"wheat (ung)";11,5600004
+"725";"CLZ";"rapeseed(ung)";19,0100002
+"726";"FRG";"wheat (ung)";12,6000004
+"727";"CNG";"corn gluten";66,1656113
+"728";"FRG";"wheat (ung)";13,5999994
+"729";"MPW";"milk powder & whey";38,0004158
+"730";"CLZ";"rapeseed(ung)";19,0900002
+"731";"FFS";"full fat soya";36,3792534
+"732";"TTS";"soya meal";54,1905861
+"733";"CLZ";"rapeseed(ung)";16,2000008
+"734";"FFS";"full fat soya";40,6517334
+"735";"CNG";"corn gluten";65,9732971
+"736";"PEE";"maïs wp";8,9499998
+"737";"EHH";"grass silage";17,8999996
+"738";"SFG";"sun flower seed(gr)";14,447567
+"739";"TTS";"soya meal";54,3454323
+"740";"TTS";"soya meal";52,2883301
+"741";"ANF";"animal feed";50,0635185
+"742";"MPW";"milk powder & whey";23,8990746
+"743";"PEE";"maïs wp";5,77
+"744";"FFS";"full fat soya";42,0403709
+"745";"TTS";"soya meal";56,6820259
+"746";"SFG";"sun flower seed(gr)";15,8876772
+"747";"CNG";"corn gluten";68,5294418
+"748";"TTS";"soya meal";49,5485344
+"749";"EHH";"grass silage";15,9399996
+"750";"SFG";"sun flower seed(gr)";21,0237274
+"751";"CLZ";"rapeseed(ung)";20,3600006
+"752";"CNG";"corn gluten";62,3791351
+"753";"MPW";"milk powder & whey";37,1704369
+"754";"MPW";"milk powder & whey";14,4700317
+"755";"TTS";"soya meal";54,926384
+"756";"SFG";"sun flower seed(gr)";11,4379139
+"757";"ANF";"animal feed";48,2015381
+"758";"CLZ";"rapeseed(ung)";22,3959427
+"759";"FRG";"wheat (ung)";14,1000004
+"760";"ANF";"animal feed";51,0935593
+"761";"TTS";"soya meal";54,4520569
+"762";"SFG";"sun flower seed(gr)";17,4115467
+"763";"TTS";"soya meal";52,6018105
+"764";"SFG";"sun flower seed(gr)";17,5032673
+"765";"TTS";"soya meal";51,7795639
+"766";"SFG";"sun flower seed(gr)";18,1186676
+"767";"TTS";"soya meal";51,0783195
+"768";"MPW";"milk powder & whey";35,9734535
+"769";"FFS";"full fat soya";40,6381111
+"770";"PEE";"maïs wp";6,6199999
+"771";"FRG";"wheat (ung)";12,46
+"772";"MPW";"milk powder & whey";5,1135402
+"773";"EHH";"grass silage";16,8299999
+"774";"FRG";"wheat (ung)";12,5
+"775";"TTS";"soya meal";51,3574638
+"776";"ANF";"animal feed";46,0873756
+"777";"FFS";"full fat soya";39,6865005
+"778";"EHH";"grass silage";26,2900009
+"779";"CLZ";"rapeseed(ung)";23,8246002
+"780";"FFS";"full fat soya";40,3308067
+"781";"MPW";"milk powder & whey";24,4033279
+"782";"EHH";"grass silage";18,0100002
+"783";"TTS";"soya meal";50,2227173
+"784";"TTS";"soya meal";52,7459946
+"785";"FFS";"full fat soya";43,0665245
+"786";"ANF";"animal feed";54,6459846
+"787";"PEE";"maïs wp";7,6300001
+"788";"CLZ";"rapeseed(ung)";16,9899998
+"789";"FRG";"wheat (ung)";10,8599997
+"791";"FFS";"full fat soya";39,4650993
+"792";"CLZ";"rapeseed(ung)";17,5599995
+"793";"CNG";"corn gluten";63,2387505
+"794";"TTS";"soya meal";54,420208
+"795";"CLZ";"rapeseed(ung)";24,4799995
+"796";"EHH";"grass silage";10,0200005
+"798";"EHH";"grass silage";6,04
+"799";"FRG";"wheat (ung)";13,21
+"800";"ANF";"animal feed";57,7176476
+"801";"FRG";"wheat (ung)";13,0999994
+"802";"CNG";"corn gluten";67,2663879
+"803";"FFS";"full fat soya";39,5931511
+"804";"EHH";"grass silage";26,0400009
+"805";"TTS";"soya meal";53,2293968
+"806";"CLZ";"rapeseed(ung)";21,8999996
+"807";"ANF";"animal feed";53,0239563
+"808";"FFS";"full fat soya";39,0554199
+"809";"CNG";"corn gluten";68,3551559
+"810";"FFS";"full fat soya";39,4129219
+"811";"CLZ";"rapeseed(ung)";23,7000008
+"812";"CNG";"corn gluten";70,3251038
+"813";"ANF";"animal feed";58,4318924
+"814";"MPW";"milk powder & whey";13,0371504
+"815";"SFG";"sun flower seed(gr)";13,2830973
+"816";"FRG";"wheat (ung)";12,3000002
+"817";"EHH";"grass silage";8,6000004
+"818";"CLZ";"rapeseed(ung)";18,5499992
+"819";"ANF";"animal feed";53,7811737
+"820";"ANF";"animal feed";55,5043106
+"821";"CNG";"corn gluten";67,3839569
+"822";"TTS";"soya meal";51,2643661
+"823";"FRG";"wheat (ung)";13,29
+"824";"SFG";"sun flower seed(gr)";21,5509758
+"826";"FRG";"wheat (ung)";10,5273066
+"827";"FRG";"wheat (ung)";12,4200001
+"828";"PEE";"maïs wp";7,8400002
+"829";"ANF";"animal feed";51,1266098
+"830";"EHH";"grass silage";20
+"831";"FFS";"full fat soya";38,706131
+"832";"PEE";"maïs wp";7,9299998
+"833";"SFG";"sun flower seed(gr)";12,710104
+"834";"FFS";"full fat soya";40,930172
+"835";"ANF";"animal feed";50,8789101
+"836";"ANF";"animal feed";55,583519
+"837";"SFG";"sun flower seed(gr)";22,7646084
+"838";"TTS";"soya meal";53,0285721
+"839";"FRG";"wheat (ung)";10,2700005
+"840";"CNG";"corn gluten";68,6627731
+"841";"FRG";"wheat (ung)";12,1999998
+"842";"FFS";"full fat soya";41,6071129
+"843";"PEE";"maïs wp";9,7599993
+"844";"SFG";"sun flower seed(gr)";15,3301964
+"845";"FFS";"full fat soya";39,6109734
+"846";"PEE";"maïs wp";5,8899999
+"847";"MPW";"milk powder & whey";38,9439964
+"848";"TTS";"soya meal";49,8277855
+"849";"ANF";"animal feed";58,3192787
+"850";"CNG";"corn gluten";67,6064224
+"851";"CLZ";"rapeseed(ung)";18,9699993
+"852";"MPW";"milk powder & whey";38,4354553
+"853";"PEE";"maïs wp";8,46
+"854";"TTS";"soya meal";52,2883301
+"855";"PEE";"maïs wp";7,54
+"856";"FFS";"full fat soya";40,0091248
+"857";"FRG";"wheat (ung)";10,8999996
+"858";"CNG";"corn gluten";65,2585526
+"859";"CLZ";"rapeseed(ung)";22,4200001
+"860";"ANF";"animal feed";50,7575073
+"861";"CNG";"corn gluten";64,7921906
+"862";"FFS";"full fat soya";41,0709648
+"863";"SFG";"sun flower seed(gr)";15,0009298
+"864";"CNG";"corn gluten";65,9883728
+"865";"ANF";"animal feed";51,2146721
+"866";"CLZ";"rapeseed(ung)";18,3400002
+"867";"FFS";"full fat soya";40,8974037
+"868";"TTS";"soya meal";55,2305946
+"869";"FFS";"full fat soya";46,7363396
+"870";"SFG";"sun flower seed(gr)";17,1064129
+"871";"PEE";"maïs wp";7,21
+"872";"CLZ";"rapeseed(ung)";24,6999989
+"873";"TTS";"soya meal";50,0564957
+"874";"PEE";"maïs wp";7,8699999
+"875";"MPW";"milk powder & whey";35,4333763
+"876";"TTS";"soya meal";50,0567551
+"877";"CLZ";"rapeseed(ung)";25,7000008
+"878";"CNG";"corn gluten";66,1921844
+"879";"PEE";"maïs wp";7,7799997
+"880";"TTS";"soya meal";52,1191292
+"881";"TTS";"soya meal";51,25
+"882";"TTS";"soya meal";58,0645142
+"883";"ANF";"animal feed";58,3325615
+"884";"CNG";"corn gluten";71,3346176
+"885";"PEE";"maïs wp";7,0799999
+"886";"TTS";"soya meal";53,1772575
+"887";"FRG";"wheat (ung)";12,4200001
+"888";"EHH";"grass silage";9,7299995
+"889";"FRG";"wheat (ung)";9,8000002
+"890";"ANF";"animal feed";53,6009064
+"891";"PEE";"maïs wp";10,8199997
+"892";"SFG";"sun flower seed(gr)";14,8450508
+"893";"ANF";"animal feed";53,5962219
+"894";"SFG";"sun flower seed(gr)";16,8126888
+"895";"TTS";"soya meal";55,0808334
+"896";"MPW";"milk powder & whey";13,5498028
+"897";"EHH";"grass silage";17,2600002
+"898";"CLZ";"rapeseed(ung)";23,5599995
+"899";"TTS";"soya meal";54,2857132
+"900";"CNG";"corn gluten";65,9781189
+"901";"TTS";"soya meal";51,363636
+"902";"FRG";"wheat (ung)";11,1000004
+"903";"CNG";"corn gluten";66,8635559
+"904";"FRG";"wheat (ung)";9,1199999
+"905";"SFG";"sun flower seed(gr)";21,9263325
+"906";"FFS";"full fat soya";41,0134659
+"907";"ANF";"animal feed";53,1896172
+"908";"FFS";"full fat soya";42,1492462
+"909";"SFG";"sun flower seed(gr)";15,5116491
+"910";"TTS";"soya meal";53,9792404
+"911";"MPW";"milk powder & whey";37,8452721
+"912";"EHH";"grass silage";9,2299995
+"913";"FFS";"full fat soya";39,5834579
+"914";"TTS";"soya meal";51,2471657
+"915";"FFS";"full fat soya";42,1612434
+"916";"SFG";"sun flower seed(gr)";12,6475334
+"917";"FFS";"full fat soya";47,4723473
+"918";"MPW";"milk powder & whey";24,390173
+"919";"MPW";"milk powder & whey";11,6459494
+"920";"FFS";"full fat soya";38,5196381
+"921";"FRG";"wheat (ung)";13,6000004
+"922";"TTS";"soya meal";52,8344688
+"923";"CLZ";"rapeseed(ung)";19,4899998
+"924";"ANF";"animal feed";56,5279655
+"925";"TTS";"soya meal";50,3694229
+"926";"TTS";"soya meal";55,0691223
+"927";"EHH";"grass silage";20,6000004
+"928";"MPW";"milk powder & whey";25,7194309
+"929";"FRG";"wheat (ung)";13,1700001
+"930";"PEE";"maïs wp";7,54
+"931";"FFS";"full fat soya";39,7798767
+"932";"SFG";"sun flower seed(gr)";13,3479643
+"933";"PEE";"maïs wp";7,9899998
+"934";"CNG";"corn gluten";66,9738693
+"935";"CLZ";"rapeseed(ung)";19,8500004
+"936";"CLZ";"rapeseed(ung)";23,2699986
+"937";"FFS";"full fat soya";39,1945992
+"938";"EHH";"grass silage";12,3199997
+"939";"MPW";"milk powder & whey";11,4435644
+"940";"SFG";"sun flower seed(gr)";18,2280693
+"941";"FFS";"full fat soya";41,1465683
+"942";"TTS";"soya meal";52,7777786
+"943";"FRG";"wheat (ung)";13,5699997
+"944";"TTS";"soya meal";50,9153328
+"945";"TTS";"soya meal";53,7058182
+"946";"TTS";"soya meal";54,7646408
+"947";"ANF";"animal feed";54,3040848
+"948";"FFS";"full fat soya";38,5723648
+"949";"MPW";"milk powder & whey";22,1581936
+"950";"EHH";"grass silage";26,6499996
+"951";"MPW";"milk powder & whey";5,284667
+"952";"EHH";"grass silage";18,9899998
+"954";"PEE";"maïs wp";8,5699997
+"955";"PEE";"maïs wp";8,3999996
+"956";"FRG";"wheat (ung)";13,4799995
+"957";"FFS";"full fat soya";40,410183
+"958";"FFS";"full fat soya";39,6162071
+"959";"TTS";"soya meal";53,4273987
+"960";"TTS";"soya meal";54,9714279
+"961";"CNG";"corn gluten";65,2548981
+"962";"MPW";"milk powder & whey";33,6453438
+"963";"ANF";"animal feed";53,3444824
+"964";"EHH";"grass silage";11,0299997
+"965";"CNG";"corn gluten";66,2512131
+"966";"PEE";"maïs wp";6,29
+"967";"CNG";"corn gluten";64,8080292
+"968";"SFG";"sun flower seed(gr)";25,078331
+"969";"PEE";"maïs wp";7,9784575
+"970";"MPW";"milk powder & whey";35,8267593
+"971";"ANF";"animal feed";54,9650955
+"972";"CNG";"corn gluten";66,3938522
+"974";"FFS";"full fat soya";38,0761223
+"975";"FFS";"full fat soya";45,116291
+"976";"PEE";"maïs wp";6,5999999
+"977";"CLZ";"rapeseed(ung)";22,6000004
+"978";"EHH";"grass silage";14,1199999
+"979";"SFG";"sun flower seed(gr)";11,955698
+"980";"SFG";"sun flower seed(gr)";15,2298136
+"981";"EHH";"grass silage";9,5699997
+"982";"CLZ";"rapeseed(ung)";20,3799992
+"983";"ANF";"animal feed";50,9077682
+"984";"CLZ";"rapeseed(ung)";25,2800007
+"985";"EHH";"grass silage";22,0200005
+"986";"FFS";"full fat soya";39,4619675
+"987";"ANF";"animal feed";52,5565376
+"988";"MPW";"milk powder & whey";24,1989555
+"989";"TTS";"soya meal";53,8461533
+"990";"FFS";"full fat soya";39,9845467
+"991";"SFG";"sun flower seed(gr)";18,0430355
+"992";"PEE";"maïs wp";9,7799997
+"993";"SFG";"sun flower seed(gr)";21,2648354
+"994";"CLZ";"rapeseed(ung)";20,4899998
+"995";"PEE";"maïs wp";9,1299992
+"996";"FRG";"wheat (ung)";12,1999998
+"997";"EHH";"grass silage";11,4799995
+"998";"CLZ";"rapeseed(ung)";21,2700005
+"999";"ANF";"animal feed";49,8403702
+"1001";"FRG";"wheat (ung)";11
+"1002";"FFS";"full fat soya";39,5562439
+"1003";"TTS";"soya meal";52,0501137
+"1004";"TTS";"soya meal";53,0635834
+"1005";"TTS";"soya meal";52,6980476
+"1006";"PEE";"maïs wp";5,6599998
+"1007";"EHH";"grass silage";17,0599995
+"1008";"FFS";"full fat soya";41,5787773
+"1009";"MPW";"milk powder & whey";34,707943
+"1010";"TTS";"soya meal";52,4239044
+"1011";"PEE";"maïs wp";8,3400002
+"1012";"FFS";"full fat soya";38,8083229
+"1014";"SFG";"sun flower seed(gr)";15,4951506
+"1015";"FFS";"full fat soya";39,7682838
+"1016";"EHH";"grass silage";25,9234142
+"1017";"PEE";"maïs wp";7,4699998
+"1018";"PEE";"maïs wp";6,7679572
+"1019";"PEE";"maïs wp";6,1300001
+"1020";"TTS";"soya meal";54,9019623
+"1021";"FFS";"full fat soya";40,0326424
+"1022";"FFS";"full fat soya";37,994278
+"1023";"FRG";"wheat (ung)";13,0900002
+"1024";"PEE";"maïs wp";7,2199998
+"1025";"CLZ";"rapeseed(ung)";21,1499996
+"1026";"EHH";"grass silage";23,4399986
+"1027";"EHH";"grass silage";12,6700001
+"1028";"SFG";"sun flower seed(gr)";15,2629175
+"1029";"FFS";"full fat soya";38,5660934
+"1030";"ANF";"animal feed";53,1605988
+"1031";"FFS";"full fat soya";41,9081192
+"1032";"TTS";"soya meal";50,3972778
+"1033";"PEE";"maïs wp";8,8999996
+"1034";"CNG";"corn gluten";69,6705322
+"1035";"CLZ";"rapeseed(ung)";21,8899994
+"1036";"MPW";"milk powder & whey";38,2021408
+"1037";"TTS";"soya meal";53,7142868
+"1038";"EHH";"grass silage";17,8700008
+"1039";"TTS";"soya meal";49,0417137
+"1040";"TTS";"soya meal";53,8461571
+"1041";"CNG";"corn gluten";64,3942108
+"1042";"FFS";"full fat soya";45,4177818
+"1043";"SFG";"sun flower seed(gr)";13,1135368
+"1044";"PEE";"maïs wp";7,8499999
+"1045";"MPW";"milk powder & whey";10,874608
+"1046";"FFS";"full fat soya";38,3018723
+"1047";"FFS";"full fat soya";39,9253426
+"1048";"EHH";"grass silage";11,8000002
+"1049";"PEE";"maïs wp";12,4399996
+"1050";"CNG";"corn gluten";65,1480255
+"1051";"FFS";"full fat soya";39,5781708
+"1052";"TTS";"soya meal";54,4937401
+"1053";"FRG";"wheat (ung)";13,6700001
+"1054";"FFS";"full fat soya";36,0349541
+"1055";"CNG";"corn gluten";69,4595642
+"1056";"TTS";"soya meal";52,0270271
+"1057";"TTS";"soya meal";53,1214523
+"1058";"FRG";"wheat (ung)";15,0299997
+"1059";"ANF";"animal feed";49,6517487
+"1060";"MPW";"milk powder & whey";12,4462357
+"1061";"CNG";"corn gluten";67,9371262
+"1062";"FRG";"wheat (ung)";11,6099997
+"1063";"CNG";"corn gluten";70,672348
+"1064";"EHH";"grass silage";15,6800003
+"1065";"ANF";"animal feed";50,2536926
+"1066";"FRG";"wheat (ung)";12,46
+"1067";"PEE";"maïs wp";6,3850584
+"1068";"FFS";"full fat soya";39,6255379
+"1069";"FRG";"wheat (ung)";11,5
+"1070";"TTS";"soya meal";47,3081322
+"1072";"FFS";"full fat soya";39,8770065
+"1073";"FRG";"wheat (ung)";12,7299995
+"1074";"PEE";"maïs wp";8,4499998
+"1075";"PEE";"maïs wp";8,0166092
+"1076";"MPW";"milk powder & whey";38,7644119
+"1077";"FFS";"full fat soya";40,8659401
+"1078";"CLZ";"rapeseed(ung)";20,6599998
+"1079";"TTS";"soya meal";56,0810776
+"1080";"PEE";"maïs wp";7,9400001
+"1081";"CNG";"corn gluten";70,6387177
+"1082";"FFS";"full fat soya";37,2498093
+"1083";"ANF";"animal feed";56,1520157
+"1084";"EHH";"grass silage";19,0599995
+"1085";"FFS";"full fat soya";40,2665215
+"1086";"FFS";"full fat soya";40,4688568
+"1087";"CNG";"corn gluten";67,4048462
+"1088";"FFS";"full fat soya";38,0808487
+"1089";"MPW";"milk powder & whey";23,8798561
+"1090";"TTS";"soya meal";51,7714272
+"1091";"MPW";"milk powder & whey";37,3862267
+"1092";"CNG";"corn gluten";69,1518631
+"1093";"FFS";"full fat soya";40,9874954
+"1094";"PEE";"maïs wp";7,8800001
+"1095";"ANF";"animal feed";46,9112587
+"1096";"FRG";"wheat (ung)";11,1000004
+"1097";"FFS";"full fat soya";45,0825424
+"1098";"EHH";"grass silage";12,2799997
+"1099";"MPW";"milk powder & whey";10,8723269
+"1100";"TTS";"soya meal";53,1772575
+"1101";"EHH";"grass silage";12,6400003
+"1102";"MPW";"milk powder & whey";11,9355478
+"1103";"SFG";"sun flower seed(gr)";12,850316
+"1104";"CLZ";"rapeseed(ung)";23,4400005
+"1106";"TTS";"soya meal";54,465271
+"1107";"MPW";"milk powder & whey";26,3187656
+"1108";"SFG";"sun flower seed(gr)";13,4610081
+"1109";"FFS";"full fat soya";40,8167381
+"1110";"FRG";"wheat (ung)";11,8000002
+"1111";"CNG";"corn gluten";72,5933533
+"1112";"PEE";"maïs wp";6,5
+"1113";"TTS";"soya meal";52,4027443
+"1114";"FRG";"wheat (ung)";12,3900003
+"1115";"CLZ";"rapeseed(ung)";24,4699993
+"1116";"FFS";"full fat soya";39,9312744
+"1117";"PEE";"maïs wp";9,29
+"1118";"MPW";"milk powder & whey";38,7973289
+"1119";"SFG";"sun flower seed(gr)";20,6235352
+"1120";"TTS";"soya meal";54,4937401
+"1121";"CLZ";"rapeseed(ung)";19,2299995
+"1122";"CNG";"corn gluten";68,3879166
+"1123";"EHH";"grass silage";19,9299984
+"1124";"CNG";"corn gluten";69,2708359
+"1125";"ANF";"animal feed";51,0766144
+"1126";"EHH";"grass silage";25,7480659
+"1127";"CLZ";"rapeseed(ung)";21,8999996
+"1128";"PEE";"maïs wp";6,0100002
+"1129";"ANF";"animal feed";57,2147751
+"1130";"SFG";"sun flower seed(gr)";13,9191608
+"1131";"EHH";"grass silage";25,1599998
+"1132";"FFS";"full fat soya";39,7040825
+"1133";"MPW";"milk powder & whey";14,2614937
+"1134";"MPW";"milk powder & whey";37,8520584
+"1135";"EHH";"grass silage";18,7599983
+"1136";"FFS";"full fat soya";39,3456116
+"1137";"MPW";"milk powder & whey";37,6967201
+"1138";"FRG";"wheat (ung)";14,6499996
+"1139";"PEE";"maïs wp";7,2999997
+"1140";"FFS";"full fat soya";42,7641373
+"1141";"TTS";"soya meal";53,6585388
+"1142";"FRG";"wheat (ung)";12,5
+"1144";"TTS";"soya meal";52,1142845
+"1145";"FFS";"full fat soya";40,2833061
+"1146";"EHH";"grass silage";13,9200001
+"1147";"CLZ";"rapeseed(ung)";23,1200008
+"1148";"CLZ";"rapeseed(ung)";20,7900009
+"1149";"CNG";"corn gluten";69,3182983
+"1150";"ANF";"animal feed";57,0667381
+"1151";"SFG";"sun flower seed(gr)";21,9539928
+"1152";"CLZ";"rapeseed(ung)";21,8699989
+"1153";"MPW";"milk powder & whey";28,0347824
+"1154";"FRG";"wheat (ung)";12,6999998
+"1155";"ANF";"animal feed";53,9511757
+"1156";"EHH";"grass silage";12,2299995
+"1157";"TTS";"soya meal";52,7497215
+"1158";"FRG";"wheat (ung)";11,8000002
+"1159";"TTS";"soya meal";55,8219185
+"1160";"ANF";"animal feed";46,1647224
+"1161";"SFG";"sun flower seed(gr)";16,6188927
+"1162";"MPW";"milk powder & whey";26,9680672
+"1163";"FFS";"full fat soya";38,6959763
+"1164";"CLZ";"rapeseed(ung)";26,4500008
+"1165";"SFG";"sun flower seed(gr)";18,8859806
+"1166";"MPW";"milk powder & whey";21,7259369
+"1167";"TTS";"soya meal";51,1784515
+"1168";"FRG";"wheat (ung)";13,0500002
+"1169";"TTS";"soya meal";52,5423737
+"1170";"CLZ";"rapeseed(ung)";23,5900002
+"1171";"PEE";"maïs wp";9,1899996
+"1172";"TTS";"soya meal";51,1972656
+"1173";"MPW";"milk powder & whey";10,7225914
+"1174";"SFG";"sun flower seed(gr)";17,2887745
+"1175";"SFG";"sun flower seed(gr)";12,7605162
+"1176";"CNG";"corn gluten";67,0014114
+"1177";"TTS";"soya meal";51,4124298
+"1178";"CLZ";"rapeseed(ung)";21,3999996
+"1179";"FFS";"full fat soya";44,8944168
+"1180";"SFG";"sun flower seed(gr)";18,7903938
+"1181";"ANF";"animal feed";55,1352196
+"1182";"TTS";"soya meal";52,9885063
+"1183";"EHH";"grass silage";9,1000004
+"1184";"SFG";"sun flower seed(gr)";20,2610741
+"1185";"CLZ";"rapeseed(ung)";25,1619053
+"1186";"CNG";"corn gluten";70,1358871
+"1187";"MPW";"milk powder & whey";11,4902277
+"1188";"EHH";"grass silage";14,0799999
+"1189";"ANF";"animal feed";54,0248337
+"1190";"CLZ";"rapeseed(ung)";20,2199993
+"1191";"EHH";"grass silage";13,8299999
+"1192";"ANF";"animal feed";59,0539474
+"1193";"TTS";"soya meal";54,4819565
+"1194";"SFG";"sun flower seed(gr)";15,8788795
+"1195";"FRG";"wheat (ung)";12,0600004
+"1196";"CNG";"corn gluten";65,2980423
+"1197";"MPW";"milk powder & whey";12,3677378
+"1198";"SFG";"sun flower seed(gr)";20,2524204
+"1199";"EHH";"grass silage";10,2799997
+"1200";"CNG";"corn gluten";73,5702286
+"1202";"MPW";"milk powder & whey";22,5673752
+"1203";"TTS";"soya meal";53,6332207
+"1204";"ANF";"animal feed";51,9790459
+"1205";"CNG";"corn gluten";71,2131042
+"1206";"FRG";"wheat (ung)";11,4499998
+"1207";"CNG";"corn gluten";67,3247833
+"1208";"TTS";"soya meal";51,5185585
+"1209";"PEE";"maïs wp";7,3800001
+"1210";"ANF";"animal feed";52,6698685
+"1211";"SFG";"sun flower seed(gr)";22,2173462
+"1212";"SFG";"sun flower seed(gr)";24,8890877
+"1214";"MPW";"milk powder & whey";34,635685
+"1215";"EHH";"grass silage";21,1599998
+"1216";"MPW";"milk powder & whey";36,115921
+"1217";"CNG";"corn gluten";64,0183029
+"1218";"TTS";"soya meal";52,9076424
+"1220";"CLZ";"rapeseed(ung)";20,2600002
+"1221";"PEE";"maïs wp";7,5799999
+"1222";"MPW";"milk powder & whey";11,3941593
+"1223";"CNG";"corn gluten";66,5218658
+"1224";"CLZ";"rapeseed(ung)";17,8600006
+"1225";"CNG";"corn gluten";71,8090057
+"1226";"FFS";"full fat soya";40,8940964
+"1227";"PEE";"maïs wp";7,6700001
+"1228";"ANF";"animal feed";53,6484375
+"1230";"FRG";"wheat (ung)";14,1657
+"1231";"SFG";"sun flower seed(gr)";10,671217
+"1232";"CNG";"corn gluten";75,4802856
+"1233";"FRG";"wheat (ung)";10,8100004
+"1234";"ANF";"animal feed";56,7233963
+"1235";"MPW";"milk powder & whey";39,050293
+"1236";"ANF";"animal feed";50,7003403
+"1237";"CLZ";"rapeseed(ung)";22,1800003
+"1238";"FRG";"wheat (ung)";12,2589998
+"1239";"SFG";"sun flower seed(gr)";20,7013321
+"1240";"FRG";"wheat (ung)";9,6000004
+"1241";"FFS";"full fat soya";44,9372253
+"1242";"PEE";"maïs wp";6,9899998
+"1243";"MPW";"milk powder & whey";25,8317184
+"1244";"FRG";"wheat (ung)";12,4700003
+"1245";"EHH";"grass silage";12,6099997
+"1247";"ANF";"animal feed";51,6579895
+"1248";"CNG";"corn gluten";68,5433502
+"1249";"FRG";"wheat (ung)";12,7200003
+"1251";"PEE";"maïs wp";7,4599996
+"1252";"PEE";"maïs wp";8,1800003
+"1253";"EHH";"grass silage";12,4799995
+"1254";"EHH";"grass silage";28,0599995
+"1255";"FFS";"full fat soya";37,605648
+"1256";"CNG";"corn gluten";66,3894882
+"1257";"SFG";"sun flower seed(gr)";17,2090588
+"1258";"FRG";"wheat (ung)";11,1999998
+"1259";"PEE";"maïs wp";8,0599995
+"1260";"CLZ";"rapeseed(ung)";18,7999992
+"1261";"FRG";"wheat (ung)";12,3000002
+"1262";"SFG";"sun flower seed(gr)";21,9938583
+"1263";"CNG";"corn gluten";70,7227097
+"1264";"ANF";"animal feed";53,820015
+"1265";"ANF";"animal feed";49,7067871
+"1266";"ANF";"animal feed";53,7776108
+"1267";"TTS";"soya meal";51,0783195
+"1268";"FRG";"wheat (ung)";14,8999996
+"1269";"CLZ";"rapeseed(ung)";26,8099995
+"1270";"TTS";"soya meal";52,2573357
+"1271";"MPW";"milk powder & whey";37,022377
+"1272";"EHH";"grass silage";7,0900002
+"1273";"CLZ";"rapeseed(ung)";23,6000004
+"1274";"TTS";"soya meal";55,3571434
+"1276";"TTS";"soya meal";51,6055069
+"1277";"MPW";"milk powder & whey";28,5435677
+"1278";"FFS";"full fat soya";40,1957397
+"1279";"MPW";"milk powder & whey";23,48699
+"1280";"EHH";"grass silage";16,7800007
+"1281";"EHH";"grass silage";7,54
+"1282";"CLZ";"rapeseed(ung)";24,0599995
+"1283";"FRG";"wheat (ung)";11,3500004
+"1284";"FFS";"full fat soya";39,5636063
+"1285";"EHH";"grass silage";10,46
+"1286";"TTS";"soya meal";54,2565269
+"1287";"EHH";"grass silage";16,0599995
+"1288";"TTS";"soya meal";51,5873032
+"1289";"PEE";"maïs wp";6,9299998
+"1290";"ANF";"animal feed";48,8561935
+"1291";"MPW";"milk powder & whey";23,0674076
+"1293";"EHH";"grass silage";18,0400009
+"1294";"CNG";"corn gluten";63,0516701
+"1295";"FFS";"full fat soya";41,6224136
+"1296";"CLZ";"rapeseed(ung)";21,5100002
+"1297";"ANF";"animal feed";54,6994133
+"1298";"SFG";"sun flower seed(gr)";19,0571003
+"1299";"MPW";"milk powder & whey";11,9947195
+"1300";"PEE";"maïs wp";7,0300002
+"1301";"TTS";"soya meal";52,2336769
+"1302";"PEE";"maïs wp";7,7199998
+"1303";"FRG";"wheat (ung)";12,3000002
+"1304";"TTS";"soya meal";51,6778526
+"1305";"FFS";"full fat soya";41,3520355
+"1306";"TTS";"soya meal";55,3386917
+"1307";"MPW";"milk powder & whey";26,0846863
+"1309";"CNG";"corn gluten";63,4356346
+"1310";"CLZ";"rapeseed(ung)";19,9400005
+"1311";"MPW";"milk powder & whey";34,457058
+"1312";"EHH";"grass silage";19,3999996
+"1313";"FFS";"full fat soya";46,7218285
+"1314";"ANF";"animal feed";51,8633461
+"1315";"SFG";"sun flower seed(gr)";20,0016441
+"1316";"CNG";"corn gluten";67,4404526
+"1317";"CLZ";"rapeseed(ung)";23,5
+"1318";"EHH";"grass silage";16,2000008
+"1319";"CNG";"corn gluten";67,2582474
+"1320";"TTS";"soya meal";51,2791977
+"1321";"TTS";"soya meal";52,3489914
+"1322";"EHH";"grass silage";12,6000004
+"1323";"MPW";"milk powder & whey";23,302742
+"1324";"FFS";"full fat soya";41,3753166
+"1325";"FRG";"wheat (ung)";11,4933004
+"1326";"CLZ";"rapeseed(ung)";16,4899998
+"1327";"MPW";"milk powder & whey";26,8017769
+"1328";"EHH";"grass silage";19,8999996
+"1329";"CNG";"corn gluten";66,6182709
+"1330";"FRG";"wheat (ung)";11,8999996
+"1331";"CNG";"corn gluten";60,2844086
+"1332";"MPW";"milk powder & whey";20,5774345
+"1333";"FRG";"wheat (ung)";12,4399996
+"1335";"PEE";"maïs wp";5,9200001
+"1336";"ANF";"animal feed";59,3130493
+"1337";"FFS";"full fat soya";44,1043053
+"1338";"FFS";"full fat soya";37,6627998
+"1339";"FRG";"wheat (ung)";11,0600004
+"1340";"ANF";"animal feed";53,2252693
+"1341";"SFG";"sun flower seed(gr)";15,1309195
+"1342";"SFG";"sun flower seed(gr)";20,8755684
+"1343";"FRG";"wheat (ung)";11,8999996
+"1344";"PEE";"maïs wp";7,3699999
+"1345";"ANF";"animal feed";54,231823
+"1346";"ANF";"animal feed";54,2424164
+"1347";"TTS";"soya meal";53,6332207
+"1348";"TTS";"soya meal";52,0856857
+"1349";"FFS";"full fat soya";39,178196
+"1350";"EHH";"grass silage";17,4699993
+"1351";"CNG";"corn gluten";72,7224197
+"1352";"FFS";"full fat soya";38,8750496
+"1353";"MPW";"milk powder & whey";37,3973808
+"1354";"EHH";"grass silage";8,4099998
+"1355";"ANF";"animal feed";54,3604355
+"1356";"SFG";"sun flower seed(gr)";15,8524151
+"1357";"MPW";"milk powder & whey";19,9528217
+"1358";"PEE";"maïs wp";7,3200002
+"1359";"MPW";"milk powder & whey";11,6719961
+"1360";"EHH";"grass silage";11,6999998
+"1361";"PEE";"maïs wp";8,6599998
+"1362";"FFS";"full fat soya";38,9328842
+"1363";"CLZ";"rapeseed(ung)";21,4699993
+"1364";"TTS";"soya meal";54,3379021
+"1365";"SFG";"sun flower seed(gr)";22,7951813
+"1366";"EHH";"grass silage";12,9799995
+"1367";"TTS";"soya meal";55,7870369
+"1368";"CLZ";"rapeseed(ung)";18,738266
+"1369";"SFG";"sun flower seed(gr)";16,9188232
+"1370";"ANF";"animal feed";50,7986298
+"1371";"CLZ";"rapeseed(ung)";24,6599998
+"1372";"CNG";"corn gluten";65,7112427
+"1373";"TTS";"soya meal";51,8306618
+"1374";"EHH";"grass silage";13,2299995
+"1375";"CNG";"corn gluten";69,7442322
+"1376";"MPW";"milk powder & whey";37,5866814
+"1377";"FFS";"full fat soya";40,2993011
+"1378";"FRG";"wheat (ung)";13,8228235
+"1379";"ANF";"animal feed";51,1379395
+"1380";"SFG";"sun flower seed(gr)";17,5759315
+"1381";"MPW";"milk powder & whey";21,8474445
+"1382";"EHH";"grass silage";12,3000002
+"1383";"MPW";"milk powder & whey";22,6543102
+"1384";"FFS";"full fat soya";38,7661362
+"1385";"PEE";"maïs wp";6,27
+"1386";"FRG";"wheat (ung)";14,5100002
+"1387";"FRG";"wheat (ung)";9,8299999
+"1388";"ANF";"animal feed";54,0290565
+"1389";"FFS";"full fat soya";39,9360962
+"1390";"FFS";"full fat soya";41,1333351
+"1391";"PEE";"maïs wp";7,9699998
+"1392";"PEE";"maïs wp";9,2599993
+"1393";"MPW";"milk powder & whey";4,8928084
+"1394";"PEE";"maïs wp";6,2399998
+"1395";"ANF";"animal feed";54,0325623
+"1396";"FFS";"full fat soya";40,901123
+"1397";"PEE";"maïs wp";7,6199999
+"1398";"ANF";"animal feed";55,2624435
+"1399";"CLZ";"rapeseed(ung)";19,8799992
+"1400";"CNG";"corn gluten";70,2326813
+"1401";"FRG";"wheat (ung)";13,3999996
+"1402";"SFG";"sun flower seed(gr)";13,3211937
+"1403";"MPW";"milk powder & whey";36,9362526
+"1404";"CLZ";"rapeseed(ung)";20,6800003
+"1405";"EHH";"grass silage";24,4200001
+"1406";"TTS";"soya meal";50,7972641
+"1407";"MPW";"milk powder & whey";9,6429119
+"1408";"FRG";"wheat (ung)";12,4110003
+"1409";"CLZ";"rapeseed(ung)";21,4299984
+"1410";"CLZ";"rapeseed(ung)";17,3700008
+"1411";"ANF";"animal feed";51,5280762
+"1412";"EHH";"grass silage";20,8910046
+"1414";"CNG";"corn gluten";69,2894974
+"1415";"CLZ";"rapeseed(ung)";24,2780991
+"1416";"MPW";"milk powder & whey";5,7444458
+"1417";"EHH";"grass silage";14,5
+"1418";"ANF";"animal feed";55,5827026
+"1420";"ANF";"animal feed";56,0865936
+"1421";"EHH";"grass silage";11,2299995
+"1422";"CNG";"corn gluten";69,1247482
+"1423";"SFG";"sun flower seed(gr)";16,9476891
+"1424";"ANF";"animal feed";59,7251625
+"1425";"FRG";"wheat (ung)";12,4300003
+"1426";"ANF";"animal feed";49,5985756
+"1427";"ANF";"animal feed";53,0452995
+"1428";"FFS";"full fat soya";42,3349724
+"1429";"FFS";"full fat soya";42,7627678
+"1430";"FFS";"full fat soya";39,9732475
+"1431";"CLZ";"rapeseed(ung)";23,5699997
+"1432";"ANF";"animal feed";59,369381
+"1433";"EHH";"grass silage";19,2000008
+"1434";"SFG";"sun flower seed(gr)";15,7868338
+"1435";"PEE";"maïs wp";7,3299999
+"1436";"TTS";"soya meal";54,5766563
+"1437";"FFS";"full fat soya";45,2962608
+"1438";"FRG";"wheat (ung)";10,0900002
+"1439";"FFS";"full fat soya";39,2528229
+"1440";"MPW";"milk powder & whey";11,7890024
+"1441";"SFG";"sun flower seed(gr)";13,0191832
+"1442";"FFS";"full fat soya";45,0063057
+"1443";"FFS";"full fat soya";38,9641762
+"1444";"MPW";"milk powder & whey";12,842845
+"1445";"SFG";"sun flower seed(gr)";20,6193027
+"1446";"CLZ";"rapeseed(ung)";17,6000004
+"1447";"FRG";"wheat (ung)";11,8000002
+"1448";"PEE";"maïs wp";8,6199999
+"1449";"CNG";"corn gluten";73,9421463
+"1450";"CNG";"corn gluten";68,0156326
+"1451";"CLZ";"rapeseed(ung)";17,7999992
+"1452";"TTS";"soya meal";52,8604126
+"1453";"TTS";"soya meal";54,4715462
+"1454";"TTS";"soya meal";55,375721
+"1455";"TTS";"soya meal";53,020134
+"1456";"EHH";"grass silage";13,5
+"1457";"FRG";"wheat (ung)";10,1066666
+"1458";"FFS";"full fat soya";36,4511299
+"1459";"MPW";"milk powder & whey";38,1780777
+"1460";"FFS";"full fat soya";39,5411797
+"1461";"PEE";"maïs wp";7,6900001
+"1462";"MPW";"milk powder & whey";34,9812241
+"1463";"TTS";"soya meal";55,1724129
+"1464";"MPW";"milk powder & whey";25,2232952
+"1465";"FFS";"full fat soya";40,2899551
+"1466";"PEE";"maïs wp";8,5100002
+"1467";"CLZ";"rapeseed(ung)";22,7699986
+"1468";"CNG";"corn gluten";70,1568375
+"1469";"PEE";"maïs wp";6,6399999
+"1470";"TTS";"soya meal";53,5260124
+"1471";"TTS";"soya meal";56,2929039
+"1472";"SFG";"sun flower seed(gr)";13,0936441
+"1473";"MPW";"milk powder & whey";36,7770844
+"1474";"PEE";"maïs wp";7,3499999
+"1475";"CNG";"corn gluten";69,5366669
+"1476";"CNG";"corn gluten";62,2402725
+"1477";"CLZ";"rapeseed(ung)";20,3700008
+"1478";"SFG";"sun flower seed(gr)";13,6447735
+"1479";"ANF";"animal feed";53,0482483
+"1480";"CLZ";"rapeseed(ung)";27,1476173
+"1481";"SFG";"sun flower seed(gr)";17,5922031
+"1482";"EHH";"grass silage";20,502039
+"1483";"TTS";"soya meal";53,7585411
+"1485";"ANF";"animal feed";54,2306175
+"1486";"PEE";"maïs wp";7,0999999
+"1487";"PEE";"maïs wp";8,5
+"1488";"TTS";"soya meal";49,5495491
+"1489";"FRG";"wheat (ung)";7,4099998
+"1490";"SFG";"sun flower seed(gr)";18,1731224
+"1491";"TTS";"soya meal";52,7683601
+"1492";"EHH";"grass silage";15,5699997
+"1493";"CLZ";"rapeseed(ung)";27,6100006
+"1494";"MPW";"milk powder & whey";11,0207224
+"1495";"TTS";"soya meal";52,2522507
+"1496";"TTS";"soya meal";54,0945816
+"1497";"TTS";"soya meal";49,043869
+"1498";"CLZ";"rapeseed(ung)";17,4099998
+"1499";"SFG";"sun flower seed(gr)";19,5909958
+"1500";"SFG";"sun flower seed(gr)";14,7249804
+"1501";"CNG";"corn gluten";66,2292633
+"1502";"TTS";"soya meal";54,3379021
+"1503";"PEE";"maïs wp";8,0699997
+"1505";"EHH";"grass silage";14
+"1506";"CLZ";"rapeseed(ung)";23,0115032
+"1508";"MPW";"milk powder & whey";37,9611359
+"1509";"SFG";"sun flower seed(gr)";21,0450039
+"1510";"CLZ";"rapeseed(ung)";17,7600002
+"1511";"CNG";"corn gluten";71,4598083
+"1512";"ANF";"animal feed";52,0559731
+"1513";"SFG";"sun flower seed(gr)";21,870409
+"1514";"CNG";"corn gluten";74,943985
+"1515";"FFS";"full fat soya";40,4298325
+"1516";"CLZ";"rapeseed(ung)";21,3262959
+"1517";"FFS";"full fat soya";39,9484177
+"1518";"EHH";"grass silage";11,5
+"1520";"EHH";"grass silage";8,6999998
+"1521";"MPW";"milk powder & whey";37,4412041
+"1522";"MPW";"milk powder & whey";23,3149109
+"1523";"FRG";"wheat (ung)";9,7309999
+"1524";"TTS";"soya meal";54,710556
+"1525";"FFS";"full fat soya";39,7314262
+"1526";"CNG";"corn gluten";68,6171036
+"1527";"FFS";"full fat soya";39,4849091
+"1528";"FRG";"wheat (ung)";11,5
+"1529";"CNG";"corn gluten";64,067482
+"1530";"ANF";"animal feed";54,2031326
+"1532";"CLZ";"rapeseed(ung)";22,4457397
+"1533";"ANF";"animal feed";53,1701393
+"1534";"CNG";"corn gluten";71,9245605
+"1535";"CNG";"corn gluten";68,551796
+"1536";"FFS";"full fat soya";40,2532768
+"1537";"FRG";"wheat (ung)";11,8000002
+"1538";"EHH";"grass silage";22,4599991
+"1539";"FRG";"wheat (ung)";10,9399996
+"1540";"CLZ";"rapeseed(ung)";21,5
+"1541";"ANF";"animal feed";52,97826
+"1542";"FFS";"full fat soya";36,6605225
+"1543";"CLZ";"rapeseed(ung)";22,9400005
+"1544";"SFG";"sun flower seed(gr)";19,0144234
+"1545";"CNG";"corn gluten";71,0178223
+"1546";"FRG";"wheat (ung)";12,3599997
+"1547";"CLZ";"rapeseed(ung)";17,8799992
+"1548";"TTS";"soya meal";54,8494987
+"1549";"SFG";"sun flower seed(gr)";9,5669813
+"1550";"CLZ";"rapeseed(ung)";21,3199997
+"1551";"CLZ";"rapeseed(ung)";19,4799995
+"1552";"MPW";"milk powder & whey";35,588047
+"1553";"FFS";"full fat soya";42,4539757
+"1554";"TTS";"soya meal";51,6310463
+"1555";"TTS";"soya meal";53,8024979
+"1556";"PEE";"maïs wp";7,5
+"1557";"SFG";"sun flower seed(gr)";21,2694187
+"1558";"FFS";"full fat soya";39,8300972
+"1559";"EHH";"grass silage";16,3999996
+"1560";"CNG";"corn gluten";69,3209076
+"1561";"SFG";"sun flower seed(gr)";15,0182571
+"1562";"PEE";"maïs wp";7,96
+"1563";"FFS";"full fat soya";41,9759064
+"1564";"PEE";"maïs wp";7,5700002
+"1566";"CLZ";"rapeseed(ung)";28,6499996
+"1567";"CLZ";"rapeseed(ung)";23,0400009
+"1568";"FFS";"full fat soya";40,366848
+"1569";"PEE";"maïs wp";8,0200005
+"1570";"SFG";"sun flower seed(gr)";12,3218908
+"1571";"EHH";"grass silage";21,4099998
+"1573";"MPW";"milk powder & whey";37,4047775
+"1574";"FRG";"wheat (ung)";12,3999996
+"1575";"PEE";"maïs wp";7,5300002
+"1576";"EHH";"grass silage";15,8599997
+"1577";"FFS";"full fat soya";39,9233551
+"1578";"PEE";"maïs wp";9,5200005
+"1579";"CNG";"corn gluten";69,003479
+"1580";"SFG";"sun flower seed(gr)";19,1105747
+"1582";"FFS";"full fat soya";40,0083389
+"1583";"MPW";"milk powder & whey";25,711832
+"1584";"CLZ";"rapeseed(ung)";20,8500004
+"1585";"CLZ";"rapeseed(ung)";18,0099983
+"1586";"MPW";"milk powder & whey";24,9885483
+"1587";"ANF";"animal feed";51,0553169
+"1589";"TTS";"soya meal";50,2664909
+"1590";"CNG";"corn gluten";75,4430923
+"1591";"EHH";"grass silage";10,4300003
+"1592";"EHH";"grass silage";12,9300003
+"1593";"FFS";"full fat soya";40,4354515
+"1594";"CNG";"corn gluten";69,3707275
+"1595";"MPW";"milk powder & whey";10,0342455
+"1596";"PEE";"maïs wp";7,7600002
+"1597";"CNG";"corn gluten";69,5071182
+"1598";"ANF";"animal feed";50,7283936
+"1599";"EHH";"grass silage";13,1499996
+"1600";"CLZ";"rapeseed(ung)";15,1599998
+"1602";"FRG";"wheat (ung)";12,1499996
+"1605";"FFS";"full fat soya";41,114933
+"1606";"TTS";"soya meal";55,5428581
+"1607";"PEE";"maïs wp";7,5100002
+"1608";"EHH";"grass silage";16,1100006
+"1609";"TTS";"soya meal";54,7866211
+"1611";"FRG";"wheat (ung)";12,0600004
+"1612";"TTS";"soya meal";53,6529694
+"1613";"CLZ";"rapeseed(ung)";22,3400021
+"1614";"ANF";"animal feed";52,4622917
+"1615";"ANF";"animal feed";59,2426949
+"1616";"SFG";"sun flower seed(gr)";18,3979588
+"1617";"ANF";"animal feed";53,4601059
+"1618";"PEE";"maïs wp";6,1799998
+"1619";"SFG";"sun flower seed(gr)";18,0211277
+"1620";"ANF";"animal feed";55,701767
+"1621";"SFG";"sun flower seed(gr)";19,4264202
+"1622";"FRG";"wheat (ung)";14
+"1623";"FFS";"full fat soya";39,6071053
+"1624";"CNG";"corn gluten";68,6887589
+"1625";"TTS";"soya meal";53,0821915
+"1626";"FRG";"wheat (ung)";12
+"1627";"MPW";"milk powder & whey";23,5681705
+"1628";"SFG";"sun flower seed(gr)";22,6194458
+"1629";"TTS";"soya meal";56,0502281
+"1630";"MPW";"milk powder & whey";11,4058781
+"1631";"MPW";"milk powder & whey";24,4001675
+"1632";"PEE";"maïs wp";7,6999998
+"1633";"FRG";"wheat (ung)";13,1899996
+"1634";"PEE";"maïs wp";6,4499998
+"1635";"FRG";"wheat (ung)";10,6400003
+"1636";"FFS";"full fat soya";40,5058289
+"1637";"SFG";"sun flower seed(gr)";20,2044373
+"1638";"ANF";"animal feed";50,2825966
+"1639";"ANF";"animal feed";55,1765671
+"1640";"CNG";"corn gluten";70,0958633
+"1641";"TTS";"soya meal";53,2332573
+"1642";"FFS";"full fat soya";40,3608055
+"1643";"FRG";"wheat (ung)";13
+"1644";"FRG";"wheat (ung)";13,1999998
+"1645";"TTS";"soya meal";53,21101
+"1646";"PEE";"maïs wp";7,5900002
+"1647";"MPW";"milk powder & whey";38,2374268
+"1648";"PEE";"maïs wp";6,9699998
+"1649";"CNG";"corn gluten";68,8293304
+"1650";"MPW";"milk powder & whey";12,0738516
+"1651";"EHH";"grass silage";17,1900005
+"1652";"PEE";"maïs wp";7,23
+"1653";"EHH";"grass silage";20,8999996
+"1654";"FFS";"full fat soya";38,8795013
+"1655";"CLZ";"rapeseed(ung)";23,1011143
+"1656";"ANF";"animal feed";54,8020287
+"1657";"PEE";"maïs wp";9,8800001
+"1658";"TTS";"soya meal";52,9279251
+"1659";"TTS";"soya meal";54,7234993
+"1660";"EHH";"grass silage";23,2000008
+"1661";"PEE";"maïs wp";8,2299995
+"1662";"FFS";"full fat soya";38,904213
+"1663";"FFS";"full fat soya";39,3337669
+"1664";"ANF";"animal feed";59,1322136
+"1665";"CNG";"corn gluten";73,1628265
+"1666";"PEE";"maïs wp";5,5500002
+"1667";"CLZ";"rapeseed(ung)";21,7999992
+"1669";"TTS";"soya meal";52,838932
+"1670";"MPW";"milk powder & whey";8,2749462
+"1671";"EHH";"grass silage";13,46
+"1672";"CNG";"corn gluten";65,0822449
+"1673";"FRG";"wheat (ung)";12,46
+"1674";"EHH";"grass silage";16,4300003
+"1675";"TTS";"soya meal";52,1640091
+"1676";"PEE";"maïs wp";8,3199997
+"1677";"EHH";"grass silage";16,0699997
+"1678";"TTS";"soya meal";54,0909081
+"1679";"EHH";"grass silage";16,0100002
+"1680";"MPW";"milk powder & whey";11,2730389
+"1682";"TTS";"soya meal";52,0951271
+"1683";"TTS";"soya meal";52,3163834
+"1684";"FFS";"full fat soya";40,0370445
+"1685";"ANF";"animal feed";46,9630394
+"1686";"FRG";"wheat (ung)";11,7200003
+"1687";"PEE";"maïs wp";7,23
+"1688";"CLZ";"rapeseed(ung)";18,8400002
+"1689";"FFS";"full fat soya";40,870182
+"1690";"CNG";"corn gluten";76,5813446
+"1691";"SFG";"sun flower seed(gr)";18,2025852
+"1692";"CLZ";"rapeseed(ung)";18,5400009
+"1693";"CLZ";"rapeseed(ung)";24,2299995
+"1694";"FRG";"wheat (ung)";10,4399996
+"1695";"EHH";"grass silage";7,52
+"1696";"MPW";"milk powder & whey";36,8054314
+"1697";"SFG";"sun flower seed(gr)";13,8324165
+"1698";"CLZ";"rapeseed(ung)";19,1000004
+"1699";"TTS";"soya meal";51,0710258
+"1700";"TTS";"soya meal";50,2242165
+"1701";"FFS";"full fat soya";40,5051956
+"1702";"EHH";"grass silage";13,8999996
+"1703";"FFS";"full fat soya";39,1365395
+"1704";"EHH";"grass silage";32,0600014
+"1705";"EHH";"grass silage";8,9700003
+"1706";"MPW";"milk powder & whey";12,9977789
+"1707";"MPW";"milk powder & whey";35,7245903
+"1708";"ANF";"animal feed";52,5102386
+"1709";"MPW";"milk powder & whey";13,0585546
+"1710";"CNG";"corn gluten";67,134758
+"1711";"FFS";"full fat soya";42,3962402
+"1712";"ANF";"animal feed";55,9218712
+"1713";"EHH";"grass silage";14,0999994
+"1714";"FFS";"full fat soya";40,4520416
+"1715";"CLZ";"rapeseed(ung)";19,1199989
+"1716";"TTS";"soya meal";52,0998878
+"1717";"TTS";"soya meal";52,8344688
+"1718";"TTS";"soya meal";52,578476
+"1719";"FRG";"wheat (ung)";13,8699999
+"1720";"FFS";"full fat soya";41,4583855
+"1721";"FFS";"full fat soya";36,5359306
+"1723";"FRG";"wheat (ung)";12,9700003
+"1724";"EHH";"grass silage";9,7199993
+"1725";"EHH";"grass silage";15,8199997
+"1726";"ANF";"animal feed";54,9716454
+"1727";"ANF";"animal feed";55,8491592
+"1729";"TTS";"soya meal";55,4410057
+"1730";"PEE";"maïs wp";7
+"1731";"SFG";"sun flower seed(gr)";14,702692
+"1732";"ANF";"animal feed";46,9490242
+"1733";"CLZ";"rapeseed(ung)";22,2999992
+"1734";"CNG";"corn gluten";72,3312225
+"1735";"FRG";"wheat (ung)";9,9099998
+"1736";"EHH";"grass silage";18,5
+"1738";"CNG";"corn gluten";67,6817856
+"1739";"FFS";"full fat soya";46,5232506
+"1740";"EHH";"grass silage";16,5699997
+"1741";"CLZ";"rapeseed(ung)";15,9899998
+"1742";"CLZ";"rapeseed(ung)";20,6218281
+"1743";"EHH";"grass silage";16,8799992
+"1744";"MPW";"milk powder & whey";9,5266762
+"1745";"CNG";"corn gluten";69,5331726
+"1746";"FFS";"full fat soya";38,695118
+"1747";"SFG";"sun flower seed(gr)";19,7668285
+"1748";"PEE";"maïs wp";7,2399998
+"1749";"EHH";"grass silage";10,8599997
+"1750";"TTS";"soya meal";52,4404106
+"1751";"ANF";"animal feed";55,516613
+"1752";"TTS";"soya meal";51,5535088
+"1753";"TTS";"soya meal";55,5172424
+"1754";"TTS";"soya meal";52,9680367
+"1755";"CLZ";"rapeseed(ung)";19,5599995
+"1756";"MPW";"milk powder & whey";38,3807907
+"1757";"SFG";"sun flower seed(gr)";12,0087795
+"1758";"TTS";"soya meal";53,6475868
+"1759";"FFS";"full fat soya";41,897644
+"1760";"EHH";"grass silage";20,5100002
+"1761";"CNG";"corn gluten";65,1055069
+"1762";"CNG";"corn gluten";64,26371
+"1763";"CNG";"corn gluten";61,712738
+"1764";"CNG";"corn gluten";64,8369293
+"1765";"EHH";"grass silage";19,4200001
+"1766";"CLZ";"rapeseed(ung)";21,2199993
+"1767";"CNG";"corn gluten";69,9941483
+"1768";"ANF";"animal feed";54,6298752
+"1770";"CNG";"corn gluten";66,4363937
+"1771";"CLZ";"rapeseed(ung)";17,4200001
+"1772";"FRG";"wheat (ung)";11,0200005
+"1773";"FRG";"wheat (ung)";13,8000002
+"1774";"MPW";"milk powder & whey";35,4880028
+"1775";"EHH";"grass silage";11,0699997
+"1776";"EHH";"grass silage";15,8000002
+"1777";"ANF";"animal feed";57,0691109
+"1778";"FRG";"wheat (ung)";12,3999996
+"1779";"CNG";"corn gluten";72,980484
+"1780";"MPW";"milk powder & whey";38,1286392
+"1781";"CLZ";"rapeseed(ung)";24,8299999
+"1782";"EHH";"grass silage";21,8500004
+"1783";"FFS";"full fat soya";40,8181038
+"1784";"FFS";"full fat soya";40,2518501
+"1785";"SFG";"sun flower seed(gr)";14,2264271
+"1786";"EHH";"grass silage";23,1399994
+"1787";"SFG";"sun flower seed(gr)";21,5557804
+"1788";"PEE";"maïs wp";9,6099997
+"1789";"TTS";"soya meal";56,1224518
+"1790";"FRG";"wheat (ung)";11,6000004
+"1791";"MPW";"milk powder & whey";26,9568138
+"1792";"ANF";"animal feed";53,3296738
+"1793";"SFG";"sun flower seed(gr)";13,0834427
+"1794";"FFS";"full fat soya";41,7531013
+"1795";"CNG";"corn gluten";73,5576248
+"1796";"FFS";"full fat soya";40,2845535
+"1797";"PEE";"maïs wp";4,0500002
+"1798";"ANF";"animal feed";47,7511978
+"1801";"ANF";"animal feed";47,9595909
+"1802";"FRG";"wheat (ung)";11,1000004
+"1803";"SFG";"sun flower seed(gr)";14,6700964
+"1804";"EHH";"grass silage";16,6800003
+"1805";"TTS";"soya meal";52,1142845
+"1806";"CLZ";"rapeseed(ung)";21,9745235
+"1807";"ANF";"animal feed";50,3670387
+"1808";"PEE";"maïs wp";7,4400001
+"1809";"EHH";"grass silage";18,5100002
+"1810";"FFS";"full fat soya";42,1399612
+"1811";"SFG";"sun flower seed(gr)";11,5318356
+"1812";"FFS";"full fat soya";37,2633934
+"1813";"FRG";"wheat (ung)";12,8400002
+"1814";"FFS";"full fat soya";41,023468
+"1815";"CNG";"corn gluten";73,2401123
+"1816";"ANF";"animal feed";49,6739922
+"1817";"MPW";"milk powder & whey";12,9979429
+"1818";"MPW";"milk powder & whey";23,7979488
+"1819";"FRG";"wheat (ung)";11,6000004
+"1820";"CLZ";"rapeseed(ung)";18,25
+"1821";"FFS";"full fat soya";40,6171074
+"1823";"SFG";"sun flower seed(gr)";17,5215759
+"1825";"CNG";"corn gluten";66,8138275
+"1827";"SFG";"sun flower seed(gr)";23,4852676
+"1828";"FRG";"wheat (ung)";11,54
+"1829";"CNG";"corn gluten";65,4218826
+"1830";"SFG";"sun flower seed(gr)";24,0386639
+"1831";"MPW";"milk powder & whey";28,0163536
+"1833";"FFS";"full fat soya";41,0098267
+"1834";"PEE";"maïs wp";8,2399998
+"1835";"PEE";"maïs wp";7,3999996
+"1836";"SFG";"sun flower seed(gr)";19,8804417
+"1837";"TTS";"soya meal";50,7344627
+"1838";"MPW";"milk powder & whey";12,6368361
+"1839";"SFG";"sun flower seed(gr)";14,8383875
+"1840";"MPW";"milk powder & whey";24,8273659
+"1841";"CLZ";"rapeseed(ung)";22,2399998
+"1842";"FFS";"full fat soya";41,1231079
+"1843";"EHH";"grass silage";22,1499996
+"1844";"MPW";"milk powder & whey";39,4352875
+"1845";"PEE";"maïs wp";7,0599999
+"1846";"PEE";"maïs wp";7,8400002
+"1847";"FFS";"full fat soya";40,1976013
+"1848";"TTS";"soya meal";52,9142876
+"1849";"PEE";"maïs wp";7,9499998
+"1850";"ANF";"animal feed";57,3012009
+"1851";"MPW";"milk powder & whey";5,6706343
+"1852";"TTS";"soya meal";53,9080467
+"1853";"CLZ";"rapeseed(ung)";18,5599995
+"1855";"ANF";"animal feed";51,0823669
+"1856";"TTS";"soya meal";51,2082863
+"1857";"PEE";"maïs wp";7,7099996
+"1858";"EHH";"grass silage";13,1999998
+"1859";"FFS";"full fat soya";39,5021133
+"1860";"SFG";"sun flower seed(gr)";21,4505768
+"1861";"ANF";"animal feed";47,7193718
+"1862";"PEE";"maïs wp";7,3800001
+"1863";"SFG";"sun flower seed(gr)";16,0825176
+"1864";"CLZ";"rapeseed(ung)";18,5200005
+"1865";"ANF";"animal feed";53,636097
+"1866";"PEE";"maïs wp";7,4499998
+"1867";"TTS";"soya meal";51,6533661
+"1868";"FFS";"full fat soya";40,2797585
+"1869";"FRG";"wheat (ung)";10,6199999
+"1870";"SFG";"sun flower seed(gr)";14,0427008
+"1871";"PEE";"maïs wp";8,3000002
+"1872";"FFS";"full fat soya";40,3076401
+"1873";"FFS";"full fat soya";40,7788849
+"1875";"EHH";"grass silage";10,6999998
+"1876";"FFS";"full fat soya";40,6572762
+"1877";"TTS";"soya meal";51,9908981
+"1878";"FRG";"wheat (ung)";11,2517748
+"1879";"ANF";"animal feed";54,623127
+"1880";"FFS";"full fat soya";40,0556831
+"1881";"FRG";"wheat (ung)";11,3800001
+"1883";"FRG";"wheat (ung)";13,4890003
+"1884";"PEE";"maïs wp";6,75
+"1885";"MPW";"milk powder & whey";40,0927429
+"1886";"FRG";"wheat (ung)";12,5600004
+"1887";"EHH";"grass silage";20,3999996
+"1888";"EHH";"grass silage";12,1573
+"1889";"SFG";"sun flower seed(gr)";10,6836128
+"1890";"CNG";"corn gluten";68,5480652
+"1891";"CNG";"corn gluten";68,457756
+"1892";"SFG";"sun flower seed(gr)";12,132246
+"1893";"ANF";"animal feed";51,5893745
+"1894";"PEE";"maïs wp";7,8199997
+"1895";"EHH";"grass silage";21,3600006
+"1896";"PEE";"maïs wp";6,5500002
+"1897";"SFG";"sun flower seed(gr)";15,2541819
+"1898";"TTS";"soya meal";54,0851555
+"1899";"TTS";"soya meal";52,6966286
+"1900";"FRG";"wheat (ung)";11,4099998
+"1901";"TTS";"soya meal";53,0494804
+"1902";"SFG";"sun flower seed(gr)";13,6204329
+"1903";"CNG";"corn gluten";70,5686493
+"1904";"CNG";"corn gluten";67,7314377
+"1905";"FRG";"wheat (ung)";11,4700003
+"1906";"EHH";"grass silage";9,4099998
+"1907";"CLZ";"rapeseed(ung)";18,9099998
+"1908";"FFS";"full fat soya";39,8294182
+"1909";"FRG";"wheat (ung)";11,3999996
+"1910";"EHH";"grass silage";20,8600006
+"1911";"CNG";"corn gluten";64,7837219
+"1912";"CNG";"corn gluten";72,857666
+"1913";"CNG";"corn gluten";65,1916885
+"1914";"EHH";"grass silage";29,5300007
+"1915";"ANF";"animal feed";50,351181
+"1916";"PEE";"maïs wp";5,3299999
+"1917";"PEE";"maïs wp";6,6599998
+"1918";"MPW";"milk powder & whey";39,5455742
+"1919";"MPW";"milk powder & whey";11,426651
+"1920";"EHH";"grass silage";17,2800007
+"1921";"PEE";"maïs wp";6,79
+"1922";"CLZ";"rapeseed(ung)";21
+"1923";"EHH";"grass silage";13,3899994
+"1924";"FFS";"full fat soya";44,167572
+"1925";"MPW";"milk powder & whey";28,2713566
+"1926";"FRG";"wheat (ung)";13,5
+"1927";"CNG";"corn gluten";70,7439651
+"1928";"FFS";"full fat soya";43,1640549
+"1929";"MPW";"milk powder & whey";12,9692564
+"1930";"PEE";"maïs wp";7,7303176
+"1931";"FRG";"wheat (ung)";13,3900003
+"1932";"SFG";"sun flower seed(gr)";12,8390217
+"1933";"SFG";"sun flower seed(gr)";13,8132582
+"1934";"TTS";"soya meal";53,2879829
+"1935";"CNG";"corn gluten";64,8850784
+"1936";"CLZ";"rapeseed(ung)";15,3999996
+"1937";"EHH";"grass silage";11,3799992
+"1938";"FRG";"wheat (ung)";13,1000004
+"1939";"PEE";"maïs wp";7,1700001
+"1940";"SFG";"sun flower seed(gr)";18,1338234
+"1941";"EHH";"grass silage";8,8000002
+"1942";"FFS";"full fat soya";38,6385727
+"1943";"MPW";"milk powder & whey";27,0527859
+"1944";"CNG";"corn gluten";73,2835617
+"1945";"CNG";"corn gluten";69,9349747
+"1946";"CLZ";"rapeseed(ung)";24,5499992
+"1947";"PEE";"maïs wp";8,29
+"1948";"FFS";"full fat soya";39,4247932
+"1949";"ANF";"animal feed";56,7878113
+"1950";"TTS";"soya meal";50,9736519
+"1951";"TTS";"soya meal";54,420208
+"1952";"ANF";"animal feed";56,447464
+"1953";"CNG";"corn gluten";68,3338699
+"1954";"FRG";"wheat (ung)";12,46
+"1955";"CLZ";"rapeseed(ung)";19,2999992
+"1956";"CLZ";"rapeseed(ung)";22,6299992
+"1957";"EHH";"grass silage";15,25
+"1958";"PEE";"maïs wp";7,9699998
+"1959";"MPW";"milk powder & whey";37,629097
+"1960";"EHH";"grass silage";23
+"1961";"EHH";"grass silage";15,160017
+"1962";"ANF";"animal feed";50,8198814
+"1963";"FRG";"wheat (ung)";13,3999996
+"1964";"SFG";"sun flower seed(gr)";15,7514687
+"1965";"CLZ";"rapeseed(ung)";32,6699982
+"1966";"CLZ";"rapeseed(ung)";17,2600002
+"1967";"TTS";"soya meal";53,8547478
+"1968";"SFG";"sun flower seed(gr)";20,7704849
+"1969";"TTS";"soya meal";53,1356926
+"1970";"FFS";"full fat soya";41,6599274
+"1972";"FRG";"wheat (ung)";11,8999996
+"1973";"FRG";"wheat (ung)";13,0141325
+"1974";"ANF";"animal feed";53,618576
+"1975";"CLZ";"rapeseed(ung)";29,0900002
+"1977";"SFG";"sun flower seed(gr)";11,1291924
+"1978";"ANF";"animal feed";51,3647041
+"1979";"CLZ";"rapeseed(ung)";27,4200001
+"1980";"EHH";"grass silage";19,5
+"1981";"SFG";"sun flower seed(gr)";15,0879669
+"1982";"EHH";"grass silage";14,6400003
+"1983";"FFS";"full fat soya";39,9640274
+"1984";"FRG";"wheat (ung)";10,6800003
+"1985";"MPW";"milk powder & whey";21,3988819
+"1986";"PEE";"maïs wp";6,6300001
+"1987";"TTS";"soya meal";50,0559883
+"1988";"MPW";"milk powder & whey";3,0606437
+"1989";"PEE";"maïs wp";8,2700005
+"1990";"FFS";"full fat soya";41,0138817
+"1991";"PEE";"maïs wp";7,5500002
+"1992";"PEE";"maïs wp";6,1199999
+"1993";"FFS";"full fat soya";35,9438286
+"1994";"TTS";"soya meal";53,9237671
+"1995";"TTS";"soya meal";52,691864
+"1996";"TTS";"soya meal";51,6091957
+"1997";"FRG";"wheat (ung)";10,6999998
+"1998";"ANF";"animal feed";52,4650726
+"1999";"TTS";"soya meal";50,7455788
+"2000";"CLZ";"rapeseed(ung)";21,7099991
+"2001";"TTS";"soya meal";53,2497177
+"2002";"CNG";"corn gluten";70,6925125
+"2003";"PEE";"maïs wp";9,0600004
+"2004";"ANF";"animal feed";58,7495613
+"2005";"FFS";"full fat soya";40,1883507
+"2007";"ANF";"animal feed";53,5689507
+"2008";"TTS";"soya meal";51,9450798
+"2009";"FFS";"full fat soya";39,1262169
+"2010";"TTS";"soya meal";51,5909081
+"2011";"ANF";"animal feed";51,0921059
+"2012";"ANF";"animal feed";50,2394142
+"2013";"ANF";"animal feed";54,4585381
+"2014";"EHH";"grass silage";17,5
+"2015";"CLZ";"rapeseed(ung)";20,8999996
+"2016";"CLZ";"rapeseed(ung)";20,8700008
+"2017";"SFG";"sun flower seed(gr)";16,9721565
+"2018";"CLZ";"rapeseed(ung)";16,7299995
+"2019";"PEE";"maïs wp";5,0700002
+"2020";"FFS";"full fat soya";39,8065529
+"2021";"CNG";"corn gluten";69,3374252
+"2023";"PEE";"maïs wp";6,8899999
+"2024";"FRG";"wheat (ung)";13,4499998
+"2025";"FRG";"wheat (ung)";11,3000002
+"2026";"EHH";"grass silage";17,4400005
+"2027";"TTS";"soya meal";51,3574638
+"2028";"ANF";"animal feed";50,2321701
+"2030";"EHH";"grass silage";24,7700005
+"2031";"TTS";"soya meal";55,3530731
+"2032";"TTS";"soya meal";54,3624153
+"2033";"MPW";"milk powder & whey";38,4199524
+"2034";"CNG";"corn gluten";64,7721634
+"2035";"FFS";"full fat soya";39,9316177
+"2036";"TTS";"soya meal";55,5172424
+"2037";"TTS";"soya meal";51,5185585
+"2038";"CLZ";"rapeseed(ung)";20,2699986
+"2039";"FFS";"full fat soya";40,6926689
+"2040";"CLZ";"rapeseed(ung)";20,1000004
+"2041";"PEE";"maïs wp";7,3600001
+"2042";"CNG";"corn gluten";73,2378922
+"2043";"SFG";"sun flower seed(gr)";16,3345299
+"2044";"FFS";"full fat soya";39,8057137
+"2045";"SFG";"sun flower seed(gr)";12,3577032
+"2046";"MPW";"milk powder & whey";38,443634
+"2047";"TTS";"soya meal";52,5195961
+"2048";"EHH";"grass silage";11,8400002
+"2049";"SFG";"sun flower seed(gr)";18,5889874
+"2050";"ANF";"animal feed";50,3548698
+"2051";"EHH";"grass silage";11,0326996
+"2053";"TTS";"soya meal";53,8638992
+"2054";"FFS";"full fat soya";45,1608658
+"2055";"PEE";"maïs wp";6,4799995
+"2057";"FFS";"full fat soya";40,263382
+"2058";"MPW";"milk powder & whey";26,9115028
+"2059";"MPW";"milk powder & whey";25,369339
+"2060";"ANF";"animal feed";50,2580452
+"2061";"CLZ";"rapeseed(ung)";21,5628109
+"2062";"FRG";"wheat (ung)";12,0500002
+"2063";"FFS";"full fat soya";41,9831619
+"2064";"TTS";"soya meal";50,4027596
+"2065";"CLZ";"rapeseed(ung)";19,7999992
+"2066";"PEE";"maïs wp";6,8529582
+"2067";"FFS";"full fat soya";38,7096062
+"2068";"FRG";"wheat (ung)";12,8830004
+"2069";"EHH";"grass silage";25,9099998
+"2070";"TTS";"soya meal";52,4022331
+"2071";"MPW";"milk powder & whey";26,9908028
+"2072";"FRG";"wheat (ung)";12,1999998
+"2073";"FRG";"wheat (ung)";11,7866669
+"2074";"CLZ";"rapeseed(ung)";17,1844006
+"2075";"FFS";"full fat soya";40,4679184
+"2076";"EHH";"grass silage";19,6199989
+"2077";"FFS";"full fat soya";41,8407631
+"2078";"TTS";"soya meal";54,6275406
+"2079";"ANF";"animal feed";59,0794296
+"2080";"PEE";"maïs wp";8,4300003
+"2081";"FFS";"full fat soya";36,3851166
+"2082";"TTS";"soya meal";52,8748627
+"2083";"CNG";"corn gluten";71,3479996
+"2084";"CLZ";"rapeseed(ung)";24,1800003
+"2085";"FFS";"full fat soya";46,76091
+"2086";"FRG";"wheat (ung)";11,6999998
+"2087";"ANF";"animal feed";55,1436653
+"2088";"MPW";"milk powder & whey";12,5295458
+"2089";"FFS";"full fat soya";37,8162766
+"2090";"FFS";"full fat soya";40,5813522
+"2091";"CLZ";"rapeseed(ung)";23,2000008
+"2092";"SFG";"sun flower seed(gr)";14,7160091
+"2093";"CNG";"corn gluten";70,7184296
+"2094";"SFG";"sun flower seed(gr)";18,807291
+"2096";"EHH";"grass silage";15,6400003
+"2097";"FRG";"wheat (ung)";12
+"2098";"CNG";"corn gluten";67,8756104
+"2099";"CNG";"corn gluten";71,0652161
+"2100";"MPW";"milk powder & whey";13,2336206
+"2101";"MPW";"milk powder & whey";12,8119335
+"2102";"MPW";"milk powder & whey";38,4740677
+"2103";"MPW";"milk powder & whey";12,2707958
+"2104";"MPW";"milk powder & whey";38,8935089
+"2107";"PEE";"maïs wp";7,2199998
+"2111";"SFG";"sun flower seed(gr)";16,3313656
+"2112";"FFS";"full fat soya";41,4497414
+"2113";"EHH";"grass silage";17,9815998
+"2114";"CLZ";"rapeseed(ung)";24,1299992
+"2115";"FRG";"wheat (ung)";13,9200001
+"2117";"MPW";"milk powder & whey";38,8413773
+"2118";"CLZ";"rapeseed(ung)";18,4665489
+"2120";"MPW";"milk powder & whey";26,7148285
+"2121";"EHH";"grass silage";18,2999992
+"2122";"EHH";"grass silage";27,5499992
+"2123";"CLZ";"rapeseed(ung)";18,2999992
+"2124";"TTS";"soya meal";54,5454521
+"2125";"EHH";"grass silage";9,3579998
+"2126";"FFS";"full fat soya";39,0106964
+"2127";"FRG";"wheat (ung)";10,0299997
+"2128";"MPW";"milk powder & whey";8,4704723
+"2129";"CLZ";"rapeseed(ung)";20,9300003
+"2130";"PEE";"maïs wp";9,3099995
+"2131";"ANF";"animal feed";51,3645439
+"2132";"TTS";"soya meal";55,8991966
+"2133";"ANF";"animal feed";48,0081329
+"2134";"CLZ";"rapeseed(ung)";19,3899994
+"2135";"FRG";"wheat (ung)";13,1000004
+"2136";"EHH";"grass silage";25,56917
+"2137";"PEE";"maïs wp";7,5999999
+"2138";"TTS";"soya meal";50,9626274
+"2139";"PEE";"maïs wp";7,6500001
+"2140";"MPW";"milk powder & whey";13,2572613
+"2141";"CNG";"corn gluten";70,1634903
+"2142";"EHH";"grass silage";9,4499998
+"2143";"EHH";"grass silage";17,7700005
+"2144";"FRG";"wheat (ung)";11,8000002
+"2145";"SFG";"sun flower seed(gr)";11,5496359
+"2146";"FFS";"full fat soya";40,5664825
+"2147";"ANF";"animal feed";50,6912575
+"2148";"TTS";"soya meal";53,1718597
+"2149";"CNG";"corn gluten";74,6491699
+"2150";"MPW";"milk powder & whey";24,2254581
+"2151";"MPW";"milk powder & whey";12,6050978
+"2152";"FFS";"full fat soya";40,7518921
+"2153";"ANF";"animal feed";51,318325
+"2154";"TTS";"soya meal";54,2045441
+"2155";"ANF";"animal feed";52,380043
+"2156";"FRG";"wheat (ung)";13,71
+"2157";"TTS";"soya meal";56,3573875
+"2158";"TTS";"soya meal";51,5535088
+"2159";"CNG";"corn gluten";73,2825851
+"2160";"CNG";"corn gluten";64,2928391
+"2162";"SFG";"sun flower seed(gr)";14,5078783
+"2163";"MPW";"milk powder & whey";26,8672848
+"2164";"CNG";"corn gluten";65,7647629
+"2165";"FRG";"wheat (ung)";12,8000002
+"2166";"PEE";"maïs wp";8,5200005
+"2167";"FRG";"wheat (ung)";12,5699997
+"2168";"FFS";"full fat soya";39,2939949
+"2169";"TTS";"soya meal";51,3574638
+"2170";"CNG";"corn gluten";70,3123322
+"2171";"ANF";"animal feed";52,4297829
+"2172";"TTS";"soya meal";51,8644066
+"2174";"CLZ";"rapeseed(ung)";25,3199997
+"2175";"FFS";"full fat soya";40,1664505
+"2176";"PEE";"maïs wp";6,3600001
+"2177";"PEE";"maïs wp";7,29
+"2178";"CLZ";"rapeseed(ung)";17,9699993
+"2179";"CNG";"corn gluten";69,9318008
+"2180";"MPW";"milk powder & whey";34,7563782
+"2181";"PEE";"maïs wp";6,4099998
+"2182";"TTS";"soya meal";51,25
+"2183";"FFS";"full fat soya";38,9340134
+"2184";"CLZ";"rapeseed(ung)";24,1599979
+"2185";"PEE";"maïs wp";8,4700003
+"2186";"EHH";"grass silage";9,4899998
+"2187";"FFS";"full fat soya";40,7154083
+"2188";"CNG";"corn gluten";67,3076859
+"2189";"FFS";"full fat soya";40,6713371
+"2190";"TTS";"soya meal";52,2522507
+"2191";"CNG";"corn gluten";66,3657074
+"2192";"EHH";"grass silage";19,7600002
+"2194";"PEE";"maïs wp";7,27
+"2195";"PEE";"maïs wp";8,0145121
+"2196";"ANF";"animal feed";47,8924294
+"2197";"FRG";"wheat (ung)";11,9499998
+"2198";"TTS";"soya meal";57,8340988
+"2199";"PEE";"maïs wp";9,1599998
+"2200";"CLZ";"rapeseed(ung)";22,8400002
+"2202";"SFG";"sun flower seed(gr)";17,5525074
+"2203";"CNG";"corn gluten";69,8253708
+"2204";"CNG";"corn gluten";65,7377701
+"2205";"FFS";"full fat soya";40,1483116
+"2206";"CLZ";"rapeseed(ung)";23,289999
+"2207";"CLZ";"rapeseed(ung)";18,1000004
+"2208";"FRG";"wheat (ung)";11,1000004
+"2209";"ANF";"animal feed";56,1791
+"2210";"ANF";"animal feed";50,0123825
+"2212";"PEE";"maïs wp";7,6799998
+"2213";"SFG";"sun flower seed(gr)";16,4673691
+"2214";"ANF";"animal feed";52,9664001
+"2215";"MPW";"milk powder & whey";38,3338699
+"2216";"CNG";"corn gluten";65,3863983
+"2217";"TTS";"soya meal";54,838707
+"2218";"TTS";"soya meal";55,4545441
+"2219";"PEE";"maïs wp";6,9099998
+"2220";"TTS";"soya meal";53,1561432
+"2221";"CLZ";"rapeseed(ung)";23,9699993
+"2222";"FRG";"wheat (ung)";13,8000002
+"2223";"ANF";"animal feed";51,1923752
+"2224";"PEE";"maïs wp";8,2799997
+"2225";"TTS";"soya meal";49,1657372
+"2226";"MPW";"milk powder & whey";23,3996124
+"2227";"TTS";"soya meal";54,0632057
+"2228";"EHH";"grass silage";12,5
+"2229";"FFS";"full fat soya";39,5379372
+"2230";"TTS";"soya meal";54,2141228
+"2231";"CLZ";"rapeseed(ung)";23,8999996
+"2232";"PEE";"maïs wp";7,52
+"2233";"EHH";"grass silage";12,7399998
+"2234";"FRG";"wheat (ung)";11,7700005
+"2235";"TTS";"soya meal";53,7844048
+"2236";"CLZ";"rapeseed(ung)";21,5300007
+"2237";"FRG";"wheat (ung)";9,3599997
+"2239";"ANF";"animal feed";53,1976967
+"2240";"MPW";"milk powder & whey";36,431675
+"2241";"FFS";"full fat soya";38,7723351
+"2242";"PEE";"maïs wp";7,4242196
+"2244";"FRG";"wheat (ung)";11,7399998
+"2245";"ANF";"animal feed";54,1206169
+"2246";"ANF";"animal feed";49,9021721
+"2247";"CNG";"corn gluten";70,0502243
+"2248";"FFS";"full fat soya";40,5200195
+"2249";"ANF";"animal feed";51,5877914
+"2250";"TTS";"soya meal";53,9210396
+"2251";"CNG";"corn gluten";67,5663605
+"2252";"TTS";"soya meal";54,0632057
+"2253";"CLZ";"rapeseed(ung)";22,1199989
+"2254";"CNG";"corn gluten";69,0263062
+"2255";"PEE";"maïs wp";6,8099999
+"2256";"FFS";"full fat soya";41,2309151
+"2257";"MPW";"milk powder & whey";38,8455048
+"2258";"FRG";"wheat (ung)";11,21
+"2259";"TTS";"soya meal";52,3755646
+"2260";"FRG";"wheat (ung)";11,4799995
+"2261";"FRG";"wheat (ung)";11,5
+"2262";"MPW";"milk powder & whey";28,1681881
+"2263";"ANF";"animal feed";57,7143478
+"2264";"FRG";"wheat (ung)";11,8100004
+"2265";"FRG";"wheat (ung)";12,7619333
+"2266";"CLZ";"rapeseed(ung)";20,7399998
+"2267";"FFS";"full fat soya";41,774334
+"2269";"EHH";"grass silage";12,5600004
+"2270";"FRG";"wheat (ung)";14,6999998
+"2271";"FRG";"wheat (ung)";9,8599997
+"2272";"FRG";"wheat (ung)";11,7799997
+"2273";"FRG";"wheat (ung)";11,75
+"2274";"PEE";"maïs wp";7,3199997
+"2275";"EHH";"grass silage";27,0299988
+"2276";"MPW";"milk powder & whey";22,4002762
+"2277";"MPW";"milk powder & whey";12,3369226
+"2278";"CNG";"corn gluten";68,1204224
+"2279";"SFG";"sun flower seed(gr)";14,7950392
+"2280";"CNG";"corn gluten";70,7535172
+"2281";"FFS";"full fat soya";40,786293
+"2282";"TTS";"soya meal";53,0337067
+"2283";"ANF";"animal feed";49,4720688
+"2284";"TTS";"soya meal";55,0741196
+"2286";"CLZ";"rapeseed(ung)";19,0657768
+"2287";"CNG";"corn gluten";63,5586929
+"2289";"FRG";"wheat (ung)";11,5799999
+"2290";"TTS";"soya meal";55,3551331
+"2291";"CLZ";"rapeseed(ung)";20,4500008
+"2292";"SFG";"sun flower seed(gr)";21,6381626
+"2293";"FFS";"full fat soya";41,7430496
+"2294";"EHH";"grass silage";19,1599998
+"2296";"CLZ";"rapeseed(ung)";23,4699993
+"2297";"MPW";"milk powder & whey";24,5795174
+"2298";"CLZ";"rapeseed(ung)";20,4599991
+"2299";"EHH";"grass silage";10,6000004
+"2300";"EHH";"grass silage";15,1999998
+"2301";"PEE";"maïs wp";7,98
+"2302";"CLZ";"rapeseed(ung)";20,0900002
+"2303";"EHH";"grass silage";13,2700005
+"2304";"PEE";"maïs wp";8,04
+"2305";"CLZ";"rapeseed(ung)";19,7999992
+"2306";"MPW";"milk powder & whey";35,8550491
+"2307";"FFS";"full fat soya";40,449852
+"2308";"ANF";"animal feed";49,8935699
+"2309";"EHH";"grass silage";12,21
+"2311";"CNG";"corn gluten";70,5584106
+"2312";"ANF";"animal feed";51,3804512
+"2313";"TTS";"soya meal";50,0126724
+"2314";"PEE";"maïs wp";7,6599998
+"2315";"TTS";"soya meal";55,0574722
+"2316";"EHH";"grass silage";17,1599998
+"2317";"TTS";"soya meal";51,477272
+"2318";"PEE";"maïs wp";7,5599999
+"2319";"SFG";"sun flower seed(gr)";19,6729336
+"2320";"TTS";"soya meal";54,8794518
+"2321";"PEE";"maïs wp";7,0500002
+"2322";"SFG";"sun flower seed(gr)";17,0520897
+"2324";"MPW";"milk powder & whey";13,1542482
+"2326";"PEE";"maïs wp";7,4200001
+"2327";"CNG";"corn gluten";74,7050323
+"2328";"PEE";"maïs wp";7,9000001
+"2330";"EHH";"grass silage";11,3000002
+"2331";"ANF";"animal feed";54,5578918
+"2332";"PEE";"maïs wp";8,1999998
+"2333";"TTS";"soya meal";56,2068977
+"2334";"FRG";"wheat (ung)";7,0100002
+"2335";"CNG";"corn gluten";68,2492142
+"2336";"EHH";"grass silage";13,21
+"2337";"PEE";"maïs wp";6,8379841
+"2338";"CLZ";"rapeseed(ung)";19,7700005
+"2339";"CLZ";"rapeseed(ung)";18,9899998
+"2340";"ANF";"animal feed";55,2535286
+"2341";"CLZ";"rapeseed(ung)";18,1399994
+"2342";"PEE";"maïs wp";7,48
+"2343";"ANF";"animal feed";56,4672165
+"2345";"TTS";"soya meal";54,2955322
+"2346";"FFS";"full fat soya";41,277668
+"2347";"MPW";"milk powder & whey";38,5119362
+"2348";"CNG";"corn gluten";65,0300217
+"2349";"FFS";"full fat soya";39,8495903
+"2350";"CNG";"corn gluten";66,1756439
+"2351";"FFS";"full fat soya";38,1975517
+"2352";"TTS";"soya meal";51,9230766
+"2353";"SFG";"sun flower seed(gr)";15,8425322
+"2355";"TTS";"soya meal";54,3252602
+"2356";"CNG";"corn gluten";73,2995605
+"2357";"PEE";"maïs wp";8,3999996
+"2358";"EHH";"grass silage";18,7099991
+"2359";"CNG";"corn gluten";68,560173
+"2360";"SFG";"sun flower seed(gr)";17,6411171
+"2361";"FRG";"wheat (ung)";13,6999998
+"2362";"CNG";"corn gluten";64,9086304
+"2363";"TTS";"soya meal";51,9863815
+"2364";"MPW";"milk powder & whey";37,4955025
+"2365";"CNG";"corn gluten";69,4841843
+"2366";"CLZ";"rapeseed(ung)";20,1799984
+"2367";"EHH";"grass silage";13,3184004
+"2368";"TTS";"soya meal";53,0011292
+"2369";"MPW";"milk powder & whey";6,3829389
+"2370";"MPW";"milk powder & whey";36,8709984
+"2371";"TTS";"soya meal";52,6255722
+"2372";"TTS";"soya meal";55,8620682
+"2373";"FRG";"wheat (ung)";10,5600004
+"2374";"PEE";"maïs wp";8,1599998
+"2375";"CNG";"corn gluten";68,8516769
+"2376";"EHH";"grass silage";15,3999996
+"2377";"MPW";"milk powder & whey";17,1236458
+"2378";"SFG";"sun flower seed(gr)";12,3074665
+"2379";"TTS";"soya meal";53,0542984
+"2380";"PEE";"maïs wp";7,5
+"2381";"PEE";"maïs wp";8
+"2382";"CLZ";"rapeseed(ung)";24,9300003
+"2383";"FFS";"full fat soya";38,4957466
+"2384";"FFS";"full fat soya";40,4525032
+"2385";"ANF";"animal feed";50,9818039
+"2386";"MPW";"milk powder & whey";26,2723484
+"2387";"FFS";"full fat soya";40,3394127
+"2388";"ANF";"animal feed";48,7603149
+"2389";"TTS";"soya meal";49,4949493
+"2390";"CLZ";"rapeseed(ung)";19,5799999
+"2392";"MPW";"milk powder & whey";15,0275698
+"2393";"TTS";"soya meal";50,4504471
+"2394";"PEE";"maïs wp";7,4899998
+"2395";"SFG";"sun flower seed(gr)";12,591239
+"2396";"FFS";"full fat soya";40,6374969
+"2397";"CNG";"corn gluten";68,5114288
+"2398";"CNG";"corn gluten";65,1448288
+"2399";"SFG";"sun flower seed(gr)";17,9720192
+"2400";"EHH";"grass silage";19,2756157
+"2401";"MPW";"milk powder & whey";35,6701393
+"2402";"FRG";"wheat (ung)";13,7299995
+"2403";"EHH";"grass silage";11,7299995
+"2404";"FFS";"full fat soya";40,5055161
+"2405";"TTS";"soya meal";52,3699417
+"2406";"CLZ";"rapeseed(ung)";18,3700008
+"2407";"ANF";"animal feed";50,1517487
+"2408";"FFS";"full fat soya";39,3915329
+"2409";"CNG";"corn gluten";66,2584
+"2411";"MPW";"milk powder & whey";15,3817844
+"2412";"FRG";"wheat (ung)";10,4200001
+"2413";"EHH";"grass silage";8,8699999
+"2414";"MPW";"milk powder & whey";5,8851223
+"2416";"FRG";"wheat (ung)";12,0570002
+"2417";"MPW";"milk powder & whey";10,9007492
+"2418";"PEE";"maïs wp";7,1999998
+"2419";"CNG";"corn gluten";74,5713272
+"2420";"TTS";"soya meal";50,7445564
+"2422";"PEE";"maïs wp";6,9499998
+"2423";"CLZ";"rapeseed(ung)";15,3000002
+"2424";"SFG";"sun flower seed(gr)";20,4923706
+"2425";"PEE";"maïs wp";10,2999992
+"2426";"TTS";"soya meal";52,9076424
+"2427";"PEE";"maïs wp";8,3699999
+"2428";"TTS";"soya meal";49,4382019
+"2429";"MPW";"milk powder & whey";36,5566368
+"2430";"EHH";"grass silage";15,3400002
+"2431";"FRG";"wheat (ung)";12,8800001
+"2432";"FRG";"wheat (ung)";12,6099997
+"2433";"EHH";"grass silage";12,1199999
+"2434";"ANF";"animal feed";54,6389198
+"2435";"TTS";"soya meal";54,9828148
+"2436";"CNG";"corn gluten";66,3763809
+"2438";"EHH";"grass silage";26,2299995
+"2439";"ANF";"animal feed";55,7785339
+"2440";"MPW";"milk powder & whey";38,3822098
+"2441";"CLZ";"rapeseed(ung)";24,9659729
+"2444";"ANF";"animal feed";59,5985069
+"2445";"ANF";"animal feed";52,7246284
+"2446";"FRG";"wheat (ung)";12,6499996
+"2447";"ANF";"animal feed";46,2947311
+"2448";"FFS";"full fat soya";41,600872
+"2449";"EHH";"grass silage";8,1000004
+"2450";"CLZ";"rapeseed(ung)";26,9596291
+"2451";"FFS";"full fat soya";41,275074
+"2452";"FRG";"wheat (ung)";13,8999996
+"2453";"FRG";"wheat (ung)";13,1999998
+"2454";"CLZ";"rapeseed(ung)";23,0400009
+"2455";"EHH";"grass silage";16,2900009
+"2456";"MPW";"milk powder & whey";40,899498
+"2457";"CNG";"corn gluten";63,475235
+"2458";"CLZ";"rapeseed(ung)";20,3799992
+"2459";"CLZ";"rapeseed(ung)";19,6900005
+"2460";"PEE";"maïs wp";6,0500002
+"2461";"MPW";"milk powder & whey";27,7158794
+"2462";"TTS";"soya meal";53,9160042
+"2463";"EHH";"grass silage";9,3644667
+"2464";"PEE";"maïs wp";8,6099997
+"2465";"SFG";"sun flower seed(gr)";13,7648859
+"2466";"TTS";"soya meal";52,4193535
+"2467";"CNG";"corn gluten";66,5644379
+"2468";"CNG";"corn gluten";65,6843872
+"2469";"CLZ";"rapeseed(ung)";22,7657719
+"2470";"CNG";"corn gluten";65,3806381
+"2471";"MPW";"milk powder & whey";38,166172
+"2472";"PEE";"maïs wp";7,8600001
+"2473";"FRG";"wheat (ung)";11,3699999
+"2474";"PEE";"maïs wp";8,1400003
+"2475";"FRG";"wheat (ung)";10,1400003
+"2476";"MPW";"milk powder & whey";24,7280197
+"2477";"FRG";"wheat (ung)";11,9099998
+"2478";"TTS";"soya meal";52,8064117
+"2479";"CLZ";"rapeseed(ung)";23,1499996
+"2480";"CLZ";"rapeseed(ung)";17,4400005
+"2481";"ANF";"animal feed";55,1041069
+"2482";"CNG";"corn gluten";64,954071
+"2484";"PEE";"maïs wp";7,0100002
+"2485";"FFS";"full fat soya";40,3489952
+"2486";"MPW";"milk powder & whey";27,8540287
+"2487";"TTS";"soya meal";53,0612259
+"2488";"CLZ";"rapeseed(ung)";19,2800007
+"2489";"ANF";"animal feed";48,7093315
+"2490";"SFG";"sun flower seed(gr)";19,2294235
+"2491";"FRG";"wheat (ung)";14,3699999
+"2492";"FRG";"wheat (ung)";11,5699997
+"2493";"CNG";"corn gluten";69,1981506
+"2494";"CNG";"corn gluten";67,3647079
+"2495";"MPW";"milk powder & whey";38,1260719
+"2496";"FRG";"wheat (ung)";12,3000002
+"2498";"CLZ";"rapeseed(ung)";21,3899994
+"2499";"CNG";"corn gluten";69,1897888
+"2500";"FFS";"full fat soya";39,43396
+"2501";"MPW";"milk powder & whey";22,6869411
+"2502";"TTS";"soya meal";56,4719353
+"2503";"CLZ";"rapeseed(ung)";22,2399998
+"2504";"PEE";"maïs wp";7
+"2505";"CLZ";"rapeseed(ung)";21,6800003
+"2506";"FRG";"wheat (ung)";10,6000004
+"2507";"CNG";"corn gluten";68,092308
+"2508";"FFS";"full fat soya";43,7411613
+"2509";"CLZ";"rapeseed(ung)";25,7999992
+"2510";"MPW";"milk powder & whey";16,2420254
+"2511";"CNG";"corn gluten";64,8414688
+"2512";"EHH";"grass silage";22,6399994
+"2513";"CLZ";"rapeseed(ung)";17,6499996
+"2515";"CLZ";"rapeseed(ung)";19,4599991
+"2516";"TTS";"soya meal";54,9041748
+"2517";"TTS";"soya meal";54,0137634
+"2518";"CLZ";"rapeseed(ung)";24,2299995
+"2519";"SFG";"sun flower seed(gr)";13,0211363
+"2520";"CNG";"corn gluten";68,8401413
+"2522";"TTS";"soya meal";56,1282921
+"2523";"ANF";"animal feed";49,9844398
+"2524";"FFS";"full fat soya";41,553669
+"2525";"MPW";"milk powder & whey";12,4352932
+"2526";"MPW";"milk powder & whey";37,4240379
+"2527";"EHH";"grass silage";12,71
+"2528";"CLZ";"rapeseed(ung)";16,8799992
+"2529";"PEE";"maïs wp";9,3699999
+"2530";"CLZ";"rapeseed(ung)";32,2099991
+"2531";"SFG";"sun flower seed(gr)";19,8114376
+"2532";"CLZ";"rapeseed(ung)";19,6749001
+"2533";"PEE";"maïs wp";9,3400002
+"2534";"FRG";"wheat (ung)";8,04
+"2535";"CNG";"corn gluten";64,2227859
+"2536";"FFS";"full fat soya";39,8267555
+"2537";"EHH";"grass silage";14,0200005
+"2538";"EHH";"grass silage";19,7199993
+"2539";"FRG";"wheat (ung)";12,4200001
+"2540";"SFG";"sun flower seed(gr)";18,5644035
+"2541";"PEE";"maïs wp";8,7299995
+"2542";"CNG";"corn gluten";71,1584015
+"2543";"CLZ";"rapeseed(ung)";20,2799988
+"2544";"CLZ";"rapeseed(ung)";19,5099983
+"2545";"TTS";"soya meal";53,8728333
+"2546";"FRG";"wheat (ung)";11,4300003
+"2547";"ANF";"animal feed";54,0353279
+"2548";"FRG";"wheat (ung)";12,8199997
+"2549";"TTS";"soya meal";49,6080627
+"2550";"FRG";"wheat (ung)";13,5067997
+"2551";"SFG";"sun flower seed(gr)";15,3100538
+"2552";"MPW";"milk powder & whey";27,7717896
+"2553";"FRG";"wheat (ung)";11,6999998
+"2554";"CNG";"corn gluten";70,1165695
+"2556";"TTS";"soya meal";51,0807724
+"2557";"ANF";"animal feed";56,4087677
+"2558";"CNG";"corn gluten";64,8850327
+"2559";"FRG";"wheat (ung)";11,1999998
+"2560";"FRG";"wheat (ung)";12,1700001
+"2561";"PEE";"maïs wp";7,02
+"2562";"ANF";"animal feed";51,994812
+"2563";"PEE";"maïs wp";8,1999998
+"2564";"ANF";"animal feed";51,0371628
+"2565";"TTS";"soya meal";53,415451
+"2566";"EHH";"grass silage";18,2299995
+"2567";"MPW";"milk powder & whey";28,1908913
+"2568";"FFS";"full fat soya";38,9067841
+"2569";"FRG";"wheat (ung)";11,9280005
+"2570";"EHH";"grass silage";18,6599998
+"2571";"CLZ";"rapeseed(ung)";23,7399998
+"2572";"PEE";"maïs wp";8,3599997
+"2573";"CNG";"corn gluten";63,9841766
+"2574";"PEE";"maïs wp";8,3074989
+"2575";"EHH";"grass silage";11,8999996
+"2576";"TTS";"soya meal";53,6585388
+"2577";"MPW";"milk powder & whey";13,3308678
+"2578";"FFS";"full fat soya";39,446022
+"2579";"CNG";"corn gluten";70,098053
+"2580";"MPW";"milk powder & whey";34,8397484
+"2581";"TTS";"soya meal";55,311779
+"2582";"PEE";"maïs wp";9,5
+"2583";"FFS";"full fat soya";40,4913979
+"2584";"FRG";"wheat (ung)";10,5100002
+"2585";"ANF";"animal feed";45,9371223
+"2586";"TTS";"soya meal";53,485714
+"2587";"SFG";"sun flower seed(gr)";18,9266415
+"2588";"CNG";"corn gluten";69,8175278
+"2589";"EHH";"grass silage";11,6099997
+"2590";"ANF";"animal feed";51,1195564
+"2591";"EHH";"grass silage";9,6599998
+"2592";"TTS";"soya meal";54,3478241
+"2593";"MPW";"milk powder & whey";37,1019859
+"2594";"TTS";"soya meal";54,7537193
+"2595";"PEE";"maïs wp";8,0900002
+"2596";"MPW";"milk powder & whey";33,3998184
+"2597";"FFS";"full fat soya";39,8825722
+"2598";"EHH";"grass silage";7,8899999
+"2599";"PEE";"maïs wp";8,54
+"2600";"ANF";"animal feed";56,2721977
+"2601";"ANF";"animal feed";54,6722031
+"2602";"ANF";"animal feed";51,6705055
+"2603";"MPW";"milk powder & whey";35,1650963
+"2604";"CNG";"corn gluten";63,6334114
+"2605";"CNG";"corn gluten";71,2108688
+"2606";"EHH";"grass silage";14,6000004
+"2607";"CLZ";"rapeseed(ung)";20,7900009
+"2608";"FFS";"full fat soya";40,6172714
+"2609";"FFS";"full fat soya";41,5224609
+"2610";"FFS";"full fat soya";40,2963257
+"2611";"MPW";"milk powder & whey";38,5253448
+"2612";"FFS";"full fat soya";39,6248589
+"2613";"TTS";"soya meal";51,3574638
+"2614";"PEE";"maïs wp";8,2344341
+"2615";"CNG";"corn gluten";72,4779968
+"2616";"CLZ";"rapeseed(ung)";23,2600002
+"2617";"FFS";"full fat soya";40,841198
+"2619";"TTS";"soya meal";53,971138
+"2620";"FRG";"wheat (ung)";10,8999996
+"2621";"CNG";"corn gluten";68,4007111
+"2622";"EHH";"grass silage";14,6899996
+"2623";"CNG";"corn gluten";63,0124321
+"2624";"CLZ";"rapeseed(ung)";17,3999996
+"2625";"FFS";"full fat soya";41,1645241
+"2626";"EHH";"grass silage";6,9099998
+"2627";"PEE";"maïs wp";9,0200005
+"2628";"TTS";"soya meal";51,4285698
+"2629";"MPW";"milk powder & whey";23,6132603
+"2632";"FFS";"full fat soya";41,6356964
+"2633";"CNG";"corn gluten";64,9903793
+"2634";"PEE";"maïs wp";6,4299998
+"2635";"PEE";"maïs wp";7,5844836
+"2636";"FRG";"wheat (ung)";12,0799999
+"2637";"EHH";"grass silage";13,8900003
+"2638";"FFS";"full fat soya";40,8768997
+"2640";"FRG";"wheat (ung)";12,1800003
+"2641";"CNG";"corn gluten";70,8785019
+"2643";"TTS";"soya meal";55,0951843
+"2644";"CLZ";"rapeseed(ung)";23,7999992
+"2645";"SFG";"sun flower seed(gr)";19,9403648
+"2646";"FFS";"full fat soya";41,6913528
+"2647";"EHH";"grass silage";16,8199997
+"2648";"TTS";"soya meal";47,9405022
+"2649";"PEE";"maïs wp";6,6500001
+"2650";"ANF";"animal feed";52,6188049
+"2651";"FRG";"wheat (ung)";10,7200003
+"2652";"CNG";"corn gluten";69,064415
+"2653";"FRG";"wheat (ung)";11,8500004
+"2654";"CNG";"corn gluten";76,3258514
+"2655";"PEE";"maïs wp";9,0900002
+"2656";"FFS";"full fat soya";46,1884041
+"2657";"FRG";"wheat (ung)";12,5200005
+"2658";"FFS";"full fat soya";39,6139641
+"2659";"FFS";"full fat soya";39,5803871
+"2661";"ANF";"animal feed";56,8429871
+"2662";"PEE";"maïs wp";6,2599998
+"2664";"CLZ";"rapeseed(ung)";22,4972992
+"2665";"MPW";"milk powder & whey";5,8705525
+"2666";"EHH";"grass silage";11,7305002
+"2667";"FRG";"wheat (ung)";12,0299997
+"2669";"TTS";"soya meal";50,2242165
+"2670";"SFG";"sun flower seed(gr)";16,9340649
+"2671";"FFS";"full fat soya";39,8742943
+"2672";"FRG";"wheat (ung)";11
+"2673";"FRG";"wheat (ung)";13,3999996
+"2674";"CLZ";"rapeseed(ung)";19,9099998
+"2675";"PEE";"maïs wp";8,0799999
+"2676";"MPW";"milk powder & whey";38,4911194
+"2677";"TTS";"soya meal";53,4936981
+"2678";"CNG";"corn gluten";68,7846451
+"2679";"EHH";"grass silage";14,3400002
+"2680";"TTS";"soya meal";55,5806122
+"2681";"EHH";"grass silage";10,9399996
+"2682";"FRG";"wheat (ung)";12,5699997
+"2683";"TTS";"soya meal";53,5879631
+"2684";"TTS";"soya meal";55,7979355
+"2685";"FRG";"wheat (ung)";12,1000004
+"2686";"SFG";"sun flower seed(gr)";17,8461189
+"2687";"MPW";"milk powder & whey";28,3210888
+"2688";"FRG";"wheat (ung)";12,6899996
+"2689";"FFS";"full fat soya";41,0388794
+"2690";"TTS";"soya meal";54,2635651
+"2691";"FFS";"full fat soya";41,0563431
+"2692";"TTS";"soya meal";52,4293785
+"2693";"PEE";"maïs wp";7,1799998
+"2694";"ANF";"animal feed";53,7874413
+"2695";"MPW";"milk powder & whey";13,2953892
+"2696";"CLZ";"rapeseed(ung)";22,4799995
+"2697";"FFS";"full fat soya";40,7325211
+"2698";"SFG";"sun flower seed(gr)";11,0670853
+"2699";"MPW";"milk powder & whey";10,3579693
+"2700";"EHH";"grass silage";12,46
+"2701";"PEE";"maïs wp";7,8099999
+"2702";"TTS";"soya meal";53,2721024
+"2703";"PEE";"maïs wp";7,1100001
+"2704";"MPW";"milk powder & whey";23,7873993
+"2705";"CLZ";"rapeseed(ung)";18,4300003
+"2707";"MPW";"milk powder & whey";12,1218204
+"2708";"PEE";"maïs wp";6,7800002
+"2709";"CLZ";"rapeseed(ung)";22,5599995
+"2710";"MPW";"milk powder & whey";39,8041916
+"2711";"EHH";"grass silage";16,5900002
+"2712";"FRG";"wheat (ung)";12,3000002
+"2713";"CLZ";"rapeseed(ung)";21,2399998
+"2714";"PEE";"maïs wp";6,6100001
+"2715";"CLZ";"rapeseed(ung)";20,7299995
+"2716";"CNG";"corn gluten";71,5982437
+"2717";"EHH";"grass silage";12,8800001
+"2719";"CNG";"corn gluten";73,0455475
+"2720";"FFS";"full fat soya";41,3335876
+"2721";"EHH";"grass silage";17
+"2722";"CLZ";"rapeseed(ung)";22,1200008
+"2723";"FRG";"wheat (ung)";12,1199999
+"2724";"TTS";"soya meal";53,898304
+"2725";"PEE";"maïs wp";6,6799998
+"2726";"CLZ";"rapeseed(ung)";27,5699997
+"2728";"MPW";"milk powder & whey";26,1546574
+"2729";"EHH";"grass silage";18,1000004
+"2730";"MPW";"milk powder & whey";22,6976871
+"2731";"PEE";"maïs wp";7,77
+"2732";"EHH";"grass silage";11,3199997
+"2733";"FRG";"wheat (ung)";11,1599998
+"2734";"ANF";"animal feed";51,7629814
+"2735";"CLZ";"rapeseed(ung)";19,2999992
+"2736";"ANF";"animal feed";53,5934486
+"2737";"ANF";"animal feed";55,9330826
+"2738";"ANF";"animal feed";59,5290756
+"2739";"MPW";"milk powder & whey";37,3025398
+"2740";"CNG";"corn gluten";69,9990616
+"2741";"SFG";"sun flower seed(gr)";14,173667
+"2742";"PEE";"maïs wp";7,04
+"2743";"EHH";"grass silage";26,7199993
+"2744";"MPW";"milk powder & whey";36,2748413
+"2745";"TTS";"soya meal";54,3351326
+"2746";"PEE";"maïs wp";7,8499999
+"2747";"PEE";"maïs wp";8,1000004
+"2748";"FRG";"wheat (ung)";11,1999998
+"2749";"CNG";"corn gluten";64,3754654
+"2750";"PEE";"maïs wp";9,2799997
+"2751";"EHH";"grass silage";19,2099991
+"2752";"CLZ";"rapeseed(ung)";20,3500004
+"2753";"SFG";"sun flower seed(gr)";21,3169765
+"2754";"ANF";"animal feed";51,8334541
+"2755";"MPW";"milk powder & whey";22,1903439
+"2756";"MPW";"milk powder & whey";39,3545418
+"2757";"ANF";"animal feed";53,5077248
+"2758";"ANF";"animal feed";51,0502052
+"2759";"PEE";"maïs wp";7,73
+"2760";"TTS";"soya meal";54,2334099
+"2761";"TTS";"soya meal";52,4616966
+"2762";"CLZ";"rapeseed(ung)";19,3600006
+"2763";"CNG";"corn gluten";68,2533188
+"2764";"MPW";"milk powder & whey";39,140873
+"2765";"PEE";"maïs wp";6,9299998
+"2766";"CNG";"corn gluten";69,3833008
+"2767";"PEE";"maïs wp";8,216917
+"2768";"FFS";"full fat soya";41,2696075
+"2769";"MPW";"milk powder & whey";23,0266228
+"2770";"EHH";"grass silage";14,7200003
+"2771";"FRG";"wheat (ung)";11,8199997
+"2772";"FFS";"full fat soya";43,5265808
+"2773";"PEE";"maïs wp";9,7764263
+"2774";"ANF";"animal feed";54,7694702
+"2775";"CLZ";"rapeseed(ung)";21,8899994
+"2776";"PEE";"maïs wp";6,7299995
+"2777";"FRG";"wheat (ung)";7,6399999
+"2778";"PEE";"maïs wp";7,8000002
+"2779";"MPW";"milk powder & whey";12,3369389
+"2780";"CNG";"corn gluten";66,3852997
+"2781";"FFS";"full fat soya";35,2318611
+"2782";"EHH";"grass silage";17,6699982
+"2783";"FFS";"full fat soya";40,7693024
+"2784";"EHH";"grass silage";11,5200005
+"2785";"ANF";"animal feed";49,9401894
+"2786";"ANF";"animal feed";51,0793304
+"2787";"TTS";"soya meal";55,6313972
+"2788";"CLZ";"rapeseed(ung)";17
+"2790";"CNG";"corn gluten";67,0370331
+"2791";"PEE";"maïs wp";8,75
+"2792";"PEE";"maïs wp";8,6499996
+"2793";"ANF";"animal feed";52,3739738
+"2794";"CLZ";"rapeseed(ung)";22,2600002
+"2796";"ANF";"animal feed";55,1705742
+"2797";"CNG";"corn gluten";68,2527695
+"2798";"FRG";"wheat (ung)";10,3500004
+"2799";"FFS";"full fat soya";39,7801971
+"2800";"EHH";"grass silage";13,0200005
+"2801";"FRG";"wheat (ung)";11,6000004
+"2802";"CLZ";"rapeseed(ung)";18,3500004
+"2803";"CLZ";"rapeseed(ung)";16,4599991
+"2804";"MPW";"milk powder & whey";32,7117348
+"2805";"PEE";"maïs wp";7,48
+"2806";"MPW";"milk powder & whey";23,4656334
+"2807";"SFG";"sun flower seed(gr)";17,8737679
+"2808";"FFS";"full fat soya";39,371315
+"2809";"TTS";"soya meal";51,9208374
+"2810";"EHH";"grass silage";19,7700005
+"2811";"CNG";"corn gluten";66,9199524
+"2812";"ANF";"animal feed";49,4767227
+"2813";"FRG";"wheat (ung)";11,7600002
+"2814";"CLZ";"rapeseed(ung)";20,6900005
+"2815";"FRG";"wheat (ung)";12,4700003
+"2816";"FRG";"wheat (ung)";9,2399998
+"2817";"PEE";"maïs wp";7,5999999
+"2818";"MPW";"milk powder & whey";37,6955452
+"2819";"EHH";"grass silage";10,75
+"2820";"SFG";"sun flower seed(gr)";16,3425579
+"2821";"TTS";"soya meal";52,8326111
+"2822";"PEE";"maïs wp";7,4199996
+"2823";"EHH";"grass silage";14,3599997
+"2825";"EHH";"grass silage";20,1099987
+"2826";"FFS";"full fat soya";38,7322845
+"2827";"TTS";"soya meal";56,0948105
+"2829";"ANF";"animal feed";56,7038345
+"2830";"FFS";"full fat soya";40,9481277
+"2831";"CLZ";"rapeseed(ung)";26,1900005
+"2832";"SFG";"sun flower seed(gr)";15,8093204
+"2833";"FRG";"wheat (ung)";11
+"2834";"TTS";"soya meal";53,3333321
+"2835";"CNG";"corn gluten";68,3970947
+"2836";"FRG";"wheat (ung)";12,3000002
+"2837";"MPW";"milk powder & whey";21,4938774
+"2838";"ANF";"animal feed";50,7662773
+"2839";"CNG";"corn gluten";71,5337601
+"2840";"CNG";"corn gluten";69,6900787
+"2841";"ANF";"animal feed";50,7875862
+"2842";"CNG";"corn gluten";67,7235794
+"2844";"ANF";"animal feed";46,1574898
+"2845";"PEE";"maïs wp";7,6999998
+"2846";"ANF";"animal feed";53,8834343
+"2847";"CLZ";"rapeseed(ung)";22,8899994
+"2848";"TTS";"soya meal";54,1189919
+"2849";"TTS";"soya meal";53,2753983
+"2850";"EHH";"grass silage";20,2900009
+"2851";"CLZ";"rapeseed(ung)";23,5599995
+"2852";"CLZ";"rapeseed(ung)";19,4899998
+"2853";"CLZ";"rapeseed(ung)";18,7999992
+"2854";"PEE";"maïs wp";8,8299999
+"2856";"SFG";"sun flower seed(gr)";18,3915939
+"2857";"ANF";"animal feed";54,5970497
+"2858";"ANF";"animal feed";55,8982201
+"2859";"TTS";"soya meal";53,9884377
+"2860";"MPW";"milk powder & whey";13,4077806
+"2861";"PEE";"maïs wp";5,8699999
+"2862";"FFS";"full fat soya";40,7339401
+"2863";"MPW";"milk powder & whey";11,9946699
+"2864";"EHH";"grass silage";9,1199999
+"2865";"PEE";"maïs wp";8,6899996
+"2866";"TTS";"soya meal";50,6358376
+"2867";"CNG";"corn gluten";64,9281464
+"2868";"EHH";"grass silage";10,0100002
+"2869";"ANF";"animal feed";46,4083061
+"2870";"SFG";"sun flower seed(gr)";14,3532314
+"2871";"ANF";"animal feed";50,2820969
+"2872";"ANF";"animal feed";49,4649048
+"2874";"FRG";"wheat (ung)";13,1499996
+"2875";"MPW";"milk powder & whey";28,2181206
+"2876";"ANF";"animal feed";52,8156815
+"2877";"TTS";"soya meal";52,3163834
+"2878";"EHH";"grass silage";9,3000002
+"2880";"EHH";"grass silage";26,2715149
+"2881";"ANF";"animal feed";52,2013474
+"2882";"CNG";"corn gluten";66,8334732
+"2883";"MPW";"milk powder & whey";22,8657761
+"2884";"MPW";"milk powder & whey";25,6693668
+"2885";"EHH";"grass silage";17,1100006
+"2886";"FFS";"full fat soya";44,9482613
+"2887";"EHH";"grass silage";15,3199997
+"2888";"PEE";"maïs wp";8,9700003
+"2889";"CNG";"corn gluten";65,7048492
+"2890";"CNG";"corn gluten";69,247673
+"2891";"MPW";"milk powder & whey";6,5224061
+"2892";"FRG";"wheat (ung)";13,3100004
+"2893";"ANF";"animal feed";49,6210136
+"2894";"SFG";"sun flower seed(gr)";16,5516949
+"2895";"CLZ";"rapeseed(ung)";22,7199993
+"2897";"PEE";"maïs wp";7,8299999
+"2898";"FFS";"full fat soya";44,6257057
+"2899";"FRG";"wheat (ung)";13,6999998
+"2901";"PEE";"maïs wp";7,3899999
+"2902";"TTS";"soya meal";54,4642868
+"2903";"TTS";"soya meal";54,6803665
+"2904";"FRG";"wheat (ung)";12,6660004
+"2905";"CNG";"corn gluten";71,9637756
+"2906";"FFS";"full fat soya";41,9548531
+"2907";"PEE";"maïs wp";7,4899998
+"2908";"PEE";"maïs wp";7,3299999
+"2909";"CNG";"corn gluten";66,4728241
+"2910";"EHH";"grass silage";17,0944004
+"2911";"CLZ";"rapeseed(ung)";21,317873
+"2912";"CLZ";"rapeseed(ung)";22,3121128
+"2913";"ANF";"animal feed";56,1381226
+"2914";"ANF";"animal feed";49,3839455
+"2915";"SFG";"sun flower seed(gr)";21,5811405
+"2916";"EHH";"grass silage";13,3400002
+"2917";"MPW";"milk powder & whey";5,6174407
+"2918";"FFS";"full fat soya";40,789959
+"2919";"TTS";"soya meal";52,9885063
+"2920";"EHH";"grass silage";15,3000002
+"2921";"FRG";"wheat (ung)";11,9700003
+"2922";"SFG";"sun flower seed(gr)";11,5994177
+"2923";"FRG";"wheat (ung)";13,6999998
+"2924";"TTS";"soya meal";53,4665794
+"2925";"FFS";"full fat soya";37,9277191
+"2926";"CLZ";"rapeseed(ung)";23,6700001
+"2927";"FFS";"full fat soya";41,0481186
+"2928";"ANF";"animal feed";56,9043045
+"2929";"FFS";"full fat soya";37,3971519
+"2930";"PEE";"maïs wp";4,77
+"2931";"FRG";"wheat (ung)";11,0500002
+"2932";"CNG";"corn gluten";64,6859665
+"2933";"MPW";"milk powder & whey";24,3932419
+"2934";"TTS";"soya meal";52,0547943
+"2935";"ANF";"animal feed";49,0300598
+"2936";"FFS";"full fat soya";39,2088051
+"2937";"TTS";"soya meal";54,2626724
+"2938";"CNG";"corn gluten";68,6721725
+"2939";"PEE";"maïs wp";7,25
+"2941";"TTS";"soya meal";54,7344131
+"2942";"CNG";"corn gluten";69,6118546
+"2943";"FFS";"full fat soya";40,2114906
+"2944";"CNG";"corn gluten";62,481369
+"2945";"CNG";"corn gluten";70,809227
+"2946";"ANF";"animal feed";51,4405441
+"2947";"CLZ";"rapeseed(ung)";23,4062996
+"2949";"TTS";"soya meal";56,42202
+"2950";"MPW";"milk powder & whey";12,8327284
+"2952";"CLZ";"rapeseed(ung)";16,3799992
+"2953";"CLZ";"rapeseed(ung)";21,7721577
+"2954";"EHH";"grass silage";8,5
+"2955";"PEE";"maïs wp";6,7999997
+"2956";"TTS";"soya meal";56,8828201
+"2957";"MPW";"milk powder & whey";5,3059411
+"2958";"FFS";"full fat soya";40,1360893
+"2959";"PEE";"maïs wp";5,9400001
+"2960";"CNG";"corn gluten";67,7041855
+"2961";"TTS";"soya meal";47,972187
+"2962";"SFG";"sun flower seed(gr)";15,0577869
+"2963";"FRG";"wheat (ung)";11,5200005
+"2964";"PEE";"maïs wp";5,4899998
+"2965";"FFS";"full fat soya";38,8748398
+"2966";"EHH";"grass silage";16,8999996
+"2967";"PEE";"maïs wp";7,5300002
+"2968";"EHH";"grass silage";8,3299999
+"2969";"FFS";"full fat soya";39,0143471
+"2970";"PEE";"maïs wp";9,5799999
+"2971";"EHH";"grass silage";12,0699997
+"2974";"MPW";"milk powder & whey";23,4805832
+"2975";"EHH";"grass silage";23,1700001
+"2976";"MPW";"milk powder & whey";36,3861961
+"2977";"SFG";"sun flower seed(gr)";10,9163351
+"2978";"FRG";"wheat (ung)";13,1999998
+"2979";"MPW";"milk powder & whey";5,7941618
+"2980";"PEE";"maïs wp";8,5799999
+"2981";"FRG";"wheat (ung)";12,6999998
+"2982";"TTS";"soya meal";49,8853226
+"2983";"CNG";"corn gluten";69,5661926
+"2984";"ANF";"animal feed";50,429821
+"2985";"CNG";"corn gluten";69,1439438
+"2986";"TTS";"soya meal";51,949543
+"2988";"CNG";"corn gluten";64,6671829
+"2989";"FRG";"wheat (ung)";12,1999998
+"2990";"PEE";"maïs wp";5,9899998
+"2992";"EHH";"grass silage";20,5100002
+"2993";"ANF";"animal feed";56,800724
+"2994";"TTS";"soya meal";54,3554001
+"2995";"FFS";"full fat soya";38,2118835
+"2996";"FFS";"full fat soya";39,9783173
+"2997";"EHH";"grass silage";20,9499989
+"2998";"CLZ";"rapeseed(ung)";14,4700003
+"2999";"PEE";"maïs wp";6,3099999
+"3000";"SFG";"sun flower seed(gr)";17,586729
+"3001";"EHH";"grass silage";13,3500004
+"3002";"FRG";"wheat (ung)";11,8400002
+"3003";"PEE";"maïs wp";7,0100002
+"3004";"CLZ";"rapeseed(ung)";20,6200008
+"3005";"FFS";"full fat soya";40,9642372
+"3007";"CLZ";"rapeseed(ung)";16,7900009
+"3008";"CLZ";"rapeseed(ung)";20,6700001
+"3009";"TTS";"soya meal";52,272728
+"3010";"SFG";"sun flower seed(gr)";16,9104862
+"3011";"TTS";"soya meal";53,189064
+"3012";"CNG";"corn gluten";65,9709167
+"3013";"ANF";"animal feed";53,9804459
+"3014";"EHH";"grass silage";16,6299992
+"3015";"MPW";"milk powder & whey";37,9243279
+"3016";"PEE";"maïs wp";7,25
+"3017";"PEE";"maïs wp";7,75
+"3018";"TTS";"soya meal";52,5171623
+"3019";"ANF";"animal feed";55,7937279
+"3020";"CLZ";"rapeseed(ung)";19,1700001
+"3021";"TTS";"soya meal";52,4571419
+"3022";"FFS";"full fat soya";39,244381
+"3024";"ANF";"animal feed";55,0417824
+"3025";"MPW";"milk powder & whey";13,1492453
+"3027";"PEE";"maïs wp";7,7399998
+"3029";"SFG";"sun flower seed(gr)";19,0869045
+"3030";"PEE";"maïs wp";7,6700001
+"3031";"FFS";"full fat soya";41,367794
+"3032";"SFG";"sun flower seed(gr)";14,1571951
+"3033";"MPW";"milk powder & whey";12,2613478
+"3034";"CNG";"corn gluten";70,7973175
+"3035";"CLZ";"rapeseed(ung)";19,3400002
+"3036";"TTS";"soya meal";54,2099228
+"3037";"ANF";"animal feed";56,6612892
+"3038";"TTS";"soya meal";54,176075
+"3039";"PEE";"maïs wp";7,9000001
+"3040";"ANF";"animal feed";50,7892075
+"3041";"EHH";"grass silage";13,5699997
+"3042";"ANF";"animal feed";49,1204948
+"3043";"MPW";"milk powder & whey";38,0801735
+"3044";"EHH";"grass silage";19,6000004
+"3045";"EHH";"grass silage";10,1400003
+"3046";"ANF";"animal feed";49,7677231
+"3047";"ANF";"animal feed";53,003624
+"3048";"PEE";"maïs wp";6,6999998
+"3049";"PEE";"maïs wp";7,3299999
+"3050";"EHH";"grass silage";15,6000004
+"3051";"MPW";"milk powder & whey";4,9100442
+"3052";"FFS";"full fat soya";44,4560738
+"3053";"CNG";"corn gluten";67,1317596
+"3054";"EHH";"grass silage";16,3999996
+"3055";"CLZ";"rapeseed(ung)";20,4799995
+"3056";"CNG";"corn gluten";68,9718781
+"3057";"TTS";"soya meal";54,5246277
+"3058";"FFS";"full fat soya";37,6257019
+"3060";"SFG";"sun flower seed(gr)";12,5658216
+"3061";"CLZ";"rapeseed(ung)";25,8599987
+"3062";"CLZ";"rapeseed(ung)";26,6772404
+"3063";"CLZ";"rapeseed(ung)";19,4306946
+"3064";"MPW";"milk powder & whey";24,1080418
+"3065";"EHH";"grass silage";16,75
+"3066";"FRG";"wheat (ung)";11,6700001
+"3067";"EHH";"grass silage";14,25
+"3068";"PEE";"maïs wp";8,2600002
+"3069";"EHH";"grass silage";16,3599987
+"3070";"TTS";"soya meal";51,1286697
+"3071";"FRG";"wheat (ung)";12,71
+"3073";"ANF";"animal feed";57,5593109
+"3075";"PEE";"maïs wp";9,1099997
+"3076";"CNG";"corn gluten";70,8796921
+"3077";"TTS";"soya meal";53,8724365
+"3078";"FFS";"full fat soya";41,2301331
+"3079";"EHH";"grass silage";12,5699997
+"3080";"PEE";"maïs wp";7,6563354
+"3081";"FRG";"wheat (ung)";13,3299999
+"3082";"CLZ";"rapeseed(ung)";32,7900009
+"3083";"CLZ";"rapeseed(ung)";19,0200005
+"3084";"CLZ";"rapeseed(ung)";19,8199997
+"3085";"PEE";"maïs wp";7,68608
+"3086";"MPW";"milk powder & whey";38,8403549
+"3087";"TTS";"soya meal";54,176075
+"3088";"CLZ";"rapeseed(ung)";23,1800003
+"3089";"FRG";"wheat (ung)";13,6999998
+"3090";"MPW";"milk powder & whey";12,0312099
+"3091";"TTS";"soya meal";50,5107841
+"3092";"TTS";"soya meal";52,7088051
+"3093";"CLZ";"rapeseed(ung)";18,8899994
+"3094";"ANF";"animal feed";50,151516
+"3095";"PEE";"maïs wp";7,0900002
+"3096";"FRG";"wheat (ung)";13,3999996
+"3097";"MPW";"milk powder & whey";35,6492882
+"3098";"FRG";"wheat (ung)";12,0799999
+"3099";"ANF";"animal feed";52,5328217
+"3100";"CNG";"corn gluten";65,4423065
+"3101";"ANF";"animal feed";49,2838516
+"3102";"FRG";"wheat (ung)";12,5999994
+"3103";"PEE";"maïs wp";7,9499998
+"3104";"CLZ";"rapeseed(ung)";20,9500008
+"3105";"PEE";"maïs wp";6,77
+"3106";"TTS";"soya meal";52,9411774
+"3107";"CLZ";"rapeseed(ung)";18,2999992
+"3108";"ANF";"animal feed";54,6419144
+"3109";"EHH";"grass silage";15,8999996
+"3110";"FRG";"wheat (ung)";11,3999996
+"3111";"ANF";"animal feed";54,0940704
+"3113";"FRG";"wheat (ung)";11,9499998
+"3114";"ANF";"animal feed";49,3828545
+"3116";"PEE";"maïs wp";7,1399999
+"3117";"CLZ";"rapeseed(ung)";19,5499992
+"3118";"FFS";"full fat soya";41,8798828
+"3119";"CLZ";"rapeseed(ung)";18,5499992
+"3120";"ANF";"animal feed";49,9811974
+"3121";"CLZ";"rapeseed(ung)";16
+"3122";"CLZ";"rapeseed(ung)";23,8999996
+"3123";"CLZ";"rapeseed(ung)";22,5799999
+"3125";"CNG";"corn gluten";68,2350464
+"3126";"ANF";"animal feed";48,9502754
+"3127";"TTS";"soya meal";51,1972656
+"3129";"TTS";"soya meal";49,1615448
+"3130";"MPW";"milk powder & whey";36,6962814
+"3131";"FFS";"full fat soya";40,7008553
+"3132";"PEE";"maïs wp";6,0700002
+"3133";"FRG";"wheat (ung)";11,8000002
+"3134";"MPW";"milk powder & whey";12,5827208
+"3135";"CLZ";"rapeseed(ung)";20,2199993
+"3136";"FFS";"full fat soya";39,6879997
+"3137";"TTS";"soya meal";51,5288773
+"3138";"FFS";"full fat soya";41,0490303
+"3139";"TTS";"soya meal";53,9682541
+"3142";"ANF";"animal feed";48,5872765
+"3143";"FRG";"wheat (ung)";11,3933001
+"3144";"PEE";"maïs wp";7,6999998
+"3146";"ANF";"animal feed";49,9081764
+"3147";"TTS";"soya meal";55,9537582
+"3148";"PEE";"maïs wp";8,4099998
+"3149";"EHH";"grass silage";21,1000004
+"3150";"SFG";"sun flower seed(gr)";16,2668533
+"3151";"ANF";"animal feed";56,4889107
+"3152";"FFS";"full fat soya";40,8281403
+"3153";"PEE";"maïs wp";8,0600004
+"3154";"PEE";"maïs wp";7,4099998
+"3155";"FFS";"full fat soya";40,9952698
+"3157";"TTS";"soya meal";55,4919891
+"3159";"TTS";"soya meal";53,8011703
+"3160";"TTS";"soya meal";52
+"3161";"EHH";"grass silage";23,6599998
+"3162";"FFS";"full fat soya";40,3741989
+"3163";"FFS";"full fat soya";40,1895752
+"3164";"FFS";"full fat soya";38,4784584
+"3165";"CLZ";"rapeseed(ung)";26,1299992
+"3166";"TTS";"soya meal";54,9942589
+"3167";"EHH";"grass silage";17,3999996
+"3168";"EHH";"grass silage";18,7000008
+"3169";"CLZ";"rapeseed(ung)";22,6800003
+"3170";"PEE";"maïs wp";7,921
+"3171";"PEE";"maïs wp";7,46
+"3172";"MPW";"milk powder & whey";35,5692635
+"3173";"SFG";"sun flower seed(gr)";17,2332916
+"3174";"PEE";"maïs wp";7,5100002
+"3175";"FFS";"full fat soya";40,0058517
+"3176";"ANF";"animal feed";53,5387192
+"3177";"PEE";"maïs wp";8,6800003
+"3178";"MPW";"milk powder & whey";11,3403778
+"3179";"PEE";"maïs wp";6,52
+"3180";"FRG";"wheat (ung)";9,9799995
+"3181";"EHH";"grass silage";13,6000004
+"3182";"CNG";"corn gluten";71,2333832
+"3183";"MPW";"milk powder & whey";38,2928619
+"3184";"TTS";"soya meal";52,727272
+"3185";"EHH";"grass silage";14,5699997
+"3187";"SFG";"sun flower seed(gr)";18,6052551
+"3188";"CNG";"corn gluten";65,5155869
+"3189";"TTS";"soya meal";48,8687782
+"3190";"EHH";"grass silage";8,3900003
+"3191";"TTS";"soya meal";52,5287361
+"3192";"FRG";"wheat (ung)";11
+"3193";"EHH";"grass silage";9,8999996
+"3194";"ANF";"animal feed";54,1345673
+"3195";"EHH";"grass silage";14,1499996
+"3196";"FFS";"full fat soya";38,4974632
+"3197";"PEE";"maïs wp";12,3550978
+"3198";"MPW";"milk powder & whey";12,2619495
+"3199";"EHH";"grass silage";10,79
+"3200";"EHH";"grass silage";20,6499996
+"3201";"EHH";"grass silage";12,3800001
+"3203";"CNG";"corn gluten";70,114624
+"3204";"ANF";"animal feed";55,5429993
+"3205";"TTS";"soya meal";53,881279
+"3206";"PEE";"maïs wp";6,5700002
+"3207";"CLZ";"rapeseed(ung)";22,8399982
+"3208";"CLZ";"rapeseed(ung)";25,4804115
+"3209";"CLZ";"rapeseed(ung)";22,7568245
+"3210";"EHH";"grass silage";16,1499996
+"3211";"EHH";"grass silage";17,7800007
+"3212";"EHH";"grass silage";13,79
+"3213";"PEE";"maïs wp";5,96
+"3215";"FRG";"wheat (ung)";10,7399998
+"3216";"FFS";"full fat soya";38,3544006
+"3217";"TTS";"soya meal";55,3916016
+"3219";"FRG";"wheat (ung)";10,9799995
+"3220";"CNG";"corn gluten";64,6267776
+"3221";"FFS";"full fat soya";39,5318947
+"3222";"CNG";"corn gluten";72,803894
+"3223";"MPW";"milk powder & whey";10,3761015
+"3224";"TTS";"soya meal";54,3678169
+"3225";"SFG";"sun flower seed(gr)";16,8698711
+"3226";"PEE";"maïs wp";7,29
+"3227";"EHH";"grass silage";15,0699997
+"3228";"CNG";"corn gluten";69,8667068
+"3229";"FRG";"wheat (ung)";11,6300001
+"3230";"MPW";"milk powder & whey";12,2847805
+"3231";"EHH";"grass silage";12,8500004
+"3232";"PEE";"maïs wp";7,1500001
+"3233";"ANF";"animal feed";54,2069626
+"3234";"CNG";"corn gluten";67,1662598
+"3235";"CLZ";"rapeseed(ung)";24,8500004
+"3236";"CNG";"corn gluten";72,0345612
+"3237";"CLZ";"rapeseed(ung)";19,9599991
+"3238";"CNG";"corn gluten";72,6071243
+"3239";"CLZ";"rapeseed(ung)";18,7900009
+"3240";"CLZ";"rapeseed(ung)";23,5900002
+"3241";"FRG";"wheat (ung)";12,6499996
+"3242";"FFS";"full fat soya";41,5230064
+"3243";"FRG";"wheat (ung)";11,6199999
+"3244";"MPW";"milk powder & whey";11,749052
+"3246";"TTS";"soya meal";51,4285698
+"3247";"ANF";"animal feed";57,7227211
+"3248";"PEE";"maïs wp";6,21
+"3249";"FFS";"full fat soya";42,2593651
+"3250";"FFS";"full fat soya";40,4844627
+"3251";"FRG";"wheat (ung)";10,9899998
+"3252";"CNG";"corn gluten";67,0745239
+"3253";"ANF";"animal feed";53,8289604
+"3254";"CLZ";"rapeseed(ung)";16,6000004
+"3255";"CLZ";"rapeseed(ung)";24,0699997
+"3256";"CLZ";"rapeseed(ung)";15,6899996
+"3257";"FFS";"full fat soya";39,4206924
+"3258";"SFG";"sun flower seed(gr)";21,4528236
+"3259";"FFS";"full fat soya";40,7869148
+"3260";"ANF";"animal feed";55,3412056
+"3261";"FRG";"wheat (ung)";12,6999998
+"3262";"EHH";"grass silage";7,23
+"3263";"FFS";"full fat soya";41,5289726
+"3264";"MPW";"milk powder & whey";24,7588692
+"3265";"FRG";"wheat (ung)";10,6999998
+"3267";"EHH";"grass silage";16,9799995
+"3268";"CLZ";"rapeseed(ung)";22,8500004
+"3269";"TTS";"soya meal";54,7428589
+"3270";"EHH";"grass silage";13,75
+"3271";"CNG";"corn gluten";64,3449783
+"3272";"FFS";"full fat soya";39,070137
+"3273";"PEE";"maïs wp";7,0999999
+"3274";"TTS";"soya meal";54,7126427
+"3275";"CLZ";"rapeseed(ung)";22,7700005
+"3276";"ANF";"animal feed";51,1681519
+"3277";"EHH";"grass silage";13,1300001
+"3278";"MPW";"milk powder & whey";37,1740837
+"3279";"FFS";"full fat soya";37,3746376
+"3280";"MPW";"milk powder & whey";36,8197365
+"3281";"TTS";"soya meal";54,2431221
+"3282";"CLZ";"rapeseed(ung)";22,5
+"3283";"EHH";"grass silage";22,3500004
+"3284";"CLZ";"rapeseed(ung)";20,2900009
+"3285";"CLZ";"rapeseed(ung)";21,4300003
+"3287";"CLZ";"rapeseed(ung)";16,9200001
+"3289";"ANF";"animal feed";53,1842918
+"3290";"CNG";"corn gluten";64,6582336
+"3291";"MPW";"milk powder & whey";38,8926888
+"3292";"CNG";"corn gluten";64,1373596
+"3293";"CNG";"corn gluten";69,2541428
+"3294";"FRG";"wheat (ung)";11,9764004
+"3295";"EHH";"grass silage";14,2200003
+"3297";"TTS";"soya meal";53,1674194
+"3298";"CLZ";"rapeseed(ung)";20,3400002
+"3299";"TTS";"soya meal";56,1200943
+"3300";"SFG";"sun flower seed(gr)";14,3176498
+"3301";"CNG";"corn gluten";66,0169678
+"3302";"CLZ";"rapeseed(ung)";17,4500008
+"3303";"EHH";"grass silage";12,5600004
+"3304";"FFS";"full fat soya";41,7269363
+"3305";"ANF";"animal feed";50,9699783
+"3306";"FFS";"full fat soya";39,6902466
+"3307";"ANF";"animal feed";55,4018021
+"3308";"TTS";"soya meal";54,0510559
+"3309";"CNG";"corn gluten";69,1442642
+"3310";"ANF";"animal feed";51,8096886
+"3311";"CNG";"corn gluten";66,5465393
+"3312";"FFS";"full fat soya";40,6196442
+"3313";"EHH";"grass silage";12,8000002
+"3314";"FRG";"wheat (ung)";12,4799995
+"3315";"CLZ";"rapeseed(ung)";21,6899986
+"3316";"CLZ";"rapeseed(ung)";24,3899994
+"3317";"ANF";"animal feed";51,2385368
+"3318";"FRG";"wheat (ung)";11,3100004
+"3319";"EHH";"grass silage";16,3899994
+"3321";"CNG";"corn gluten";67,2373581
+"3322";"CNG";"corn gluten";65,9197617
+"3323";"SFG";"sun flower seed(gr)";15,7855759
+"3324";"TTS";"soya meal";50,3601799
+"3325";"PEE";"maïs wp";11,0200005
+"3326";"MPW";"milk powder & whey";26,8032894
+"3327";"TTS";"soya meal";53,5794182
+"3329";"EHH";"grass silage";19,3500004
+"3330";"FFS";"full fat soya";39,8326645
+"3331";"TTS";"soya meal";51,8140602
+"3332";"MPW";"milk powder & whey";12,6012058
+"3333";"FFS";"full fat soya";45,0734253
+"3334";"CNG";"corn gluten";63,6591911
+"3335";"CNG";"corn gluten";67,2176971
+"3336";"TTS";"soya meal";56,9794044
+"3337";"PEE";"maïs wp";6,1599998
+"3338";"FRG";"wheat (ung)";11,04
+"3339";"ANF";"animal feed";53,070446
+"3340";"FFS";"full fat soya";39,7207947
+"3341";"TTS";"soya meal";54,7791786
+"3342";"TTS";"soya meal";52,1640091
+"3344";"FFS";"full fat soya";44,0811577
+"3345";"ANF";"animal feed";47,6118164
+"3346";"EHH";"grass silage";13,9499998
+"3347";"ANF";"animal feed";47,335968
+"3348";"CLZ";"rapeseed(ung)";21,2858009
+"3349";"CLZ";"rapeseed(ung)";19,7999992
+"3350";"TTS";"soya meal";51,8888893
+"3351";"CLZ";"rapeseed(ung)";22,8999996
+"3352";"FRG";"wheat (ung)";9,1700001
+"3353";"TTS";"soya meal";52,0856857
+"3354";"TTS";"soya meal";50,9539833
+"3355";"PEE";"maïs wp";7,5900002
+"3356";"FFS";"full fat soya";39,4857864
+"3357";"PEE";"maïs wp";7,6399999
+"3358";"FRG";"wheat (ung)";13,6000004
+"3359";"FRG";"wheat (ung)";12,21
+"3360";"FRG";"wheat (ung)";10,7700005
+"3361";"FFS";"full fat soya";39,4921799
+"3362";"FFS";"full fat soya";39,4950409
+"3363";"CNG";"corn gluten";65,031395
+"3364";"CLZ";"rapeseed(ung)";22,8948994
+"3365";"MPW";"milk powder & whey";38,1866302
+"3366";"FRG";"wheat (ung)";12,8999996
+"3367";"FFS";"full fat soya";41,2848854
+"3368";"MPW";"milk powder & whey";12,1484995
+"3369";"FRG";"wheat (ung)";12,5500002
+"3370";"MPW";"milk powder & whey";12,7586803
+"3371";"FFS";"full fat soya";40,4631615
+"3372";"CNG";"corn gluten";64,6500015
+"3373";"PEE";"maïs wp";7,1700001
+"3374";"MPW";"milk powder & whey";13,7429037
+"3376";"TTS";"soya meal";56,7198143
+"3377";"PEE";"maïs wp";7,1900001
+"3378";"FRG";"wheat (ung)";10,9549999
+"3379";"FRG";"wheat (ung)";10,1800003
+"3380";"CNG";"corn gluten";69,6302032
+"3381";"CLZ";"rapeseed(ung)";15,5699997
+"3382";"EHH";"grass silage";16,5
+"3383";"MPW";"milk powder & whey";37,9732666
+"3384";"MPW";"milk powder & whey";9,0167503
+"3385";"CNG";"corn gluten";72,8699417
+"3386";"FFS";"full fat soya";38,1922455
+"3387";"CLZ";"rapeseed(ung)";23,3799992
+"3389";"PEE";"maïs wp";8,6000004
+"3390";"PEE";"maïs wp";10,6700001
+"3391";"PEE";"maïs wp";7,8000002
+"3392";"CNG";"corn gluten";64,1374054
+"3393";"MPW";"milk powder & whey";28,0771637
+"3394";"ANF";"animal feed";55,654541
+"3395";"TTS";"soya meal";56,150341
+"3396";"FRG";"wheat (ung)";11,6999998
+"3397";"MPW";"milk powder & whey";28,1673756
+"3398";"FFS";"full fat soya";38,5133667
+"3399";"FFS";"full fat soya";39,7566948
+"3400";"ANF";"animal feed";46,9857712
+"3401";"ANF";"animal feed";55,6719818
+"3402";"PEE";"maïs wp";7,3000002
+"3403";"CNG";"corn gluten";68,5276794
+"3405";"CNG";"corn gluten";63,8817482
+"3406";"FFS";"full fat soya";45,9556618
+"3407";"PEE";"maïs wp";7,79
+"3408";"ANF";"animal feed";50,0620346
+"3409";"CNG";"corn gluten";63,5330658
+"3410";"PEE";"maïs wp";7,4000001
+"3411";"ANF";"animal feed";49,421093
+"3413";"PEE";"maïs wp";8,3100004
+"3414";"ANF";"animal feed";49,2979431
+"3415";"SFG";"sun flower seed(gr)";21,9203434
+"3416";"TTS";"soya meal";51,7897072
+"3417";"TTS";"soya meal";53,9249153
+"3418";"TTS";"soya meal";53,6830368
+"3421";"PEE";"maïs wp";6,4599996
+"3422";"CNG";"corn gluten";64,8321762
+"3423";"ANF";"animal feed";59,0439072
+"3424";"FFS";"full fat soya";39,9717598
+"3425";"MPW";"milk powder & whey";27,7616673
+"3427";"FFS";"full fat soya";40,8671303
+"3428";"ANF";"animal feed";54,0607109
+"3429";"TTS";"soya meal";52,6666679
+"3430";"FRG";"wheat (ung)";12,6000004
+"3431";"FRG";"wheat (ung)";12,3400002
+"3432";"FRG";"wheat (ung)";12,3999996
+"3433";"CLZ";"rapeseed(ung)";18,7644939
+"3434";"CLZ";"rapeseed(ung)";21,3999996
+"3435";"CNG";"corn gluten";71,4565582
+"3436";"ANF";"animal feed";51,1454849
+"3437";"SFG";"sun flower seed(gr)";16,9806271
+"3438";"FRG";"wheat (ung)";11,1199999
+"3439";"CNG";"corn gluten";72,304039
+"3440";"TTS";"soya meal";50,9977837
+"3441";"MPW";"milk powder & whey";35,1170654
+"3442";"FFS";"full fat soya";42,0926628
+"3443";"FFS";"full fat soya";42,0842743
+"3444";"MPW";"milk powder & whey";27,0813255
+"3445";"ANF";"animal feed";49,3550224
+"3446";"EHH";"grass silage";24,1299992
+"3447";"EHH";"grass silage";17,7299995
+"3448";"MPW";"milk powder & whey";36,4978867
+"3449";"EHH";"grass silage";17,5599995
+"3450";"ANF";"animal feed";58,8144836
+"3451";"CNG";"corn gluten";63,8649902
+"3452";"EHH";"grass silage";7,96
+"3453";"TTS";"soya meal";55,0741196
+"3454";"CNG";"corn gluten";68,4609528
+"3456";"MPW";"milk powder & whey";30,6280975
+"3457";"TTS";"soya meal";54,038681
+"3458";"CLZ";"rapeseed(ung)";19,1800003
+"3459";"EHH";"grass silage";10,3699999
+"3460";"FFS";"full fat soya";40,8364944
+"3461";"FFS";"full fat soya";39,5307083
+"3462";"PEE";"maïs wp";7,1499996
+"3463";"FFS";"full fat soya";39,5233879
+"3464";"CLZ";"rapeseed(ung)";19,4300003
+"3465";"FRG";"wheat (ung)";12,6000004
+"3466";"PEE";"maïs wp";8,1499996
+"3467";"CLZ";"rapeseed(ung)";21,5100002
+"3468";"ANF";"animal feed";52,2562752
+"3469";"CLZ";"rapeseed(ung)";22,8299999
+"3470";"PEE";"maïs wp";7,8899999
+"3471";"CLZ";"rapeseed(ung)";15,4099998
+"3472";"MPW";"milk powder & whey";38,6589088
+"3473";"EHH";"grass silage";15,4399996
+"3474";"ANF";"animal feed";55,4335098
+"3475";"SFG";"sun flower seed(gr)";17,3006382
+"3476";"EHH";"grass silage";13,0100002
+"3477";"ANF";"animal feed";48,7622528
+"3478";"TTS";"soya meal";51,7084274
+"3479";"FRG";"wheat (ung)";10,9399996
+"3480";"FRG";"wheat (ung)";11,8999996
+"3481";"ANF";"animal feed";57,2535515
+"3482";"CLZ";"rapeseed(ung)";19,1299992
+"3483";"TTS";"soya meal";51,6201134
+"3484";"EHH";"grass silage";18,0899982
+"3485";"FFS";"full fat soya";38,1305885
+"3486";"CLZ";"rapeseed(ung)";19,7000008
+"3487";"MPW";"milk powder & whey";39,3266411
+"3488";"SFG";"sun flower seed(gr)";15,2692032
+"3489";"SFG";"sun flower seed(gr)";21,4959126
+"3490";"PEE";"maïs wp";10,5
+"3491";"FRG";"wheat (ung)";13,6300001
+"3492";"FFS";"full fat soya";37,2829323
+"3493";"CLZ";"rapeseed(ung)";15,8400002
+"3494";"CNG";"corn gluten";67,6706543
+"3495";"PEE";"maïs wp";8,0899992
+"3496";"ANF";"animal feed";57,6781387
+"3497";"TTS";"soya meal";54,7320442
+"3498";"MPW";"milk powder & whey";14,3166666
+"3499";"MPW";"milk powder & whey";36,2677383
+"3500";"CLZ";"rapeseed(ung)";16,8799992
+"3501";"FRG";"wheat (ung)";12,1000004
+"3502";"EHH";"grass silage";23,3400002
+"3503";"FFS";"full fat soya";40,8683891
+"3504";"EHH";"grass silage";21,0100002
+"3505";"ANF";"animal feed";55,2317276
+"3508";"CNG";"corn gluten";62,57024
+"3509";"FFS";"full fat soya";46,8742409
+"3510";"PEE";"maïs wp";7,9200001
+"3511";"FFS";"full fat soya";42,0766182
+"3512";"CLZ";"rapeseed(ung)";19,7600002
+"3513";"TTS";"soya meal";55,022831
+"3514";"FFS";"full fat soya";43,8422318
+"3515";"PEE";"maïs wp";8,1300001
+"3516";"ANF";"animal feed";50,8429184
+"3517";"PEE";"maïs wp";9,8099995
+"3518";"CLZ";"rapeseed(ung)";21,9349365
+"3519";"PEE";"maïs wp";7,6299996
+"3522";"EHH";"grass silage";13,6700001
+"3523";"FRG";"wheat (ung)";14,25
+"3525";"SFG";"sun flower seed(gr)";10,5402088
+"3526";"CLZ";"rapeseed(ung)";23,6315975
+"3527";"CNG";"corn gluten";66,7739334
+"3528";"ANF";"animal feed";51,6731873
+"3530";"TTS";"soya meal";54,1095886
+"3531";"FRG";"wheat (ung)";8,8900003
+"3532";"CLZ";"rapeseed(ung)";18,6100006
+"3533";"PEE";"maïs wp";6,9755335
+"3534";"PEE";"maïs wp";6,8800001
+"3535";"MPW";"milk powder & whey";12,7254314
+"3536";"TTS";"soya meal";55,2204208
+"3537";"TTS";"soya meal";52,6018105
+"3538";"MPW";"milk powder & whey";11,5794096
+"3539";"SFG";"sun flower seed(gr)";19,0916214
+"3540";"ANF";"animal feed";52,7887306
+"3541";"ANF";"animal feed";59,4049721
+"3542";"EHH";"grass silage";6,73
+"3543";"MPW";"milk powder & whey";37,5900383
+"3544";"MPW";"milk powder & whey";12,8780031
+"3545";"CNG";"corn gluten";71,2316132
+"3546";"EHH";"grass silage";15,4799995
+"3547";"FFS";"full fat soya";39,6747017
+"3548";"FRG";"wheat (ung)";9,4399996
+"3549";"SFG";"sun flower seed(gr)";18,7346478
+"3550";"CNG";"corn gluten";66,9543762
+"3551";"CLZ";"rapeseed(ung)";19,5499992
+"3552";"FRG";"wheat (ung)";12,6000004
+"3553";"MPW";"milk powder & whey";22,5659275
+"3554";"CLZ";"rapeseed(ung)";20,6900005
+"3556";"FFS";"full fat soya";39,1622314
+"3557";"FRG";"wheat (ung)";11,1199999
+"3558";"TTS";"soya meal";49,938385
+"3559";"PEE";"maïs wp";7,1199999
+"3560";"CLZ";"rapeseed(ung)";21,0799999
+"3561";"FRG";"wheat (ung)";12,8100004
+"3562";"TTS";"soya meal";54,292347
+"3563";"TTS";"soya meal";53,189064
+"3564";"CNG";"corn gluten";69,2610474
+"3565";"CLZ";"rapeseed(ung)";18,3899994
+"3566";"FRG";"wheat (ung)";11,3999996
+"3568";"PEE";"maïs wp";8,4399996
+"3569";"SFG";"sun flower seed(gr)";22,1461372
+"3570";"ANF";"animal feed";55,9120674
+"3572";"SFG";"sun flower seed(gr)";13,4814663
+"3573";"TTS";"soya meal";53,3180771
+"3574";"FRG";"wheat (ung)";11,8000002
+"3575";"SFG";"sun flower seed(gr)";16,6377983
+"3576";"FRG";"wheat (ung)";11,8900003
+"3577";"FFS";"full fat soya";40,050148
+"3578";"CLZ";"rapeseed(ung)";20
+"3579";"ANF";"animal feed";50,4237442
+"3580";"TTS";"soya meal";49,5990829
+"3581";"MPW";"milk powder & whey";35,5112991
+"3583";"CNG";"corn gluten";63,4272575
+"3584";"EHH";"grass silage";11,3999996
+"3585";"TTS";"soya meal";54,5350189
+"3586";"CNG";"corn gluten";69,8448029
+"3587";"EHH";"grass silage";17,6900005
+"3588";"TTS";"soya meal";54,2099228
+"3589";"TTS";"soya meal";53,7430153
+"3591";"TTS";"soya meal";53,6697273
+"3592";"SFG";"sun flower seed(gr)";18,7740688
+"3595";"CLZ";"rapeseed(ung)";16,7700005
+"3596";"FFS";"full fat soya";38,0179062
+"3597";"FFS";"full fat soya";38,0732002
+"3598";"MPW";"milk powder & whey";12,5584116
+"3599";"MPW";"milk powder & whey";13,5281019
+"3600";"CLZ";"rapeseed(ung)";16,5629292
+"3601";"FFS";"full fat soya";37,3993454
+"3602";"PEE";"maïs wp";9,2200003
+"3605";"TTS";"soya meal";50,3990898
+"3606";"CLZ";"rapeseed(ung)";22,0724525
+"3607";"TTS";"soya meal";54,120266
+"3608";"MPW";"milk powder & whey";38,8248138
+"3609";"MPW";"milk powder & whey";11,1383419
+"3610";"CNG";"corn gluten";63,8357697
+"3611";"CNG";"corn gluten";69,7106857
+"3612";"TTS";"soya meal";53,9393768
+"3613";"ANF";"animal feed";53,1528854
+"3614";"TTS";"soya meal";51,7937241
+"3615";"CLZ";"rapeseed(ung)";21,3600006
+"3616";"EHH";"grass silage";19,6399994
+"3617";"CLZ";"rapeseed(ung)";19,8299999
+"3618";"TTS";"soya meal";50,2455292
+"3619";"EHH";"grass silage";20,7700005
+"3620";"ANF";"animal feed";50,9301949
+"3621";"EHH";"grass silage";14,1999998
+"3622";"FRG";"wheat (ung)";12,9820004
+"3623";"PEE";"maïs wp";7,1300001
+"3624";"FRG";"wheat (ung)";11,3400002
+"3626";"CLZ";"rapeseed(ung)";17,1900005
+"3627";"CLZ";"rapeseed(ung)";24,7900009
+"3628";"CNG";"corn gluten";64,9543457
+"3629";"CLZ";"rapeseed(ung)";21,1100006
+"3630";"EHH";"grass silage";11,3999996
+"3631";"MPW";"milk powder & whey";38,2524986
+"3632";"SFG";"sun flower seed(gr)";15,1441183
+"3633";"FRG";"wheat (ung)";13,3240004
+"3635";"ANF";"animal feed";49,1472015
+"3636";"FFS";"full fat soya";40,4286194
+"3637";"TTS";"soya meal";49,3333321
+"3638";"FFS";"full fat soya";40,3054581
+"3639";"FFS";"full fat soya";41,8003693
+"3641";"ANF";"animal feed";53,9785385
+"3642";"TTS";"soya meal";56,2429695
+"3643";"FFS";"full fat soya";39,2620811
+"3645";"FRG";"wheat (ung)";14,8199997
+"3646";"MPW";"milk powder & whey";37,3917465
+"3647";"FFS";"full fat soya";39,4566307
+"3648";"ANF";"animal feed";59,1896362
+"3649";"TTS";"soya meal";54,3036575
+"3650";"FFS";"full fat soya";44,0363579
+"3651";"MPW";"milk powder & whey";27,1118526
+"3652";"ANF";"animal feed";46,8537941
+"3653";"CLZ";"rapeseed(ung)";22,8743801
+"3654";"CNG";"corn gluten";74,7067642
+"3655";"CLZ";"rapeseed(ung)";21,1200008
+"3656";"CLZ";"rapeseed(ung)";19,0499992
+"3658";"FRG";"wheat (ung)";12,2834997
+"3659";"MPW";"milk powder & whey";37,6171913
+"3660";"FFS";"full fat soya";40,2330475
+"3661";"EHH";"grass silage";9,1700001
+"3662";"FFS";"full fat soya";39,2580719
+"3663";"ANF";"animal feed";48,6756363
+"3664";"FRG";"wheat (ung)";11,3999996
+"3665";"ANF";"animal feed";51,4924278
+"3666";"PEE";"maïs wp";7,8200002
+"3668";"ANF";"animal feed";56,1298866
+"3669";"FFS";"full fat soya";39,8247375
+"3670";"CLZ";"rapeseed(ung)";19,1399994
+"3671";"TTS";"soya meal";53,2183914
+"3672";"FRG";"wheat (ung)";11,4499998
+"3673";"ANF";"animal feed";58,1945686
+"3674";"TTS";"soya meal";51,775486
+"3675";"TTS";"soya meal";53,1602707
+"3676";"FRG";"wheat (ung)";14
+"3677";"EHH";"grass silage";7,8099999
+"3678";"MPW";"milk powder & whey";35,0257454
+"3680";"ANF";"animal feed";46,9461937
+"3681";"EHH";"grass silage";17,8435116
+"3682";"FFS";"full fat soya";42,7187119
+"3683";"CNG";"corn gluten";69,8005753
+"3684";"PEE";"maïs wp";6,0900002
+"3685";"FRG";"wheat (ung)";10,8299999
+"3686";"TTS";"soya meal";58,863636
+"3687";"FRG";"wheat (ung)";11,1300001
+"3688";"EHH";"grass silage";16,4699993
+"3689";"FFS";"full fat soya";38,2212029
+"3690";"TTS";"soya meal";53,9351845
+"3691";"FRG";"wheat (ung)";12,9399996
+"3692";"FRG";"wheat (ung)";12
+"3693";"ANF";"animal feed";54,3599777
+"3694";"FFS";"full fat soya";38,8870049
+"3695";"FRG";"wheat (ung)";10,3000002
+"3696";"TTS";"soya meal";55,8486252
+"3697";"TTS";"soya meal";52,6198463
+"3698";"PEE";"maïs wp";7,8799996
+"3699";"CNG";"corn gluten";62,8260345
+"3700";"FFS";"full fat soya";38,5116577
+"3701";"FRG";"wheat (ung)";10,8500004
+"3702";"CLZ";"rapeseed(ung)";19,0758801
+"3703";"PEE";"maïs wp";7,1999998
+"3704";"CNG";"corn gluten";71,122673
+"3705";"MPW";"milk powder & whey";21,941227
+"3706";"TTS";"soya meal";51,5570946
+"3707";"ANF";"animal feed";50,5545998
+"3708";"CNG";"corn gluten";60,8430977
+"3709";"MPW";"milk powder & whey";28,5850258
+"3710";"FFS";"full fat soya";39,3739395
+"3711";"TTS";"soya meal";55,227272
+"3712";"FRG";"wheat (ung)";10,5900002
+"3713";"ANF";"animal feed";53,8421593
+"3714";"FFS";"full fat soya";41,5125809
+"3715";"CLZ";"rapeseed(ung)";25,7000008
+"3717";"ANF";"animal feed";49,8178444
+"3719";"CLZ";"rapeseed(ung)";21,0499992
+"3720";"TTS";"soya meal";54,0723991
+"3722";"MPW";"milk powder & whey";14,0776815
+"3723";"EHH";"grass silage";14,6999998
+"3724";"CNG";"corn gluten";70,2072525
+"3725";"SFG";"sun flower seed(gr)";12,5777388
+"3726";"PEE";"maïs wp";7,9899998
+"3727";"MPW";"milk powder & whey";35,3111
+"3728";"TTS";"soya meal";52,1239967
+"3729";"SFG";"sun flower seed(gr)";18,3465633
+"3730";"TTS";"soya meal";51,5323486
+"3731";"CLZ";"rapeseed(ung)";18,3799992
+"3732";"EHH";"grass silage";16,7000008
+"3733";"FFS";"full fat soya";41,237072
+"3734";"MPW";"milk powder & whey";34,4764557
+"3735";"PEE";"maïs wp";8,4200001
+"3736";"FRG";"wheat (ung)";11,3299999
+"3737";"EHH";"grass silage";14,5299997
+"3738";"CLZ";"rapeseed(ung)";19,7000008
+"3739";"FFS";"full fat soya";38,314827
+"3740";"PEE";"maïs wp";6,8600001
+"3741";"CLZ";"rapeseed(ung)";21,5599995
+"3742";"FRG";"wheat (ung)";12,04
+"3743";"FFS";"full fat soya";43,5870781
+"3744";"ANF";"animal feed";54,3975334
+"3745";"PEE";"maïs wp";6,8200002
+"3746";"ANF";"animal feed";57,2661858
+"3747";"CLZ";"rapeseed(ung)";25,1800003
+"3748";"ANF";"animal feed";51,7176781
+"3749";"EHH";"grass silage";12,4700003
+"3750";"TTS";"soya meal";51,7045441
+"3751";"ANF";"animal feed";58,357914
+"3752";"EHH";"grass silage";18,7799988
+"3753";"CNG";"corn gluten";70,1393738
+"3754";"ANF";"animal feed";56,2655373
+"3755";"CLZ";"rapeseed(ung)";21
+"3756";"FFS";"full fat soya";44,7444839
+"3757";"ANF";"animal feed";53,9381027
+"3758";"ANF";"animal feed";53,2382126
+"3760";"PEE";"maïs wp";7,1599998
+"3761";"TTS";"soya meal";52,2573357
+"3762";"TTS";"soya meal";55,5681801
+"3763";"CNG";"corn gluten";75,6412888
+"3764";"FRG";"wheat (ung)";11,8000002
+"3765";"TTS";"soya meal";51,2791977
+"3766";"SFG";"sun flower seed(gr)";10,8639784
+"3767";"CNG";"corn gluten";62,7053452
+"3768";"ANF";"animal feed";53,8631668
+"3769";"ANF";"animal feed";54,4026527
+"3770";"CLZ";"rapeseed(ung)";24,3299999
+"3771";"TTS";"soya meal";53,5714302
+"3772";"TTS";"soya meal";51,4541397
+"3773";"PEE";"maïs wp";5,6999998
+"3774";"MPW";"milk powder & whey";26,2107735
+"3775";"CLZ";"rapeseed(ung)";15,8199997
+"3776";"PEE";"maïs wp";6,6900001
+"3779";"MPW";"milk powder & whey";5,6555328
+"3780";"CNG";"corn gluten";62,7140465
+"3781";"EHH";"grass silage";7,3800001
+"3782";"TTS";"soya meal";52,2573357
+"3783";"FRG";"wheat (ung)";12,8000002
+"3784";"TTS";"soya meal";53,3034706
+"3785";"PEE";"maïs wp";4,4200001
+"3786";"ANF";"animal feed";48,9962006
+"3787";"CNG";"corn gluten";70,292572
+"3788";"FFS";"full fat soya";36,4919205
+"3789";"EHH";"grass silage";8,1300001
+"3790";"PEE";"maïs wp";8,9300003
+"3791";"MPW";"milk powder & whey";27,1463165
+"3792";"EHH";"grass silage";17,2399998
+"3793";"PEE";"maïs wp";8,8400002
+"3794";"MPW";"milk powder & whey";20,8137989
+"3795";"TTS";"soya meal";54,1570435
+"3796";"PEE";"maïs wp";11,6499996
+"3797";"TTS";"soya meal";53,6748314
+"3798";"TTS";"soya meal";52,7522964
+"3799";"TTS";"soya meal";51,9187355
+"3800";"EHH";"grass silage";18,4799995
+"3801";"CLZ";"rapeseed(ung)";16,7299995
+"3802";"TTS";"soya meal";54,0757751
+"3803";"FFS";"full fat soya";43,6652527
+"3804";"FRG";"wheat (ung)";11,3000002
+"3805";"CNG";"corn gluten";65,6066055
+"3807";"TTS";"soya meal";51,2557068
+"3808";"FRG";"wheat (ung)";10,75
+"3809";"ANF";"animal feed";52,3975677
+"3810";"CNG";"corn gluten";67,8248367
+"3811";"CNG";"corn gluten";72,0204849
+"3812";"CLZ";"rapeseed(ung)";21,6599998
+"3813";"TTS";"soya meal";51,47369
+"3814";"FRG";"wheat (ung)";9,1800003
+"3815";"TTS";"soya meal";54,41008
+"3816";"MPW";"milk powder & whey";23,8854446
+"3817";"ANF";"animal feed";51,2205734
+"3818";"CLZ";"rapeseed(ung)";21,6271
+"3819";"FFS";"full fat soya";38,5858154
+"3821";"CLZ";"rapeseed(ung)";17,7999992
+"3822";"TTS";"soya meal";52,1889381
+"3824";"EHH";"grass silage";24,0599995
+"3825";"CNG";"corn gluten";69,3777008
+"3826";"TTS";"soya meal";54,6697006
+"3827";"ANF";"animal feed";48,7029724
+"3828";"TTS";"soya meal";51,4384346
+"3829";"MPW";"milk powder & whey";36,7313271
+"3831";"CNG";"corn gluten";71,2311859
+"3832";"FFS";"full fat soya";47,7062302
+"3833";"FFS";"full fat soya";39,3864403
+"3834";"CNG";"corn gluten";66,7306366
+"3835";"TTS";"soya meal";52,54813
+"3836";"EHH";"grass silage";15,8999996
+"3838";"TTS";"soya meal";52,2883301
+"3839";"SFG";"sun flower seed(gr)";16,5104637
+"3840";"CLZ";"rapeseed(ung)";20,7600002
+"3841";"TTS";"soya meal";51,6741066
+"3842";"SFG";"sun flower seed(gr)";14,8099756
+"3843";"MPW";"milk powder & whey";5,2460356
+"3844";"CLZ";"rapeseed(ung)";18,6800003
+"3845";"ANF";"animal feed";53,9744873
+"3846";"FRG";"wheat (ung)";12,9899998
+"3847";"EHH";"grass silage";9,79
+"3848";"CNG";"corn gluten";65,3828278
+"3849";"CNG";"corn gluten";67,6313248
+"3850";"ANF";"animal feed";52,1359901
+"3851";"FRG";"wheat (ung)";11,2200003
+"3852";"FRG";"wheat (ung)";12,6099997
+"3853";"MPW";"milk powder & whey";35,9833679
+"3854";"TTS";"soya meal";55,53022
+"3855";"CNG";"corn gluten";65,7701874
+"3856";"CLZ";"rapeseed(ung)";17,5499992
+"3860";"MPW";"milk powder & whey";37,0650253
+"3861";"CLZ";"rapeseed(ung)";21,9400005
+"3862";"ANF";"animal feed";54,2583199
+"3863";"EHH";"grass silage";10,1999998
+"3864";"FRG";"wheat (ung)";15,8400002
+"3865";"MPW";"milk powder & whey";22,8537159
+"3866";"MPW";"milk powder & whey";11,6477985
+"3867";"EHH";"grass silage";13,3999996
+"3868";"CLZ";"rapeseed(ung)";21,4599991
+"3869";"ANF";"animal feed";53,1941986
+"3871";"CLZ";"rapeseed(ung)";18,9899998
+"3872";"CNG";"corn gluten";64,988472
+"3873";"CNG";"corn gluten";71,6007156
+"3874";"CNG";"corn gluten";66,8431168
+"3875";"CNG";"corn gluten";69,8302536
+"3876";"TTS";"soya meal";51,7357216
+"3877";"FFS";"full fat soya";40,5874329
+"3878";"CLZ";"rapeseed(ung)";23,2299995
+"3879";"MPW";"milk powder & whey";21,7668362
+"3880";"FRG";"wheat (ung)";12,3599997
+"3881";"FRG";"wheat (ung)";12
+"3883";"FRG";"wheat (ung)";12,3000002
+"3884";"MPW";"milk powder & whey";11,0879765
+"3885";"MPW";"milk powder & whey";12,8214426
+"3887";"CNG";"corn gluten";64,9446945
+"3888";"MPW";"milk powder & whey";34,243576
+"3890";"FFS";"full fat soya";40,2117882
+"3891";"MPW";"milk powder & whey";21,2453976
+"3892";"TTS";"soya meal";54,7756042
+"3893";"CNG";"corn gluten";65,9523926
+"3894";"FRG";"wheat (ung)";11,2399998
+"3895";"EHH";"grass silage";11,4303999
+"3896";"ANF";"animal feed";54,3186722
+"3897";"FRG";"wheat (ung)";11,8800001
+"3898";"TTS";"soya meal";54,3478241
+"3899";"CNG";"corn gluten";68,5937576
+"3900";"EHH";"grass silage";19,7999992
+"3902";"ANF";"animal feed";52,1349602
+"3903";"SFG";"sun flower seed(gr)";13,8059759
+"3904";"CNG";"corn gluten";69,1652527
+"3906";"EHH";"grass silage";15
+"3907";"FFS";"full fat soya";38,5917091
+"3908";"ANF";"animal feed";50,353508
